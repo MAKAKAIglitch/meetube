@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Kanal sahypalarynda gizle</string>
     <string name="mobile_settings_hidden_live">Göni ýaýlymlar</string>
     <string name="mobile_settings_hidden_live_subscriptions">Göni ýaýlymlary ýazylan kanallaryň sanawynda gizle</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Wideo menýusy</string>
+    <string name="mobile_settings_video_menu_summary">⋮ menýusynda nämäniň görkeziljekdigini saýlaň</string>
+    <string name="mobile_settings_video_menu_note">Wideo üçin ⋮ menýusynda we bölümi basyp saklanyňyzda açylýan menýuda görkezilýänler. Her bir bölüm diňe degişli ýerinde görkezilýär.</string>
+    <string name="mobile_settings_menu_play">Oýnatmak</string>
+    <string name="mobile_settings_menu_queue_add">Nobata goş</string>
+    <string name="mobile_settings_menu_save">Ýatda saklamak</string>
+    <string name="mobile_settings_menu_recent_playlist">Iň soňky ulanylan sanawa goş</string>
+    <string name="mobile_settings_menu_save_playlist">Sanawy ýatda sakla ýa-da aýyr</string>
+    <string name="mobile_settings_menu_channel">Kanal we maslahatlar</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Ýazylan kanallardan gizle</string>
+    <string name="mobile_settings_menu_share">Paýlaşmak we maglumatlar</string>
+    <string name="mobile_settings_menu_playlists">Sanawlar</string>
+    <string name="mobile_settings_menu_tabs">Bölüm menýusy</string>
+    <string name="mobile_settings_menu_move_section">Ýokary ýa-da aşak geçir</string>
+    <string name="mobile_settings_menu_usual_order">Adaty tertip</string>
+    <string name="mobile_settings_menu_usual_order_summary">Menýu elementlerini öňki ýerlerine gaýtarmak</string>
+    <string name="mobile_settings_menu_usual_order_done">Menýu tertibi dikeldildi</string>
+    <string name="mobile_settings_thumbnails">Kiçi suratlar</string>
+    <string name="mobile_settings_thumbnails_default">Wideony ýüklän adamyň saýlan suraty</string>
+    <string name="mobile_settings_thumbnails_start">Wideonyň başyndan alnan kadry</string>
+    <string name="mobile_settings_thumbnails_middle">Wideonyň ortasyndan alnan kadry</string>
+    <string name="mobile_settings_thumbnails_end">Wideonyň soňundan alnan kadry</string>
+    <string name="mobile_settings_original_titles">Asyl atlar</string>
+    <string name="mobile_settings_original_titles_summary">Atlary YouTube terjimesinde däl-de, asyl dilinde görkez</string>
 </resources>
