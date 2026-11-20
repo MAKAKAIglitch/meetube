@@ -161,7 +161,7 @@
     <string name="mobile_settings_hidden_watched_later">Выдаляць прагледжаныя відэа са спіса «Глядзець пазней»</string>
     <string name="mobile_settings_hidden_watched_later_summary">Прыбірае відэа са спіса «Глядзець пазней» пасля прагляду</string>
     <string name="mobile_settings_hidden_watched_note">Выкарыстоўваецца гісторыя праглядаў YouTube, таму трэба ўвайсці ва ўліковы запіс.</string>
-    <string name="mobile_settings_hidden_upcoming">Будучыя прэм'еры і трансляцыі</string>
+    <string name="mobile_settings_hidden_upcoming">Будучыя прэм\'еры і трансляцыі</string>
     <string name="mobile_settings_hidden_upcoming_home">Хаваць на галоўнай старонцы</string>
     <string name="mobile_settings_hidden_upcoming_subscriptions">Хаваць у падпісках</string>
     <string name="mobile_settings_hidden_upcoming_channels">Хаваць на старонках каналаў</string>
