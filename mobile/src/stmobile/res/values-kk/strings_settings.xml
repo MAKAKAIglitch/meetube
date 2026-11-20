@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Деректер бейненің ID нөмірін алатын Return YouTube Dislike қызметінен алынады</string>
     <string name="mobile_settings_paid_promotion">Ақылы жарнама туралы хабарлау</string>
     <string name="mobile_settings_paid_promotion_summary">Бейнеде ақылы жарнама бар екені айтылса, қысқа хабарлама көрсетеді</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Бейнелер басталатын сапа. Жеке бейне үшін оны ойнатқыш параметрлерінен өзгертуге болады.</string>
+    <string name="mobile_settings_default_quality">Әдепкі сапа</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi желісінде</string>
+    <string name="mobile_settings_quality_mobile">Мобильді деректерде</string>
+    <string name="mobile_settings_quality_same">Wi-Fi желісіндегідей</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Мобильді деректер: %2$s</string>
+    <string name="mobile_settings_quality_auto">Автоматты (ең көбі %1$dp)</string>
+    <string name="mobile_settings_quality_auto_desc">Ұсынылады. Байланыс мүмкіндік беретін ең жоғары сапа</string>
+    <string name="mobile_settings_quality_up_to">%1$s дейін</string>
+    <string name="mobile_settings_quality_more_data">Деректерді көбірек пайдаланады</string>
+    <string name="mobile_settings_quality_less_data">Деректерді азырақ пайдаланады</string>
+    <string name="mobile_settings_quality_data_saver">Деректерді үнемдеу</string>
+    <string name="mobile_settings_hdr">HDR бейне</string>
+    <string name="mobile_settings_hdr_summary">HDR бейнелерді HDR форматында, жарығырақ әрі қанық түстермен ойнатады. Деректерді көбірек пайдаланады. Келесі ашылатын бейнеге қолданылады.</string>
+    <string name="mobile_settings_loudness">Дыбыс деңгейін теңестіру</string>
+    <string name="mobile_settings_loudness_summary">Тым қатты бейнелердің дыбысын YouTube-тың қалыпты деңгейіне дейін төмендетеді</string>
+    <string name="mobile_settings_player_volume">Ойнатқыш дыбысының деңгейі</string>
+    <string name="mobile_settings_quality_data_saver_note">Android жүйесінде деректерді үнемдеу қосылса, MeeTube мобильді желіде деректерді азырақ алдын ала жүктейді.</string>
 </resources>
