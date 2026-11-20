@@ -105,4 +105,31 @@
     <string name="mobile_settings_24_hour_summary">Барои вақти оғози премераҳо ва пахшҳои мустақим</string>
     <string name="mobile_settings_liquid_glass">Шишаи моеъ</string>
     <string name="mobile_settings_liquid_glass_summary">Линза, рӯшноӣ ва доначаҳо дар панелҳои шишагӣ. Ҳангоми хомӯш будан хиракунии одӣ истифода мешавад, ки батареяро камтар сарф мекунад</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d соат %2$d дақ</string>
+    <string name="mobile_settings_customize_summary_value">Мавзӯи %1$s, саҳифаи асосӣ ва рӯйхати видеоҳо, плеер, ҷадвалҳо ва эффектҳо</string>
+    <string name="mobile_settings_auto_none">Ҳеҷ кадом</string>
+    <string name="mobile_settings_auto_note">Ҳар чанд соат санҷида мешавад. Пас аз нашри видеои нав дар канали интихобшуда, он боргирӣ мешавад. Аз рӯйхати навозиш ҳангоми ҳар санҷиш то 10 видео боргирӣ мешавад. Сифати беҳтарини дастрас интихоб мешавад, ки аз сифати дар ин ҷо таъиншуда баландтар нест.</string>
+    <string name="mobile_battery_saver_ask">Ҳолати сарфаи батарея фаъол аст. Дар ин муддат аниматсияҳо ва эффекти шишаи хира хомӯш карда шаванд?</string>
+    <string name="mobile_battery_saver_ask_action">Хомӯш кардан</string>
+    <string name="mobile_settings_coffee">Ба таҳиягар қаҳва харед</string>
+    <string name="mobile_settings_coffee_summary">Агар MeeTube ба шумо писанд бошад ва хоҳед онро дастгирӣ кунед</string>
+    <string name="mobile_settings_new_uploads">Дар бораи видеоҳои нав огоҳ кардан</string>
+    <string name="mobile_settings_new_uploads_summary">Видеоҳои нави каналҳои обунашудаи шумо дар панели огоҳиномаҳо пайдо мешаванд</string>
+    <string name="mobile_settings_tabs">Ҷадвалҳо</string>
+    <string name="mobile_settings_tabs_summary">Интихоб кунед, ки дар панели поён ва бахши «Шумо» чӣ нишон дода шавад</string>
+    <string name="mobile_settings_tabs_bottom_bar">Панели поён</string>
+    <string name="mobile_settings_nav_labels">Номи ҷадвалҳо</string>
+    <string name="mobile_settings_nav_labels_summary">Номи ҳар ҷадвалро зери нишонаи он дар панели поён нишон додан</string>
+    <string name="mobile_settings_brand_name">Номи барнома дар панели боло</string>
+    <string name="mobile_settings_brand_name_summary">Номи MeeTube-ро дар паҳлӯи нишона дар боло нишон додан. Ҳангоми хомӯш будан танҳо нишона мемонад</string>
+    <string name="mobile_settings_top_bar">Ҳамеша панели болоро нишон додан</string>
+    <string name="mobile_settings_top_bar_summary">Ҳангоми ҳаракат дар навор панели болоро дар экран нигоҳ доштан, на пинҳон кардан</string>
+    <string name="mobile_settings_search_fab">Тугмаи ҷустуҷӯ ҳангоми пинҳон будани панел</string>
+    <string name="mobile_settings_search_fab_right">Поёни рост</string>
+    <string name="mobile_settings_search_fab_left">Поёни чап</string>
+    <string name="mobile_settings_tabs_you">Шумо</string>
+    <string name="mobile_settings_tabs_none">Ҳеҷ кадом</string>
+    <string name="mobile_settings_tabs_bar_note">Барои тағйир додани тартиб, унсурро аз дастак кашед ё онро нигоҳ доред. Барои ба панели боло кӯчондани «Ҷустуҷӯ» онро ба боло кашед. Барои тағйир додани мундариҷаи ҷадвал онро ламс кунед.</string>
 </resources>
