@@ -213,7 +213,7 @@
     <string name="mobile_settings_watch_history_on">Ар дайым сактоо</string>
     <string name="mobile_settings_watch_history_on_desc">MeeTube ачылган сайын YouTube көрүү таржымалын кайра күйгүзөт</string>
     <string name="mobile_settings_watch_history_off">Сактаба</string>
-    <string name="mobile_settings_watch_history_off_desc">MeeTube көргөн видеолоруңуз тууралуу YouTube'га маалымат жөнөтпөйт</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube көргөн видеолоруңуз тууралуу YouTube\'га маалымат жөнөтпөйт</string>
     <string name="mobile_settings_clear_watch_history">Көрүү таржымалын тазалоо</string>
     <string name="mobile_settings_clear_watch_history_summary">Көрүлгөн видеолорду YouTube таржымалынан өчүрөт</string>
     <string name="mobile_settings_clear_watch_history_confirm">Көрүү таржымалы тазалансынбы?</string>
