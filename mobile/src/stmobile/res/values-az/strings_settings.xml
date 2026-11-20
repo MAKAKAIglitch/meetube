@@ -105,4 +105,31 @@
     <string name="mobile_settings_liquid_glass_summary">Şüşə panellərdə linza, işıq və tekstura. Söndürüləndə batareya üçün daha yüngül bulanıqlıq istifadə olunur</string>
     <string name="mobile_settings_storage_clear_empty">Keş artıq boşdur!</string>
     <string name="mobile_settings_storage_clear_empty_note">Təmizləmək üçün keş qalmayıb. Nəsə izləyin və sonra yenidən baxın.</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d saat %2$d dəq</string>
+    <string name="mobile_settings_customize_summary_value">%1$s mövzusu, əsas səhifə və video siyahıları, pleyer, bölmələr və effektlər</string>
+    <string name="mobile_settings_auto_none">Heç biri</string>
+    <string name="mobile_settings_auto_note">Bir neçə saatdan bir yoxlanılır. Seçdiyiniz kanal yeni video yüklədikdə həmin video endirilir. Pleylistdəki videolar hər yoxlamada 10 video olmaqla endirilir. Keyfiyyət burada seçdiyiniz səviyyəni aşmadan mümkün olan ən yüksək keyfiyyət olur.</string>
+    <string name="mobile_battery_saver_ask">Enerjiyə qənaət rejimi aktivdir. Bu rejim aktiv olduğu müddətdə animasiyalar və buzlu şüşə effekti söndürülsün?</string>
+    <string name="mobile_battery_saver_ask_action">Söndür</string>
+    <string name="mobile_settings_coffee">Tərtibatçıya kofe al</string>
+    <string name="mobile_settings_coffee_summary">MeeTube xoşunuza gəlirsə və layihəni dəstəkləmək istəyirsinizsə</string>
+    <string name="mobile_settings_new_uploads">Yeni videolar barədə bildiriş göndər</string>
+    <string name="mobile_settings_new_uploads_summary">Abunə olduğunuz kanalların yeni videoları bildiriş panelində görünəcək</string>
+    <string name="mobile_settings_tabs">Bölmələr</string>
+    <string name="mobile_settings_tabs_summary">Aşağı paneldə və «Siz» bölməsində nələrin göstəriləcəyini seçin</string>
+    <string name="mobile_settings_tabs_bottom_bar">Aşağı panel</string>
+    <string name="mobile_settings_nav_labels">Bölmə adları</string>
+    <string name="mobile_settings_nav_labels_summary">Aşağı paneldə hər bölmənin ikonunun altında adını göstər</string>
+    <string name="mobile_settings_brand_name">Yuxarı paneldə tətbiqin adı</string>
+    <string name="mobile_settings_brand_name_summary">Yuxarıda ikonun yanında MeeTube adını göstər. Söndürüldükdə yalnız ikon qalır</string>
+    <string name="mobile_settings_top_bar">Yuxarı paneli həmişə göstər</string>
+    <string name="mobile_settings_top_bar_summary">Lent sürüşdürülərkən yuxarı paneli gizlətmək əvəzinə ekranda saxla</string>
+    <string name="mobile_settings_search_fab">Panel gizlənəndə axtarış düyməsi</string>
+    <string name="mobile_settings_search_fab_right">Aşağı sağda</string>
+    <string name="mobile_settings_search_fab_left">Aşağı solda</string>
+    <string name="mobile_settings_tabs_you">Siz</string>
+    <string name="mobile_settings_tabs_none">Heç biri</string>
+    <string name="mobile_settings_tabs_bar_note">Paneldəki elementlərin yerini dəyişmək üçün tutacaqdan dartın və ya onları basıb saxlayın. Axtarışı yuxarı panelə keçirmək üçün yuxarı dartın. Göstərilənləri dəyişmək üçün bölməyə toxunun.</string>
 </resources>
