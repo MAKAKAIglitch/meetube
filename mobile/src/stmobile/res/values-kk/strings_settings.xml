@@ -105,4 +105,31 @@
     <string name="mobile_settings_liquid_glass_summary">Әйнек панельдердегі линза, жарық және текстура. Өшірілгенде батареяны аз жұмсайтын қарапайым бұлыңғырлық қолданылады</string>
     <string name="mobile_settings_storage_clear_empty">Кэш әлдеқашан бос!</string>
     <string name="mobile_settings_storage_clear_empty_note">Тазалайтын кэш жоқ. Бірдеңе көріп, кейін қайта оралыңыз.</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d сағ. %2$d мин.</string>
+    <string name="mobile_settings_customize_summary_value">%1$s тақырыбы, басты бет пен бейнелер тізімі, ойнатқыш, қойындылар және әсерлер</string>
+    <string name="mobile_settings_auto_none">Ешқайсысы</string>
+    <string name="mobile_settings_auto_note">Бірнеше сағат сайын тексеріледі. Таңдалған арна жаңа бейне жүктегенде, ол автоматты түрде жүктеледі. Ойнату тізімінен әр тексерісте 10 бейнеге дейін жүктеледі. Мұнда орнатылған сападан аспайтын ең жоғары сапа таңдалады.</string>
+    <string name="mobile_battery_saver_ask">Қуат үнемдеу режимі қосулы. Осы режим қосулы кезде анимациялар мен күңгірт әйнек әсерін өшіру керек пе?</string>
+    <string name="mobile_battery_saver_ask_action">Өшіру</string>
+    <string name="mobile_settings_coffee">Әзірлеушіге кофе алып беру</string>
+    <string name="mobile_settings_coffee_summary">MeeTube ұнаса және жобаны қолдағыңыз келсе</string>
+    <string name="mobile_settings_new_uploads">Жаңа бейнелер туралы хабарлау</string>
+    <string name="mobile_settings_new_uploads_summary">Жазылымдарыңыздағы жаңа бейнелер хабарландыру тақтасында көрсетіледі</string>
+    <string name="mobile_settings_tabs">Қойындылар</string>
+    <string name="mobile_settings_tabs_summary">Төменгі жолақта және «Сіз» бөлімінде не көрсетілетінін таңдаңыз</string>
+    <string name="mobile_settings_tabs_bottom_bar">Төменгі жолақ</string>
+    <string name="mobile_settings_nav_labels">Қойынды атаулары</string>
+    <string name="mobile_settings_nav_labels_summary">Төменгі жолақта әр қойындының белгішесінің астында атауын көрсету</string>
+    <string name="mobile_settings_brand_name">Жоғарғы жолақтағы қолданба атауы</string>
+    <string name="mobile_settings_brand_name_summary">Жоғарыда белгішенің жанында MeeTube атауын көрсету. Өшірілсе, тек белгіше қалады</string>
+    <string name="mobile_settings_top_bar">Жоғарғы жолақты үнемі көрсету</string>
+    <string name="mobile_settings_top_bar_summary">Лентаны айналдырғанда жоғарғы жолақты жасырудың орнына экранда қалдыру</string>
+    <string name="mobile_settings_search_fab">Жолақ жасырылғанда іздеу түймесі</string>
+    <string name="mobile_settings_search_fab_right">Төменгі оң жақта</string>
+    <string name="mobile_settings_search_fab_left">Төменгі сол жақта</string>
+    <string name="mobile_settings_tabs_you">Сіз</string>
+    <string name="mobile_settings_tabs_none">Ешқайсысы</string>
+    <string name="mobile_settings_tabs_bar_note">Ретін өзгерту үшін элементті тұтқасынан сүйреңіз немесе басып тұрыңыз. Іздеуді жоғарғы жолаққа жылжыту үшін жоғары сүйреңіз. Қойындыны түртіп, оның мазмұнын өзгертіңіз.</string>
 </resources>
