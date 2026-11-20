@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Жақсырақ нобайлар</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Нобайларды қауымдастық таңдаған кадрлармен ауыстырады</string>
     <string name="mobile_settings_dearrow_note">DeArrow тізімдерде көретін бейнелеріңіздің ID нөмірлерін алады.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Бұл параметрлер көпшілікке қажет емес. Олар MeeTube бейнені қалай ағынмен жіберетінін және қосылатынын өзгертеді.</string>
+    <string name="mobile_settings_streaming">Ағынмен ойнату</string>
+    <string name="mobile_settings_buffer">Буфер</string>
+    <string name="mobile_settings_buffer_low_desc">Шамамен 25 секунд алда. Жадты ең аз пайдаланады</string>
+    <string name="mobile_settings_buffer_med_desc">Шамамен 50 секунд алда</string>
+    <string name="mobile_settings_buffer_high_desc">75 секундқа дейін алда</string>
+    <string name="mobile_settings_buffer_highest_desc">2 минутқа дейін алда. Жадты ең көп пайдаланады</string>
+    <string name="mobile_settings_stall_quality">Үнемі буферленсе, сапаны төмендету</string>
+    <string name="mobile_settings_stall_quality_summary">Шамамен 20 секунд буферленгеннен кейін сапаны бір деңгейге төмендетеді. Өшіру VPN қолданғанда көмектесуі мүмкін.</string>
+    <string name="mobile_settings_high_bitrate">Жоғары битрейтті пішімдер</string>
+    <string name="mobile_settings_high_bitrate_summary">Бейне қолдаса, YouTube-тың битрейті жоғары 1080p ағындарын қосады. Қосымша сұрау қажет</string>
+    <string name="mobile_settings_sabr">SABR арқылы ағын (тәжірибелік)</string>
+    <string name="mobile_settings_sabr_summary">YouTube-тың жаңа ағындық протоколы келесі бейнеден бастап қолданылады. Қате болса, бейне әдеттегі әдіспен ойнатылады.</string>
+    <string name="mobile_settings_legacy_codecs">Бір файлдық ағындар</string>
+    <string name="mobile_settings_legacy_codecs_summary">Ескі бір файлдық ағынды, әдетте 360p сапасында, сапаны өзгертпей ойнатады. Тек өте баяу телефондарға арналған.</string>
+    <string name="mobile_settings_live">Тікелей эфирлер</string>
+    <string name="mobile_settings_live_edge">Эфирдің нақты уақытынан бастау</string>
+    <string name="mobile_settings_live_edge_summary">Эфирді 15 секундтық кідіріссіз, мүмкіндігінше нақты уақытқа жақын ойнатады</string>
+    <string name="mobile_settings_live_hls">Тікелей эфирлерді HLS арқылы ойнату</string>
+    <string name="mobile_settings_live_hls_summary">Баяу телефондарда бірқалыптырақ жұмыс істеуі мүмкін. Кері айналдыру мүмкін емес, сапа 1080p-мен шектеледі</string>
 </resources>
