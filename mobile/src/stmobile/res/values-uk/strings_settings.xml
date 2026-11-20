@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Налаштування субтитрів Android</string>
     <string name="mobile_settings_caption_system_summary">Використовується стилем «Системний»</string>
     <string name="mobile_settings_captions_note">Вмикайте субтитри або вибирайте їхню мову кнопкою CC у плеєрі.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Пропускає частини відео, позначені спільнотою</string>
+    <string name="mobile_settings_sponsorblock_segments">Коли починається фрагмент</string>
+    <string name="mobile_settings_segment_skip">Пропустити</string>
+    <string name="mobile_settings_segment_ask_short">Запитати</string>
+    <string name="mobile_settings_segment_show">Показати</string>
+    <string name="mobile_settings_segment_modes_note">Можна пропустити фрагмент, попросити підтвердження кнопкою, показувати його лише на смузі перемотування або вимкнути.</string>
+    <string name="mobile_settings_segment_min">Не пропускати фрагменти коротші за</string>
+    <string name="mobile_settings_segment_once">Пропускати кожен фрагмент лише один раз</string>
+    <string name="mobile_settings_segment_once_summary">Якщо повернутися до пропущеного фрагмента, він відтвориться</string>
+    <string name="mobile_settings_segment_alt_server_summary">Спробуйте це, якщо сегменти перестали завантажуватися</string>
+    <string name="mobile_settings_segment_alt_server">Використовувати альтернативний сервер</string>
+    <string name="mobile_settings_dearrow_titles">Кращі назви</string>
+    <string name="mobile_settings_dearrow_titles_summary">Замінює клікбейтні назви варіантами, написаними спільнотою</string>
+    <string name="mobile_settings_dearrow_thumbnails">Кращі мініатюри</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Замінює мініатюри кадрами, вибраними спільнотою</string>
+    <string name="mobile_settings_dearrow_note">DeArrow отримує ідентифікатори відео, які ви бачите у списках.</string>
 </resources>
