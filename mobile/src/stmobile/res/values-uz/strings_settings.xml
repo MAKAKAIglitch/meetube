@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android subtitr sozlamalari</string>
     <string name="mobile_settings_caption_system_summary">«Tizim» uslubi tomonidan ishlatiladi</string>
     <string name="mobile_settings_captions_note">Subtitrlarni yoqish yoki tilini tanlash uchun pleyerdagi CC tugmasidan foydalaning.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Hamjamiyat belgilagan video qismlarini o‘tkazib yuboradi</string>
+    <string name="mobile_settings_sponsorblock_segments">Qism boshlanganda</string>
+    <string name="mobile_settings_segment_skip">O‘tkazib yuborish</string>
+    <string name="mobile_settings_segment_ask_short">So‘rash</string>
+    <string name="mobile_settings_segment_show">Ko‘rsatish</string>
+    <string name="mobile_settings_segment_modes_note">Qismni o‘tkazib yuborish, tugma orqali tasdiq so‘rash, uni faqat qidiruv panelida ko‘rsatish yoki o‘chirib qo‘yish mumkin.</string>
+    <string name="mobile_settings_segment_min">Bundan qisqa qismlarni o‘tkazmaslik</string>
+    <string name="mobile_settings_segment_once">Har bir qismni faqat bir marta o‘tkazish</string>
+    <string name="mobile_settings_segment_once_summary">O‘tkazib yuborilgan qismga qaytsangiz, u ijro etiladi</string>
+    <string name="mobile_settings_segment_alt_server_summary">Qismlar yuklanmay qolsa, buni sinab ko‘ring</string>
+    <string name="mobile_settings_segment_alt_server">Muqobil serverdan foydalanish</string>
+    <string name="mobile_settings_dearrow_titles">Yaxshiroq sarlavhalar</string>
+    <string name="mobile_settings_dearrow_titles_summary">Klikbeyt sarlavhalarni hamjamiyat yozgan variantlar bilan almashtiradi</string>
+    <string name="mobile_settings_dearrow_thumbnails">Yaxshiroq miniatyuralar</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Miniatyuralarni hamjamiyat tanlagan kadrlar bilan almashtiradi</string>
+    <string name="mobile_settings_dearrow_note">DeArrow ro‘yxatlarda ko‘rayotgan videolaringiz ID raqamlarini oladi.</string>
 </resources>
