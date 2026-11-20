@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Эфирди 15 секунддук артта калуусуз мүмкүн болушунча түз көрсөтөт</string>
     <string name="mobile_settings_live_hls">Түз эфирлерди HLS аркылуу ойнотуу</string>
     <string name="mobile_settings_live_hls_summary">Жай телефондордо жылмакайыраак иштеши мүмкүн. Артка түрүү мүмкүн эмес жана сапат 1080p менен чектелет</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Плеер</string>
+    <string name="mobile_settings_controls_on_next">Кийинки видеодо башкаруу баскычтарын көрсөтүү</string>
+    <string name="mobile_settings_controls_on_next_summary">Кийинки видео башталганда башкаруу баскычтары көрүнөт</string>
+    <string name="mobile_settings_list_queue">Башталган тизмени ойнотуу</string>
+    <string name="mobile_settings_list_queue_summary">Ойнотмо тизмеден ачылган видеодон кийин калган видеолор баштапкы тартипте ойнотулат</string>
+    <string name="mobile_settings_queue_mode">Кезек «Видео бүткөндө» жөндөөсүнө баш иет</string>
+    <string name="mobile_settings_queue_mode_summary">Тындырганда же плеерди жапканда кезек да токтойт</string>
+    <string name="mobile_settings_chapter_popup">Бөлүмдөрдүн калкыма аталыштары</string>
+    <string name="mobile_settings_chapter_popup_summary">Ар бир бөлүм башталганда анын аталышын көрсөтөт. Кийинки бөлүмгө өтүү үчүн басыңыз</string>
 </resources>
