@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Ар бир 0,05× кадам</string>
     <string name="mobile_settings_natural_voice">Башка ылдамдыктарда табигый үн</string>
     <string name="mobile_settings_natural_voice_summary">Ылдамдатканда же жайлатканда үндүн кадимки бийиктигин сактайт</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Уйку таймери</string>
+    <string name="mobile_settings_sleep_timer_summary">Видео ачылгандан кийин %1$s өткөндө ойнотууну токтотот</string>
+    <string name="mobile_settings_audio_focus">Башка үндөр чыкканда тындыруу</string>
+    <string name="mobile_settings_audio_focus_summary">Чалуулар жана башка колдонмолордун үнү чыкканда тындырат. Кийинки ачылган видеого колдонулат</string>
+    <string name="mobile_settings_resume">Улантуу</string>
+    <string name="mobile_settings_resume_short">Кыска видеолорду улантуу</string>
+    <string name="mobile_settings_resume_short_summary">Бул күйгүзүлбөсө, 6 мүнөттөн кыска видеолор башынан башталат</string>
+    <string name="mobile_settings_resume_live">Түз эфирлерди улантуу</string>
+    <string name="mobile_settings_resume_live_summary">Түз эфирди азыркы учурдан эмес, токтогон жериңизден улантат</string>
+    <string name="mobile_settings_watch_page">Видеонун астында</string>
+    <string name="mobile_settings_ambient">Атмосфералык режим</string>
+    <string name="mobile_settings_ambient_summary">Видеонун түстөрү плеердин астында жаркырап, тик толук экран режиминдеги кара тилкелерди толтурат</string>
+    <string name="mobile_settings_hide_related">«Кийинки» бөлүмүн жашыруу</string>
+    <string name="mobile_settings_hide_related_summary">Плеердин астындагы байланышкан видеолорду көрсөтпөйт</string>
+    <string name="mobile_settings_dislikes">Дизлайктардын санын көрсөтүү</string>
+    <string name="mobile_settings_dislikes_summary">Маалымат видеонун ID номерин алган Return YouTube Dislike кызматынан алынат</string>
+    <string name="mobile_settings_paid_promotion">Акы төлөнгөн жарнама тууралуу билдирүү</string>
+    <string name="mobile_settings_paid_promotion_summary">Видеодо акы төлөнгөн жарнама бар экени айтылса, кыска билдирүү көрсөтөт</string>
 </resources>
