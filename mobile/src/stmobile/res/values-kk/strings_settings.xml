@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Эфирді 15 секундтық кідіріссіз, мүмкіндігінше нақты уақытқа жақын ойнатады</string>
     <string name="mobile_settings_live_hls">Тікелей эфирлерді HLS арқылы ойнату</string>
     <string name="mobile_settings_live_hls_summary">Баяу телефондарда бірқалыптырақ жұмыс істеуі мүмкін. Кері айналдыру мүмкін емес, сапа 1080p-мен шектеледі</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Ойнатқыш</string>
+    <string name="mobile_settings_controls_on_next">Келесі бейнеде басқару элементтерін көрсету</string>
+    <string name="mobile_settings_controls_on_next_summary">Келесі бейне басталғанда басқару элементтері пайда болады</string>
+    <string name="mobile_settings_list_queue">Басталған тізімді ойнату</string>
+    <string name="mobile_settings_list_queue_summary">Ойнату тізімінен ашылған бейнеден кейін қалған бейнелер бастапқы ретімен ойнатылады</string>
+    <string name="mobile_settings_queue_mode">Кезек «Бейне аяқталғанда» параметріне бағынады</string>
+    <string name="mobile_settings_queue_mode_summary">Кідірту немесе ойнатқышты жабу кезінде кезек те тоқтайды</string>
+    <string name="mobile_settings_chapter_popup">Тараулардың қалқымалы атаулары</string>
+    <string name="mobile_settings_chapter_popup_summary">Әр тарау басталғанда оның атауын көрсетеді. Келесі тарауға өту үшін түртіңіз</string>
 </resources>
