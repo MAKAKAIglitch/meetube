@@ -235,4 +235,31 @@
     <string name="mobile_settings_auto_backup_off">Niciodată</string>
     <string name="mobile_settings_backup_note">O copie de rezervă include toate setările configurate în MeeTube. Datele contului YouTube, precum abonamentele și istoricul, rămân în cont.</string>
     <string name="mobile_settings_home_layout">Aspectul paginii principale</string>
+
+    <!-- App icon and loading indicator translations -->
+    <string name="mobile_settings_app_icon">Pictograma aplicației</string>
+    <string name="mobile_app_icon_default">Clasic (implicit)</string>
+    <string name="mobile_app_icon_classic">Inimă neagră</string>
+    <string name="mobile_app_icon_fantasy">Fantezie</string>
+    <string name="mobile_app_icon_glass_heart">Inimă de sticlă</string>
+    <string name="mobile_app_icon_ruby">Sticlă originală</string>
+    <string name="mobile_app_icon_play">Play original</string>
+    <string name="mobile_app_icon_play_dark">Neon original</string>
+    <string name="mobile_app_icon_blaze">Flacără aprinsă</string>
+    <string name="mobile_app_icon_red_crt">CRT roșu</string>
+    <string name="mobile_app_icon_chrome">Chrome Play</string>
+    <string name="mobile_app_icon_pixel_play">Pixel Play</string>
+    <string name="mobile_app_icon_starry_night">Noapte înstelată</string>
+    <string name="mobile_app_icon_gta_vi">GTA VI</string>
+    <string name="mobile_settings_loader">Indicator de încărcare</string>
+    <string name="mobile_settings_font">Font</string>
+    <string name="mobile_loader_neon">Inel neon</string>
+    <string name="mobile_loader_frosted">Sticlă mată</string>
+    <string name="mobile_loader_cookie">Fursec</string>
+    <string name="mobile_loader_frosted_cookie">Fursec mat</string>
+    <string name="mobile_loader_liquid_ring">Inel lichid</string>
+    <string name="mobile_loader_glass_orb">Sferă de sticlă</string>
+    <string name="mobile_loader_morphing_blob">Picătură lichidă</string>
+    <string name="mobile_loader_glass_orbit">Orbită de sticlă</string>
+    <string name="mobile_app_icon_pending">Repornește MeeTube pentru ca noua pictogramă să fie folosită peste tot. Altfel, se va schimba după ce ieși din aplicație.</string>
 </resources>
