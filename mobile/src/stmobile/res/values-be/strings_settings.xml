@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Лепшыя мініяцюры</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Замяняе мініяцюры кадрамі, выбранымі супольнасцю</string>
     <string name="mobile_settings_dearrow_note">DeArrow атрымлівае ідэнтыфікатары відэа, якія вы бачыце ў спісах.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Большасці карыстальнікаў гэтыя налады не патрэбныя. Яны змяняюць спосаб перадачы відэа і падключэння MeeTube.</string>
+    <string name="mobile_settings_streaming">Патокавае прайграванне</string>
+    <string name="mobile_settings_buffer">Буфер</string>
+    <string name="mobile_settings_buffer_low_desc">Прыкладна 25 секунд наперад. Найменшы расход памяці</string>
+    <string name="mobile_settings_buffer_med_desc">Прыкладна 50 секунд наперад</string>
+    <string name="mobile_settings_buffer_high_desc">Да 75 секунд наперад</string>
+    <string name="mobile_settings_buffer_highest_desc">Да 2 хвілін наперад. Найбольшы расход памяці</string>
+    <string name="mobile_settings_stall_quality">Зніжаць якасць пры пастаяннай буферызацыі</string>
+    <string name="mobile_settings_stall_quality_summary">Прыкладна праз 20 секунд буферызацыі зніжае якасць на адзін узровень. Адключэнне можа дапамагчы пры выкарыстанні VPN.</string>
+    <string name="mobile_settings_high_bitrate">Фарматы з высокім бітрэйтам</string>
+    <string name="mobile_settings_high_bitrate_summary">Дадае даступныя патокі YouTube 1080p з высокім бітрэйтам. Патрабуецца дадатковы запыт</string>
+    <string name="mobile_settings_sabr">Паток праз SABR (эксперыментальна)</string>
+    <string name="mobile_settings_sabr_summary">Новы пратакол трансляцыі YouTube пачне выкарыстоўвацца з наступнага відэа. Калі ён не спрацуе, відэа прайграецца звычайным спосабам</string>
+    <string name="mobile_settings_legacy_codecs">Патокі ў адным файле</string>
+    <string name="mobile_settings_legacy_codecs_summary">Прайгравае стары паток у адным файле, звычайна 360p, без змены якасці. Толькі для вельмі павольных тэлефонаў</string>
+    <string name="mobile_settings_live">Прамыя трансляцыі</string>
+    <string name="mobile_settings_live_edge">Пачынаць з бягучага моманту эфіру</string>
+    <string name="mobile_settings_live_edge_summary">Прайгравае трансляцыі як мага бліжэй да прамога эфіру, без запасу ў 15 секунд</string>
+    <string name="mobile_settings_live_hls">Прайграваць прамыя трансляцыі праз HLS</string>
+    <string name="mobile_settings_live_hls_summary">На павольных тэлефонах можа працаваць больш плаўна. Нельга перамотваць назад, а якасць абмежавана 1080p</string>
 </resources>
