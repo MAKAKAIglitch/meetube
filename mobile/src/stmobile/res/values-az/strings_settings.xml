@@ -103,4 +103,6 @@
     <string name="mobile_settings_24_hour_summary">Premyeraların və canlı yayımların başlama vaxtı üçün</string>
     <string name="mobile_settings_liquid_glass">Maye şüşə</string>
     <string name="mobile_settings_liquid_glass_summary">Şüşə panellərdə linza, işıq və tekstura. Söndürüləndə batareya üçün daha yüngül bulanıqlıq istifadə olunur</string>
+    <string name="mobile_settings_storage_clear_empty">Keş artıq boşdur!</string>
+    <string name="mobile_settings_storage_clear_empty_note">Təmizləmək üçün keş qalmayıb. Nəsə izləyin və sonra yenidən baxın.</string>
 </resources>
