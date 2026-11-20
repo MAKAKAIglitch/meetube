@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Дурахши шишагӣ ба ҷадвал ҳаракат мекунад ва панел каме меларзад. Дар телефонҳои суст то фаъол кардани шумо хомӯш аст.</string>
     <string name="mobile_settings_tabs_reset">Панелро ба ҳолати пешфарз баргардондан</string>
     <string name="mobile_settings_tabs_reset_summary">Асосӣ, Shorts, Ҷустуҷӯ, Обунаҳо, Шумо</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Тарҳбандии видео</string>
+    <string name="mobile_settings_video_layout_cards">Кортҳо</string>
+    <string name="mobile_settings_video_layout_cards_desc">Тасвири калон барои ҳар видео</string>
+    <string name="mobile_settings_video_layout_list">Рӯйхат</string>
+    <string name="mobile_settings_video_layout_list_desc">Тасвири хурд дар паҳлӯи унвон, видеоҳои бештар дар экран</string>
+    <string name="mobile_settings_screen_off">Бо экрани хомӯш навозишро идома додан</string>
+    <string name="mobile_settings_screen_off_on">Иҷозат дода шудааст: сарфаи батарея садоро қатъ намекунад</string>
+    <string name="mobile_settings_screen_off_off">Сарфаи батарея метавонад садоро қатъ кунад. Барои иҷозат додан ба кори заминавии MeeTube ламс кунед</string>
+    <string name="mobile_settings_seek_thumb">Дастаки сатри ҷустуҷӯ</string>
+    <string name="mobile_settings_seek_thumb_dot">Нуқта</string>
+    <string name="mobile_settings_seek_thumb_picture">Расми шумо</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Аз телефон расм интихоб кунед; GIF ҳаракат мекунад</string>
+    <string name="mobile_settings_seek_thumb_failed">Истифодаи ин расм имкон надорад (ҳадди аксар 5 МБ)</string>
+    <string name="mobile_settings_mini_type">Навъи плеери хурд</string>
+    <string name="mobile_settings_mini_type_default">Пешфарз</string>
+    <string name="mobile_settings_mini_type_default_desc">Корти шинокунанда. Барои тағйир додани андоза ангуштонро ба ҳам наздик ё дур кунед</string>
+    <string name="mobile_settings_mini_type_minimal">Минималӣ</string>
+    <string name="mobile_settings_mini_type_minimal2">Минималӣ 2</string>
+    <string name="mobile_settings_mini_type_disabled">Хомӯш</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Ба поён кашидани плеер видеоеро мебандад, на ин ки онро хурд кунад</string>
+    <string name="mobile_settings_auto_pip">Расм дар дохили расм</string>
+    <string name="mobile_settings_auto_pip_summary">Ҳангоми навозиши видео аз барнома бароед, он ба равзанаи хурд табдил меёбад. Агар хомӯш бошад, дар замина танҳо садо мемонад</string>
 </resources>
