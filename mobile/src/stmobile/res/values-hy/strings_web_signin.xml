@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">Մուտք գործել YouTube</string>
+    <string name="mobile_web_signin_privacy">Սա Google-ի սեփական էջն է։ MeeTube-ը երբեք չի տեսնում ձեր գաղտնաբառը։</string>
+    <string name="mobile_web_signin_loading">Google-ը բացվում է</string>
+    <string name="mobile_web_signin_finishing">Մուտքն ավարտվում է</string>
+    <string name="mobile_web_signin_failed">Չհաջողվեց ավարտել մուտքը YouTube։ Ստուգեք կապը և փորձեք կրկին։</string>
+    <string name="mobile_web_signin_retry">Կրկին փորձել</string>
+    <string name="mobile_web_signin_explain_title">Եվս մեկ մուտք</string>
+    <string name="mobile_web_signin_explain_need">Ուղիղ եթերի չատում հաղորդագրություններ ուղարկելու և գրառումները հավանելու համար պետք է մուտք գործել YouTube-ի սեփական վեբէջում։ Դա կտևի մեկ րոպե և կկատարվի միայն մեկ անգամ։</string>
+    <string name="mobile_web_signin_explain_current">Ձեր ընթացիկ մուտքը կմնա անփոփոխ և կշարունակի կառավարել տեսանյութերը, պատմությունը և բաժանորդագրությունները։</string>
+    <string name="mobile_web_signin_explain_risk">Օգտագործեք նույն Google հաշիվը։ Google-ը չի հաստատում ոչ պաշտոնական հավելվածները, ուստի ձեր հաշվի համար փոքր ռիսկ կա։</string>
+    <string name="mobile_web_signin_google">Մուտք գործել Google-ով</string>
+    <string name="mobile_web_signin_not_now">Ոչ հիմա</string>
+    <string name="mobile_web_signin_sign_out">Դու՞րս գալ YouTube-ի վեբ մուտքից։</string>
+    <string name="mobile_web_signin_sign_out_confirm">Ուղիղ եթերի չատում հաղորդագրություններ ուղարկելու համար ստիպված կլինեք կրկին մուտք գործել։ MeeTube-ի ընթացիկ մուտքը չի փոխվի։</string>
+    <string name="mobile_web_signin_sign_out_failed">Չհաջողվեց դուրս գալ։ Փորձեք կրկին։</string>
+    <string name="mobile_web_signin_signed_out">Դուք դուրս եք եկել YouTube-ի վեբ մուտքից</string>
+    <string name="mobile_web_signin_add">Ավելացնել վեբ հաշիվ</string>
+    <string name="mobile_web_signin_choose">Զրուցել որպես</string>
+    <string name="mobile_web_signin_switch">Փոխել վեբ հաշիվը</string>
+    <string name="mobile_web_signin_expired">YouTube-ի վեբ մուտքի ժամկետն ավարտվել է։ Մուտք գործեք կրկին։</string>
+    <string name="mobile_chat_as">Չատ՝ %1$s անունից</string>
+    <string name="mobile_chat_hint">Գրեք ինչ-որ բան</string>
+    <string name="mobile_chat_send">Ուղարկել հաղորդագրություն</string>
+    <string name="mobile_chat_send_failed">Չհաջողվեց ուղարկել հաղորդագրությունը։ Փորձեք կրկին։</string>
+    <string name="mobile_chat_not_ready">Չատը դեռ պատրաստ չէ։ Փորձեք մի փոքր անց։</string>
+</resources>
