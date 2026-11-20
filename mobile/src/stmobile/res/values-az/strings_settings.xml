@@ -151,4 +151,20 @@
     <string name="mobile_settings_search_place_bottom">Aşağı paneldə</string>
     <string name="mobile_settings_search_place_top">Yuxarı paneldə</string>
     <string name="mobile_settings_tabs_note">Bölməni və ya «Siz» bölməsindəki sətri köçürmək, adını dəyişmək və ya gizlətmək üçün onu basıb saxlayın.</string>
+
+    <!-- Hidden video and feed translations -->
+    <string name="mobile_settings_hidden">Gizlədilmiş videolar</string>
+    <string name="mobile_settings_hidden_none">Heç nə gizlədilməyib</string>
+    <string name="mobile_settings_hidden_watched">Baxılmış videolar</string>
+    <string name="mobile_settings_hidden_watched_home">Baxılmış videoları əsas səhifədə gizlət</string>
+    <string name="mobile_settings_hidden_watched_subscriptions">Baxılmış videoları abunəliklərdə gizlət</string>
+    <string name="mobile_settings_hidden_watched_later">Baxılmış videoları «Sonra izlə» siyahısından sil</string>
+    <string name="mobile_settings_hidden_watched_later_summary">Videoya baxdıqdan sonra onu «Sonra izlə» siyahısından çıxarır</string>
+    <string name="mobile_settings_hidden_watched_note">YouTube baxış tarixçəsindən istifadə olunur, buna görə hesabınıza daxil olmalısınız.</string>
+    <string name="mobile_settings_hidden_upcoming">Qarşıdan gələn premyeralar və yayımlar</string>
+    <string name="mobile_settings_hidden_upcoming_home">Əsas səhifədə gizlət</string>
+    <string name="mobile_settings_hidden_upcoming_subscriptions">Abunəliklərdə gizlət</string>
+    <string name="mobile_settings_hidden_upcoming_channels">Kanal səhifələrində gizlət</string>
+    <string name="mobile_settings_hidden_live">Canlı yayımlar</string>
+    <string name="mobile_settings_hidden_live_subscriptions">Canlı yayımları abunəliklərdə gizlət</string>
 </resources>
