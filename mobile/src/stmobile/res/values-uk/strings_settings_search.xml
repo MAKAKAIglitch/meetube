@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ukrainian (uk) settings search. English terms are retained as aliases. -->
+    <string name="mobile_settings_search_hint">Пошук налаштувань</string>
+    <string name="mobile_settings_search_none">Немає налаштувань за запитом «%1$s»</string>
+    <string name="mobile_settings_search_kw_account">sign in log in sign out google profile switch обліковий запис акаунт увійти вхід вийти профіль перемкнути змінити</string>
+    <string name="mobile_settings_search_kw_theme">dark mode light mode night appearance colors colours темний режим світлий режим нічний вигляд тема кольори оформлення</string>
+    <string name="mobile_settings_search_kw_customize">customise personalize personalise appearance look style layout налаштування персоналізація зовнішній вигляд стиль макет розташування</string>
+    <string name="mobile_settings_search_kw_country">country region країна регіон область</string>
+    <string name="mobile_settings_search_kw_start_screen">launch startup opens on default tab home page запуск стартовий екран відкривається вкладка головна сторінка</string>
+    <string name="mobile_settings_search_kw_interface_size">ui scale zoom font text size density bigger smaller розмір інтерфейсу масштаб збільшити зменшити шрифт текст щільність</string>
+    <string name="mobile_settings_search_kw_tabs">bottom bar sections navigation explore вкладки нижня панель розділи навігація огляд</string>
+    <string name="mobile_settings_search_kw_hidden">hide watched filter upcoming premieres live приховати переглянуті фільтр майбутні прем'єри прямі ефіри</string>
+    <string name="mobile_settings_search_kw_video_menu">context menu three dots long press options контекстне меню три крапки довге натискання параметри</string>
+    <string name="mobile_settings_search_kw_channels_order">subscriptions sort channels підписки сортування канали порядок</string>
+    <string name="mobile_settings_search_kw_watch_history">pause history incognito історія переглядів призупинити пауза анонімний режим</string>
+    <string name="mobile_settings_search_kw_video_ends">autoplay repeat loop shuffle next video автовідтворення повтор цикл перемішати наступне відео</string>
+    <string name="mobile_settings_search_kw_background">background play picture in picture pip audio only minimize фонове відтворення картинка в картинці лише аудіо згорнути</string>
+    <string name="mobile_settings_search_kw_natural_voice">pitch time stretching chipmunk висота тону розтягування часу голос тембр</string>
+    <string name="mobile_settings_search_kw_audio_focus">calls notifications other apps interruptions дзвінки сповіщення інші програми переривання аудіофокус</string>
+    <string name="mobile_settings_search_kw_hide_related">suggestions related recommendations рекомендації схожі відео приховати</string>
+    <string name="mobile_settings_search_kw_dislikes">return youtube dislike ryd дизлайки не подобається кількість оцінок</string>
+    <string name="mobile_settings_search_kw_home_layout">rows shelves carousel feed grid smarttube головна макет стрічка ряди полиці карусель сітка</string>
+    <string name="mobile_settings_search_kw_app_icon">launcher logo home screen old classic fantasy white glass heart ruby play dark blaze fire значок іконка програми лаунчер логотип головний екран класичний білий скло серце рубін відтворення вогонь</string>
+    <string name="mobile_settings_search_kw_quality">resolution 4k 1080p 720p hd data saver mobile data роздільна здатність якість економія трафіку мобільні дані</string>
+    <string name="mobile_settings_search_kw_loudness">volume normalization auto volume quiet loud гучність нормалізація автоматична гучність тихо голосно</string>
+    <string name="mobile_settings_search_kw_player_volume">quiet loud sound boost gain amplify 125 150 175 200 гучність плеєра підсилення звуку збільшити</string>
+    <string name="mobile_settings_search_kw_captions">subtitles cc closed captions субтитри приховані субтитри</string>
+    <string name="mobile_settings_search_kw_sponsorblock">skip sponsors ads segments intros пропуск спонсори реклама сегменти заставки</string>
+    <string name="mobile_settings_search_kw_dearrow">clickbait titles thumbnails клікбейт заголовки мініатюри обкладинки</string>
+    <string name="mobile_settings_search_kw_backup">export import save settings резервна копія експорт імпорт зберегти налаштування відновити</string>
+    <string name="mobile_settings_search_kw_buffer">buffering cache memory буфер буферизація кеш пам'ять</string>
+    <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers сервери адреси домени інтернет мережа з'єднання</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security censorship blocked byebyedpi vpn https сертифікати безпека блокування заблоковано обхід доступ з'єднання</string>
+    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different профілі для кожного облікового запису окремі різні</string>
+    <string name="mobile_settings_search_kw_updates">update version new release notify notification оновлення версія новий випуск сповіщення повідомлення</string>
+    <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug помилка звіт журнал логи діагностика налагодження</string>
+    <string name="mobile_settings_search_kw_gesture_levels">gestures brightness volume жести яскравість гучність</string>
+    <string name="mobile_settings_search_kw_gesture_seek">gestures scrub skip forward rewind жести перемотування пропустити вперед назад</string>
+    <string name="mobile_settings_search_kw_double_tap_seek">double tap seek skip forward rewind seconds jump interval подвійний дотик перемотування пропуск вперед назад секунди інтервал</string>
+    <string name="mobile_settings_search_kw_loader">loader loading spinner progress neon frosted glass cookie liquid ring orb blob orbit завантаження індикатор прогрес неон матове скло кільце сфера обертання</string>
+    <string name="mobile_settings_search_kw_badge_icons">mix music note icon symbol pill badge duration time мікс музика нота значок іконка плашка тривалість час</string>
+    <string name="mobile_settings_search_kw_seek_pill">double tap skip seek forward rewind 10 seconds animation ripple pill подвійний дотик перемотування вперед назад 10 секунд анімація хвиля плашка</string>
+    <string name="mobile_settings_search_kw_watched_bar">watched progress red line bar history seen thumbnail переглянуто прогрес червона лінія смуга історія мініатюра</string>
+    <string name="mobile_settings_search_kw_home_cast">cast button top bar hide show tv chromecast трансляція кнопка верхня панель приховати показати телевізор екран</string>
+    <string name="mobile_settings_search_kw_home_chips">chips topics categories filters home hide show feed recommendations теми категорії фільтри головна стрічка рекомендації показати приховати</string>
+    <string name="mobile_settings_search_kw_haptics">haptics vibration vibrate buzz tick feedback touch off вібрація тактильний відгук дотик натискання вимкнути</string>
+    <string name="mobile_settings_search_kw_refresh_sound">refresh sound pop audio pull swipe noise mute оновлення звук клацання аудіо потягнути свайп шум без звуку</string>
+    <string name="mobile_settings_search_kw_short_ends">shorts loop repeat autoscroll auto scroll next swipe shorts короткі відео цикл повтор автопрокрутка наступне свайп</string>
+    <string name="mobile_settings_search_kw_stable_volume">stable volume drc compression dynamic range audio loud quiet стабільна гучність стиснення динамічний діапазон звук голосно тихо</string>
+    <string name="mobile_settings_search_kw_equalizer">equalizer eq audio bass treble frequencies bands presets custom sound еквалайзер звук бас високі частоти смуги пресети власний</string>
+    <string name="mobile_settings_search_web_signin">chat google login cookies account session send message sign in web youtube browser чат google вхід cookies обліковий запис сеанс надіслати повідомлення браузер веб</string>
+</resources>
