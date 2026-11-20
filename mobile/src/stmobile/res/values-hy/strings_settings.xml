@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Յուրաքանչյուր 0,05× քայլով</string>
     <string name="mobile_settings_natural_voice">Բնական ձայն՝ այլ արագությունների դեպքում</string>
     <string name="mobile_settings_natural_voice_summary">Արագացնելիս կամ դանդաղեցնելիս պահպանում է ձայնի սովորական բարձրությունը</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Քնի ժամաչափ</string>
+    <string name="mobile_settings_sleep_timer_summary">Դադարեցնում է նվագարկումը տեսանյութը բացելուց %1$s անց</string>
+    <string name="mobile_settings_audio_focus">Դադար՝ այլ ձայների դեպքում</string>
+    <string name="mobile_settings_audio_focus_summary">Դադարեցնում է նվագարկումը զանգերի և այլ հավելվածների ձայնի ժամանակ։ Կիրառվում է հաջորդ բացվող տեսանյութի համար</string>
+    <string name="mobile_settings_resume">Շարունակել</string>
+    <string name="mobile_settings_resume_short">Շարունակել կարճ տեսանյութերը</string>
+    <string name="mobile_settings_resume_short_summary">Եթե անջատված է, 6 րոպեից կարճ տեսանյութերը սկսվում են սկզբից</string>
+    <string name="mobile_settings_resume_live">Շարունակել ուղիղ հեռարձակումները</string>
+    <string name="mobile_settings_resume_live_summary">Շարունակում է հեռարձակումը այն տեղից, որտեղ կանգ եք առել, ոչ թե ուղիղ եթերի ընթացիկ պահից</string>
+    <string name="mobile_settings_watch_page">Տեսանյութի տակ</string>
+    <string name="mobile_settings_ambient">Մթնոլորտային ռեժիմ</string>
+    <string name="mobile_settings_ambient_summary">Տեսանյութի գույները լուսավորվում են նվագարկչի տակ և լրացնում սև հատվածները ուղղահայաց լիաէկրան ռեժիմում</string>
+    <string name="mobile_settings_hide_related">Թաքցնել «Հաջորդը» բաժինը</string>
+    <string name="mobile_settings_hide_related_summary">Թաքցնում է նվագարկչի տակ գտնվող նմանատիպ տեսանյութերը</string>
+    <string name="mobile_settings_dislikes">Ցուցադրել դիզլայքերի քանակը</string>
+    <string name="mobile_settings_dislikes_summary">Տվյալները ստացվում են Return YouTube Dislike-ից, որին փոխանցվում է տեսանյութի ID-ն</string>
+    <string name="mobile_settings_paid_promotion">Տեղեկացնել վճարովի գովազդի մասին</string>
+    <string name="mobile_settings_paid_promotion_summary">Կարճ հաղորդագրություն է ցուցադրում, երբ տեսանյութում նշված է վճարովի գովազդի առկայությունը</string>
 </resources>
