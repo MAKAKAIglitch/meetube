@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Search in the phone Settings (SettingsSearch, SettingsSearchController). -->
 <resources>
-    <string name="mobile_settings_search_hint">Ҷустуҷӯи танзимот
-    <string name="mobile_settings_search_none">Танзимот барои дархости «%1$s» ёфт нашуд
+    <string name="mobile_settings_search_hint">Ҷустуҷӯи танзимот</string>
+    <string name="mobile_settings_search_none">Танзимот барои дархости «%1$s» ёфт нашуд</string>
 
     <!-- Words people search with that a setting's title doesn't contain. Space-separated; each
          word matches as a word start. Translate them as the words people would type. -->
