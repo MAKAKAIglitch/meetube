@@ -298,7 +298,7 @@
     <string name="mobile_settings_video_layout_list_desc">Аталыштын жанындагы кичинекей эскиз, экранда көбүрөөк видео</string>
     <string name="mobile_settings_screen_off">Экран өчүк кезде ойнотууну улантуу</string>
     <string name="mobile_settings_screen_off_on">Уруксат берилген: кубат үнөмдөө үндү токтотпойт</string>
-    <string name="mobile_settings_screen_off_off">Кубат үнөмдөө үндү токтотушу мүмкүн. MeeTube'га фондо иштөөгө уруксат берүү үчүн басыңыз</string>
+    <string name="mobile_settings_screen_off_off">Кубат үнөмдөө үндү токтотушу мүмкүн. MeeTube\'га фондо иштөөгө уруксат берүү үчүн басыңыз</string>
     <string name="mobile_settings_seek_thumb">Жылдыруу тилкесинин көрсөткүчү</string>
     <string name="mobile_settings_seek_thumb_dot">Чекит</string>
     <string name="mobile_settings_seek_thumb_picture">Өз сүрөтүңүз</string>
