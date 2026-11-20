@@ -151,4 +151,20 @@
     <string name="mobile_settings_search_place_bottom">Төменгі жолақта</string>
     <string name="mobile_settings_search_place_top">Жоғарғы жолақта</string>
     <string name="mobile_settings_tabs_note">«Сіз» бөліміндегі қойындыны немесе жолды жылжыту, атын өзгерту не жасыру үшін басып тұрыңыз.</string>
+
+    <!-- Hidden video and feed translations -->
+    <string name="mobile_settings_hidden">Жасырылған бейнелер</string>
+    <string name="mobile_settings_hidden_none">Жасырылған ештеңе жоқ</string>
+    <string name="mobile_settings_hidden_watched">Көрілген бейнелер</string>
+    <string name="mobile_settings_hidden_watched_home">Көрілген бейнелерді басты бетте жасыру</string>
+    <string name="mobile_settings_hidden_watched_subscriptions">Көрілген бейнелерді жазылымдарда жасыру</string>
+    <string name="mobile_settings_hidden_watched_later">Көрілген бейнелерді «Кейін көру» тізімінен жою</string>
+    <string name="mobile_settings_hidden_watched_later_summary">Бейнені көргеннен кейін оны «Кейін көру» тізімінен алып тастайды</string>
+    <string name="mobile_settings_hidden_watched_note">YouTube көру тарихы пайдаланылады, сондықтан аккаунтқа кіру қажет.</string>
+    <string name="mobile_settings_hidden_upcoming">Алдағы премьералар мен трансляциялар</string>
+    <string name="mobile_settings_hidden_upcoming_home">Басты бетте жасыру</string>
+    <string name="mobile_settings_hidden_upcoming_subscriptions">Жазылымдарда жасыру</string>
+    <string name="mobile_settings_hidden_upcoming_channels">Арна беттерінде жасыру</string>
+    <string name="mobile_settings_hidden_live">Тікелей трансляциялар</string>
+    <string name="mobile_settings_hidden_live_subscriptions">Тікелей трансляцияларды жазылымдарда жасыру</string>
 </resources>
