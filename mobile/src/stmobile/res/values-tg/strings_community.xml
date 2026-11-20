@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_channel_posts">Навиштаҳо</string>
+    <string name="mobile_channel_sort">Ҷудо кардан</string>
+    <string name="mobile_posts_title">Навиштаҳо: %1$s</string>
+    <string name="mobile_posts_empty">Ҳоло навишта нест</string>
+    <string name="mobile_posts_image">Тасвири навишта</string>
+    <string name="mobile_posts_likes">Лайкҳо: %1$s</string>
+    <string name="mobile_posts_replies">Ҷавобҳо: %1$s</string>
+    <string name="mobile_posts_like">Ин навиштаро писандидан</string>
+    <string name="mobile_posts_like_failed">Навишта писандида нашуд. Бори дигар кӯшиш кунед.</string>
+    <string name="mobile_posts_comments_read_only">Писандидан ва ҷавоб додан ба шарҳҳои навиштаҳо ҳоло дастрас нест</string>
+    <string name="mobile_comments_just_now">Ҳозир</string>
+</resources>
