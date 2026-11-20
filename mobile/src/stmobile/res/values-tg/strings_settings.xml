@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Танзимоти субтитрҳои Android</string>
     <string name="mobile_settings_caption_system_summary">Аз ҷониби услуби «Системавӣ» истифода мешавад</string>
     <string name="mobile_settings_captions_note">Барои фаъол кардани субтитрҳо ё интихоби забонашон тугмаи CC-и плеерро истифода баред.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Қисмҳои видеоро, ки ҷомеа нишон додааст, мегузарад</string>
+    <string name="mobile_settings_sponsorblock_segments">Ҳангоми оғози қисм</string>
+    <string name="mobile_settings_segment_skip">Гузаштан</string>
+    <string name="mobile_settings_segment_ask_short">Пурсидан</string>
+    <string name="mobile_settings_segment_show">Нишон додан</string>
+    <string name="mobile_settings_segment_modes_note">Қисмро гузаред, бо тугма тасдиқ пурсед, онро танҳо дар сатри ҷустуҷӯ нишон диҳед ё хомӯш кунед.</string>
+    <string name="mobile_settings_segment_min">Қисмҳои кӯтоҳтар аз инро нагузаштан</string>
+    <string name="mobile_settings_segment_once">Ҳар қисмро танҳо як маротиба гузаштан</string>
+    <string name="mobile_settings_segment_once_summary">Агар ба қисми гузашташуда баргардед, он навохта мешавад</string>
+    <string name="mobile_settings_segment_alt_server_summary">Агар қисмҳо бор нашаванд, инро санҷед</string>
+    <string name="mobile_settings_segment_alt_server">Истифодаи сервери алтернативӣ</string>
+    <string name="mobile_settings_dearrow_titles">Унвонҳои беҳтар</string>
+    <string name="mobile_settings_dearrow_titles_summary">Унвонҳои кликбейтро бо унвонҳои навиштаи ҷомеа иваз мекунад</string>
+    <string name="mobile_settings_dearrow_thumbnails">Тасвирҳои пешнамоиши беҳтар</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Тасвирҳои пешнамоишро бо кадрҳои интихобкардаи ҷомеа иваз мекунад</string>
+    <string name="mobile_settings_dearrow_note">DeArrow ID-и видеоҳоеро, ки дар рӯйхат мебинед, мегирад.</string>
 </resources>
