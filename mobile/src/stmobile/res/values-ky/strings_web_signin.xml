@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">YouTube'га кирүү</string>
+    <string name="mobile_web_signin_privacy">Бул — Google'дун өз барагы. MeeTube сырсөзүңүздү эч качан көрбөйт.</string>
+    <string name="mobile_web_signin_loading">Google ачылууда</string>
+    <string name="mobile_web_signin_finishing">Кирүү аяктап жатат</string>
+    <string name="mobile_web_signin_failed">YouTube'га кирүү аяктаган жок. Байланышты текшерип, кайра аракет кылыңыз.</string>
+    <string name="mobile_web_signin_retry">Кайра аракет кылуу</string>
+    <string name="mobile_web_signin_explain_title">Дагы бир жолу кирүү</string>
+    <string name="mobile_web_signin_explain_need">Түз эфирдеги чатка билдирүү жөнөтүү жана жазмаларды жактыруу үчүн YouTube'дун өз веб-барагына кирүү керек. Бул бир мүнөт убакыт алат жана бир гана жолу жасалат.</string>
+    <string name="mobile_web_signin_explain_current">Учурдагы кирүүңүз өзгөрбөйт жана видеолорду, таржымалды жана жазылууларды башкарууну улантат.</string>
+    <string name="mobile_web_signin_explain_risk">Ошол эле Google аккаунтун колдонуңуз. Google расмий эмес колдонмолорду жактырбайт, андыктан аккаунтуңуз үчүн бир аз тобокелдик бар.</string>
+    <string name="mobile_web_signin_google">Google аркылуу кирүү</string>
+    <string name="mobile_web_signin_not_now">Азыр эмес</string>
+    <string name="mobile_web_signin_sign_out">YouTube веб-кирүүсүнөн чыгасызбы?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Түз эфирдеги чатка билдирүү жөнөтүү үчүн кайра киришиңиз керек болот. MeeTube'дагы учурдагы кирүүңүз өзгөрбөйт.</string>
+    <string name="mobile_web_signin_sign_out_failed">Аккаунттан чыгуу мүмкүн болгон жок. Кайра аракет кылыңыз.</string>
+    <string name="mobile_web_signin_signed_out">YouTube веб-кирүүсүнөн чыктыңыз</string>
+    <string name="mobile_web_signin_add">Веб-аккаунт кошуу</string>
+    <string name="mobile_web_signin_choose">Чаттагы атыңыз</string>
+    <string name="mobile_web_signin_switch">Веб-аккаунтту алмаштыруу</string>
+    <string name="mobile_web_signin_expired">YouTube веб-кирүүсүнүн мөөнөтү бүттү. Кайра кириңиз.</string>
+    <string name="mobile_chat_as">%1$s атынан чат</string>
+    <string name="mobile_chat_hint">Бир нерсе жазыңыз</string>
+    <string name="mobile_chat_send">Билдирүү жөнөтүү</string>
+    <string name="mobile_chat_send_failed">Билдирүү жөнөтүлгөн жок. Кайра аракет кылыңыз.</string>
+    <string name="mobile_chat_not_ready">Чат азырынча даяр эмес. Бир аздан кийин кайра аракет кылыңыз.</string>
+</resources>
