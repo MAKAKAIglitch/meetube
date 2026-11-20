@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Кращі мініатюри</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Замінює мініатюри кадрами, вибраними спільнотою</string>
     <string name="mobile_settings_dearrow_note">DeArrow отримує ідентифікатори відео, які ви бачите у списках.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Більшості користувачів ці параметри не потрібні. Вони змінюють спосіб потокової передачі відео та підключення MeeTube.</string>
+    <string name="mobile_settings_streaming">Потокове відтворення</string>
+    <string name="mobile_settings_buffer">Буфер</string>
+    <string name="mobile_settings_buffer_low_desc">Приблизно 25 секунд наперед. Використовує найменше пам’яті</string>
+    <string name="mobile_settings_buffer_med_desc">Приблизно 50 секунд наперед</string>
+    <string name="mobile_settings_buffer_high_desc">До 75 секунд наперед</string>
+    <string name="mobile_settings_buffer_highest_desc">До 2 хвилин наперед. Використовує найбільше пам’яті</string>
+    <string name="mobile_settings_stall_quality">Знижувати якість під час постійної буферизації</string>
+    <string name="mobile_settings_stall_quality_summary">Приблизно після 20 секунд буферизації знижує якість на один рівень. Вимкнення може допомогти під час використання VPN.</string>
+    <string name="mobile_settings_high_bitrate">Формати з високим бітрейтом</string>
+    <string name="mobile_settings_high_bitrate_summary">Додає доступні потоки YouTube 1080p із високим бітрейтом. Потребує додаткового запиту</string>
+    <string name="mobile_settings_sabr">Потік через SABR (експериментально)</string>
+    <string name="mobile_settings_sabr_summary">Новий протокол потокової передачі YouTube застосовується з наступного відео. Якщо він не спрацює, відео відтвориться звичайним способом.</string>
+    <string name="mobile_settings_legacy_codecs">Потоки в одному файлі</string>
+    <string name="mobile_settings_legacy_codecs_summary">Відтворює старий потік в одному файлі, зазвичай 360p, без зміни якості. Лише для дуже повільних телефонів.</string>
+    <string name="mobile_settings_live">Прямі трансляції</string>
+    <string name="mobile_settings_live_edge">Починати з поточного моменту ефіру</string>
+    <string name="mobile_settings_live_edge_summary">Відтворює трансляції якомога ближче до прямого ефіру, без 15-секундного запасу</string>
+    <string name="mobile_settings_live_hls">Відтворювати прямі трансляції через HLS</string>
+    <string name="mobile_settings_live_hls_summary">На повільних телефонах може працювати плавніше. Перемотування назад недоступне, а якість обмежена 1080p</string>
 </resources>
