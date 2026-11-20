@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Выдаляе прагледжаныя відэа з гісторыі YouTube</string>
     <string name="mobile_settings_clear_watch_history_confirm">Ачысціць гісторыю праглядаў?</string>
     <string name="mobile_settings_clear_watch_history_body">Усе відэа з гісторыі праглядаў YouTube будуць выдалены. Гэта дзеянне нельга адмяніць.</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Не захоўваць гісторыю пошуку</string>
+    <string name="mobile_settings_search_history_off_summary">Папярэднія запыты не захоўваюцца і не прапануюцца</string>
+    <string name="mobile_settings_clear_search_history">Ачысціць гісторыю пошуку</string>
+    <string name="mobile_settings_clear_search_history_summary">Выдаляе запыты, захаваныя на гэтым тэлефоне</string>
+    <string name="mobile_settings_clear_search_history_confirm">Ачысціць гісторыю пошуку?</string>
+    <string name="mobile_settings_clear_search_history_body">Запыты, захаваныя MeeTube на гэтым тэлефоне, будуць выдалены. Гэта дзеянне нельга адмяніць.</string>
+    <string name="mobile_settings_backup_now">Стварыць рэзервовую копію</string>
+    <string name="mobile_settings_backup_now_summary">Захоўвае налады ў %1$s</string>
+    <string name="mobile_settings_backup_done">Рэзервовая копія захавана</string>
+    <string name="mobile_settings_restore">Аднавіць</string>
+    <string name="mobile_settings_restore_summary">З рэзервовай копіі ў %1$s</string>
+    <string name="mobile_settings_auto_backup">Аўтаматычнае рэзервовае капіраванне</string>
+    <string name="mobile_settings_auto_backup_off">Ніколі</string>
+    <string name="mobile_settings_backup_note">Рэзервовая копія змяшчае ўсе вашы налады MeeTube. Даныя ўліковага запісу YouTube, напрыклад падпіскі і гісторыя, застаюцца ў ім.</string>
+    <string name="mobile_settings_home_layout">Макет галоўнай старонкі</string>
 </resources>
