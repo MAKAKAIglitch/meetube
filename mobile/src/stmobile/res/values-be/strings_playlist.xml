@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">аўтар: %1$s</string>
+    <string name="mobile_playlist_type">Плэйліст</string>
+    <string name="mobile_playlist_download_all">Спампаваць усё</string>
+    <string name="mobile_playlist_download_confirm">Спампаваць відэа: %1$d?</string>
+    <string name="mobile_playlist_download_quality">Якасць загрузкі для ўсіх відэа</string>
+    <string name="mobile_playlist_download_best">Найлепшая даступная</string>
+    <string name="mobile_playlist_download_queued">У чаргу дададзена відэа: %1$d</string>
+    <string name="mobile_playlist_download_skipped">У чаргу дададзена відэа: %1$d. Недаступна: %2$d.</string>
+    <string name="mobile_playlist_load_failed">Не ўдалося загрузіць увесь плэйліст. Паспрабуйце яшчэ раз.</string>
+    <string name="mobile_playlist_sort">Сартаваць паводле</string>
+    <string name="mobile_playlist_sort_manual">Уручную</string>
+    <string name="mobile_playlist_sort_newest">Даты публікацыі (спачатку навейшыя)</string>
+    <string name="mobile_playlist_sort_oldest">Даты публікацыі (спачатку старэйшыя)</string>
+    <string name="mobile_playlist_sort_popular">Найбольш папулярныя</string>
+    <string name="mobile_playlist_filter_all">Усе</string>
+    <string name="mobile_playlist_filter_videos">Відэа</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Выбраць відэа</string>
+    <string name="mobile_playlist_select_all">Выбраць усё</string>
+    <string name="mobile_playlist_selected">Выбрана: %1$d</string>
+    <string name="mobile_playlist_download_selected">Спампаваць</string>
+    <string name="mobile_playlist_add_videos">Дадаць відэа</string>
+    <string name="mobile_playlist_add_hint">Шукайце, каб дадаць у %1$s</string>
+    <string name="mobile_playlist_loading">Загрузка плэйліста</string>
+</resources>
