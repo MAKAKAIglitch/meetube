@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android субтитр жөндөөлөрү</string>
     <string name="mobile_settings_caption_system_summary">«Системалык» стили ушул жөндөөлөрдү колдонот</string>
     <string name="mobile_settings_captions_note">Субтитрлерди күйгүзүү же тилин тандоо үчүн плеердеги CC баскычын колдонуңуз.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Коомчулук белгилеген видео бөлүктөрүн өткөрүп жиберет</string>
+    <string name="mobile_settings_sponsorblock_segments">Бөлүк башталганда</string>
+    <string name="mobile_settings_segment_skip">Өткөрүп жиберүү</string>
+    <string name="mobile_settings_segment_ask_short">Суроо</string>
+    <string name="mobile_settings_segment_show">Көрсөтүү</string>
+    <string name="mobile_settings_segment_modes_note">Бөлүктү өткөрүп жиберип, баскыч менен ырастоону сурап, аны издөө тилкесинде гана көрсөтүп же функцияны өчүрүп койсоңуз болот.</string>
+    <string name="mobile_settings_segment_min">Мындан кыска бөлүктөрдү өткөрбөө</string>
+    <string name="mobile_settings_segment_once">Ар бир бөлүктү бир гана жолу өткөрүү</string>
+    <string name="mobile_settings_segment_once_summary">Өткөрүлгөн бөлүккө кайра кайрылсаңыз, ал ойнотулат</string>
+    <string name="mobile_settings_segment_alt_server_summary">Бөлүктөр жүктөлбөсө, муну колдонуп көрүңүз</string>
+    <string name="mobile_settings_segment_alt_server">Альтернативдүү серверди колдонуу</string>
+    <string name="mobile_settings_dearrow_titles">Жакшыраак аталыштар</string>
+    <string name="mobile_settings_dearrow_titles_summary">Кликбейт аталыштарды коомчулук жазган аталыштарга алмаштырат</string>
+    <string name="mobile_settings_dearrow_thumbnails">Жакшыраак эскиздер</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Эскиздерди коомчулук тандаган кадрларга алмаштырат</string>
+    <string name="mobile_settings_dearrow_note">DeArrow тизмелерден көргөн видеолоруңуздун ID номерлерин алат.</string>
 </resources>
