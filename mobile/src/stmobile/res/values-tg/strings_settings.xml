@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Баландии садои видеоҳои аз ҳад баландро то сатҳи муқаррарии YouTube паст мекунад</string>
     <string name="mobile_settings_player_volume">Баландии садои плеер</string>
     <string name="mobile_settings_quality_data_saver_note">Ҳангоми фаъол будани сарфаи трафик дар Android, MeeTube дар шабакаи мобилӣ маълумоти камтарро пешакӣ бор мекунад.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Услуб</string>
+    <string name="mobile_settings_caption_size">Андоза</string>
+    <string name="mobile_settings_caption_position">Масофа аз канори поён</string>
+    <string name="mobile_settings_caption_per_channel">Субтитрҳоро барои ҳар канал дар хотир нигоҳ доштан</string>
+    <string name="mobile_settings_caption_per_channel_summary">Субтитрҳои фаъолшуда танҳо барои ҳамон канал бармегарданд. Агар хомӯш бошад, забони охирини интихобшуда барои ҳамаи видеоҳо истифода мешавад.</string>
+    <string name="mobile_settings_caption_system">Танзимоти субтитрҳои Android</string>
+    <string name="mobile_settings_caption_system_summary">Аз ҷониби услуби «Системавӣ» истифода мешавад</string>
+    <string name="mobile_settings_captions_note">Барои фаъол кардани субтитрҳо ё интихоби забонашон тугмаи CC-и плеерро истифода баред.</string>
 </resources>
