@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android subtitr sazlamalary</string>
     <string name="mobile_settings_caption_system_summary">«Ulgam» stili tarapyndan ulanylýar</string>
     <string name="mobile_settings_captions_note">Subtitrlary açmak ýa-da dilini saýlamak üçin pleýerdäki CC düwmesini ulanyň.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Jemgyýetiň bellän wideo böleklerini geçirýär</string>
+    <string name="mobile_settings_sponsorblock_segments">Bölek başlananda</string>
+    <string name="mobile_settings_segment_skip">Geçir</string>
+    <string name="mobile_settings_segment_ask_short">Sorag ber</string>
+    <string name="mobile_settings_segment_show">Görkez</string>
+    <string name="mobile_settings_segment_modes_note">Bölegi geçirip, düwme bilen tassyklamagy sorap, diňe gözleg zolagynda görkezip ýa-da öçürip bilersiňiz.</string>
+    <string name="mobile_settings_segment_min">Şundan gysga bölekleri geçirme</string>
+    <string name="mobile_settings_segment_once">Her bölegi diňe bir gezek geçir</string>
+    <string name="mobile_settings_segment_once_summary">Geçiren bölegiňize gaýdyp barsaňyz, ol görkeziler</string>
+    <string name="mobile_settings_segment_alt_server_summary">Bölekler ýüklenmese, muny synap görüň</string>
+    <string name="mobile_settings_segment_alt_server">Alternatiw serwerden peýdalan</string>
+    <string name="mobile_settings_dearrow_titles">Has gowy atlar</string>
+    <string name="mobile_settings_dearrow_titles_summary">Klikbeýt atlary jemgyýetiň ýazan atlary bilen çalyşýar</string>
+    <string name="mobile_settings_dearrow_thumbnails">Has gowy kiçi suratlar</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Kiçi suratlary jemgyýetiň saýlan kadrlary bilen çalyşýar</string>
+    <string name="mobile_settings_dearrow_note">DeArrow sanawlarda görýän wideolaryňyzyň ID belgilerini alýar.</string>
 </resources>
