@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">Conectează-te la YouTube</string>
+    <string name="mobile_web_signin_privacy">Aceasta este pagina oficială Google. MeeTube nu îți vede niciodată parola.</string>
+    <string name="mobile_web_signin_loading">Se deschide Google</string>
+    <string name="mobile_web_signin_finishing">Se finalizează conectarea</string>
+    <string name="mobile_web_signin_failed">Nu s-a putut finaliza conectarea la YouTube. Verifică conexiunea și încearcă din nou.</string>
+    <string name="mobile_web_signin_retry">Reîncearcă</string>
+    <string name="mobile_web_signin_explain_title">Încă o conectare</string>
+    <string name="mobile_web_signin_explain_need">Pentru a trimite mesaje în chatul live și a aprecia postări, trebuie să te conectezi pe pagina web oficială YouTube. Durează un minut și se face o singură dată.</string>
+    <string name="mobile_web_signin_explain_current">Conectarea ta actuală rămâne neschimbată și va continua să gestioneze videoclipurile, istoricul și abonamentele.</string>
+    <string name="mobile_web_signin_explain_risk">Folosește același cont Google. Google nu aprobă aplicațiile neoficiale, deci există un risc mic pentru contul folosit.</string>
+    <string name="mobile_web_signin_google">Conectează-te cu Google</string>
+    <string name="mobile_web_signin_not_now">Nu acum</string>
+    <string name="mobile_web_signin_sign_out">Deconectare de la autentificarea web YouTube?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Va trebui să te conectezi din nou pentru a trimite mesaje în chatul live. Conectarea actuală din MeeTube rămâne neschimbată.</string>
+    <string name="mobile_web_signin_sign_out_failed">Nu s-a putut efectua deconectarea. Încearcă din nou.</string>
+    <string name="mobile_web_signin_signed_out">Te-ai deconectat de la autentificarea web YouTube</string>
+    <string name="mobile_web_signin_add">Adaugă un cont web</string>
+    <string name="mobile_web_signin_choose">Discută ca</string>
+    <string name="mobile_web_signin_switch">Schimbă contul web</string>
+    <string name="mobile_web_signin_expired">Autentificarea web YouTube a expirat. Conectează-te din nou.</string>
+    <string name="mobile_chat_as">Discuți ca %1$s</string>
+    <string name="mobile_chat_hint">Scrie ceva</string>
+    <string name="mobile_chat_send">Trimite mesajul</string>
+    <string name="mobile_chat_send_failed">Mesajul nu a putut fi trimis. Încearcă din nou.</string>
+    <string name="mobile_chat_not_ready">Chatul nu este încă pregătit. Încearcă din nou peste puțin timp.</string>
+</resources>
