@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Initial Ukrainian pass. Remaining MeeTune strings will be added in follow-up translation commits. -->
+    <string name="meetune_name" translatable="false">MeeTune</string>
+    <string name="meetune_try">Спробувати MeeTune</string>
+    <string name="meetune_home">Головна</string>
+    <string name="meetune_explore">Огляд</string>
+    <string name="meetune_library">Бібліотека</string>
+    <string name="meetune_search">Пошук</string>
+    <string name="meetune_search_hint">Пісні, альбоми, виконавці</string>
+    <string name="meetune_back">Назад</string>
+    <string name="meetune_settings">Налаштування MeeTune</string>
+    <string name="meetune_account">Обліковий запис і налаштування</string>
+    <string name="meetune_add_account">Додати обліковий запис</string>
+    <string name="meetune_to_meetube">Повернутися до MeeTube</string>
+    <string name="meetune_show_all">Показати все</string>
+    <string name="meetune_more">Більше</string>
+    <string name="meetune_play">Відтворити</string>
+    <string name="meetune_play_pause">Відтворити або призупинити</string>
+    <string name="meetune_next">Далі</string>
+    <string name="meetune_lyrics_finding">Пошук тексту пісні</string>
+    <string name="meetune_lyrics_coming">Завантаження тексту…</string>
+    <string name="meetune_lyrics_none">У цієї пісні немає тексту</string>
+    <string name="meetune_share">Поділитися</string>
+    <string name="meetune_shuffle">Перемішати</string>
+    <string name="meetune_mood">Музика під ваш настрій</string>
+    <string name="meetune_error">Не вдалося підключитися до YouTube Music.</string>
+    <string name="meetune_retry">Повторити</string>
+    <string name="meetune_empty">Тут поки нічого немає.</string>
+    <string name="meetune_search_empty">Шукайте пісні, альбоми та виконавців.</string>
+    <string name="meetune_library_signed_out">Увійдіть у YouTube, щоб переглядати плейлисти, альбоми та вподобані пісні.</string>
+    <string name="meetune_sign_in">Увійти</string>
+    <string name="meetune_liked">Уподобана музика</string>
+    <string name="meetune_playlist">Плейлист</string>
+    <string name="meetune_explicit">Ненормативна лексика</string>
+    <string name="meetune_clear">Очистити</string>
+    <string name="meetune_filter_all">Усі</string>
+    <string name="meetune_filter_songs">Пісні</string>
+    <string name="meetune_filter_videos">Відео</string>
+    <string name="meetune_filter_albums">Альбоми</string>
+    <string name="meetune_filter_artists">Виконавці</string>
+    <string name="meetune_filter_playlists">Плейлисти</string>
+    <string name="meetune_set_customize">Персоналізація</string>
+    <string name="meetune_set_customize_summary">Серце на сторінці «Ви», назва біля логотипа та підсвічування пошуку</string>
+    <string name="meetune_set_brand_name">Назва MeeTune біля логотипа</string>
+    <string name="meetune_set_brand_name_summary">Якщо вимкнено, у куті головної сторінки буде лише серце</string>
+    <string name="meetune_link_meetube">MeeTube →</string>
+    <string name="meetune_link_meetune">MeeTune →</string>
+    <string name="meetune_home_hint">Торкніться значка, щоб перейти до MeeTune</string>
+    <string name="meetune_meetube_hint">Торкніться значка, щоб перейти до MeeTube</string>
+    <string name="meetune_cached">Кешовані пісні</string>
+    <string name="meetune_cached_summary">Відтворення без мережі</string>
+    <string name="meetune_storage_songs">Пісні MeeTune (у кеші)</string>
+    <plurals name="meetune_storage_songs_value">
+        <item quantity="one">%1$s · %2$d пісня</item>
+        <item quantity="few">%1$s · %2$d пісні</item>
+        <item quantity="many">%1$s · %2$d пісень</item>
+        <item quantity="other">%1$s · %2$d пісні</item>
+    </plurals>
+    <string name="meetune_queue">Далі</string>
+    <string name="meetune_lyrics">Текст пісні</string>
+    <string name="meetune_focus">Зосередитися на тексті пісні</string>
+    <string name="meetune_cast">Трансляція</string>
+    <string name="meetune_minimize">Згорнути</string>
+    <string name="meetune_like">Подобається</string>
+    <string name="meetune_this_phone">Цей телефон</string>
+    <string name="meetune_sort">Сортувати</string>
+    <string name="meetune_sort_added">Дата додавання</string>
+    <string name="meetune_sort_default">Стандартний порядок</string>
+    <string name="meetune_sort_az">За алфавітом (А–Я)</string>
+    <string name="meetune_sort_za">За алфавітом (Я–А)</string>
+    <string name="meetune_find">Знайти серед пісень</string>
+    <string name="meetune_library_search">Пошук у бібліотеці</string>
+</resources>
