@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">YouTube-a daxil olun</string>
+    <string name="mobile_web_signin_privacy">Bu, Google-un öz səhifəsidir. MeeTube parolunuzu görmür.</string>
+    <string name="mobile_web_signin_loading">Google açılır</string>
+    <string name="mobile_web_signin_finishing">Giriş tamamlanır</string>
+    <string name="mobile_web_signin_failed">YouTube-a giriş tamamlana bilmədi. Bağlantını yoxlayıb yenidən cəhd edin.</string>
+    <string name="mobile_web_signin_retry">Yenidən cəhd et</string>
+    <string name="mobile_web_signin_explain_title">Daha bir giriş</string>
+    <string name="mobile_web_signin_explain_need">Canlı söhbətdə mesaj göndərmək və paylaşımları bəyənmək üçün YouTube-un öz veb səhifəsində daxil olmaq lazımdır. Bu, bir dəqiqə çəkir və yalnız bir dəfə edilir.</string>
+    <string name="mobile_web_signin_explain_current">Hazırkı girişiniz dəyişməz qalacaq və videoları, tarixçəni və abunəlikləri idarə etməyə davam edəcək.</string>
+    <string name="mobile_web_signin_explain_risk">Eyni Google hesabından istifadə edin. Google qeyri-rəsmi tətbiqləri təsdiqləmir, buna görə istifadə etdiyiniz hesab üçün kiçik risk var.</string>
+    <string name="mobile_web_signin_google">Google ilə daxil ol</string>
+    <string name="mobile_web_signin_not_now">İndi yox</string>
+    <string name="mobile_web_signin_sign_out">YouTube veb girişindən çıxılsın?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Canlı söhbətdə mesaj göndərmək üçün yenidən daxil olmalı olacaqsınız. MeeTube-dakı hazırkı girişiniz dəyişməyəcək.</string>
+    <string name="mobile_web_signin_sign_out_failed">Hesabdan çıxmaq mümkün olmadı. Yenidən cəhd edin.</string>
+    <string name="mobile_web_signin_signed_out">YouTube veb girişindən çıxıldı</string>
+    <string name="mobile_web_signin_add">Veb hesabı əlavə et</string>
+    <string name="mobile_web_signin_choose">Söhbət adından</string>
+    <string name="mobile_web_signin_switch">Veb hesabını dəyiş</string>
+    <string name="mobile_web_signin_expired">YouTube veb girişinin müddəti bitib. Yenidən daxil olun.</string>
+    <string name="mobile_chat_as">%1$s adından söhbət</string>
+    <string name="mobile_chat_hint">Nəsə yazın</string>
+    <string name="mobile_chat_send">Mesaj göndər</string>
+    <string name="mobile_chat_send_failed">Mesajı göndərmək mümkün olmadı. Yenidən cəhd edin.</string>
+    <string name="mobile_chat_not_ready">Söhbət hələ hazır deyil. Bir az sonra yenidən cəhd edin.</string>
+</resources>
