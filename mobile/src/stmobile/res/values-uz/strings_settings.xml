@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Pleyerni pastga surish videoni kichraytirish o‘rniga yopadi</string>
     <string name="mobile_settings_auto_pip">Rasm ichida rasm</string>
     <string name="mobile_settings_auto_pip_summary">Video ijro etilayotganda ilovadan chiqsangiz, u kichik oynaga kichrayadi. O‘chirilsa, fonda faqat ovoz ijro etiladi</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Video tugaganda</string>
+    <string name="mobile_settings_video_ends_next">Keyingi videoni ijro etish</string>
+    <string name="mobile_settings_video_ends_repeat">Videoni takrorlash</string>
+    <string name="mobile_settings_video_ends_shuffle">Pleylistni aralashtirish</string>
+    <string name="mobile_settings_video_ends_list">Pleylistni oxirigacha ijro etib, to‘xtatish</string>
+    <string name="mobile_settings_video_ends_reverse">Pleylistni teskari tartibda ijro etish</string>
+    <string name="mobile_settings_video_ends_pause">To‘xtatish</string>
+    <string name="mobile_settings_video_ends_close">Pleyerni yopish</string>
+    <string name="mobile_settings_background">Ilovadan chiqqanda</string>
+    <string name="mobile_settings_background_pip_desc">Video kichik oynada ijro etishda davom etadi</string>
+    <string name="mobile_settings_background_audio_desc">Faqat ovoz ijro etishda davom etadi</string>
+    <string name="mobile_settings_remember_speed">Ijro tezligini eslab qolish</string>
+    <string name="mobile_settings_remember_speed_channel">Har bir kanal uchun</string>
+    <string name="mobile_settings_remember_speed_video">Har bir video uchun</string>
+    <string name="mobile_settings_remember_speed_all">Barcha videolar uchun bir xil</string>
+    <string name="mobile_settings_remember_speed_none">Eslab qolmaslik</string>
+    <string name="mobile_settings_remember_speed_none_desc">MeeTube har ishga tushganda tezlik 1× ga qaytariladi</string>
+    <string name="mobile_settings_speed_list">«Qo‘shimcha tezliklar» bo‘limidagi tezliklar</string>
+    <string name="mobile_settings_speed_list_basic">Qisqa ro‘yxat</string>
+    <string name="mobile_settings_speed_list_fine">Aniq qadamlar</string>
+    <string name="mobile_settings_speed_list_finest">Har 0,05× qadamda</string>
+    <string name="mobile_settings_natural_voice">Boshqa tezliklarda tabiiy ovoz</string>
+    <string name="mobile_settings_natural_voice_summary">Tezlikni oshirganda yoki pasaytirganda ovozning odatiy balandligini saqlaydi</string>
 </resources>
