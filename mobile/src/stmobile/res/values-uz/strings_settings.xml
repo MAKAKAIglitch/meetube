@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Juda baland videolar ovozini YouTube’ning odatiy darajasigacha pasaytiradi</string>
     <string name="mobile_settings_player_volume">Pleyer ovozi</string>
     <string name="mobile_settings_quality_data_saver_note">Android’da trafikni tejash yoqilganda, MeeTube mobil tarmoqda kamroq ma’lumotni oldindan yuklaydi.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Uslub</string>
+    <string name="mobile_settings_caption_size">O‘lcham</string>
+    <string name="mobile_settings_caption_position">Pastki chetdan masofa</string>
+    <string name="mobile_settings_caption_per_channel">Subtitrlarni har bir kanal uchun eslab qolish</string>
+    <string name="mobile_settings_caption_per_channel_summary">Yoqilgan subtitrlar faqat shu kanal uchun saqlanadi. O‘chirilsa, oxirgi tanlangan subtitr tili barcha videolarda ishlatiladi.</string>
+    <string name="mobile_settings_caption_system">Android subtitr sozlamalari</string>
+    <string name="mobile_settings_caption_system_summary">«Tizim» uslubi tomonidan ishlatiladi</string>
+    <string name="mobile_settings_captions_note">Subtitrlarni yoqish yoki tilini tanlash uchun pleyerdagi CC tugmasidan foydalaning.</string>
 </resources>
