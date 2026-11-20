@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Ջնջում է դիտված տեսանյութերը YouTube-ի պատմությունից</string>
     <string name="mobile_settings_clear_watch_history_confirm">Մաքրե՞լ դիտումների պատմությունը</string>
     <string name="mobile_settings_clear_watch_history_body">YouTube-ի դիտումների պատմության բոլոր տեսանյութերը կհեռացվեն։ Այս գործողությունը հնարավոր չէ հետարկել։</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Չպահպանել որոնումների պատմությունը</string>
+    <string name="mobile_settings_search_history_off_summary">Նախորդ որոնումները չեն պահպանվում և չեն առաջարկվում</string>
+    <string name="mobile_settings_clear_search_history">Մաքրել որոնումների պատմությունը</string>
+    <string name="mobile_settings_clear_search_history_summary">Ջնջում է այս հեռախոսում պահված որոնումները</string>
+    <string name="mobile_settings_clear_search_history_confirm">Մաքրե՞լ որոնումների պատմությունը։</string>
+    <string name="mobile_settings_clear_search_history_body">MeeTube-ի կողմից այս հեռախոսում պահված որոնումները կջնջվեն։ Այս գործողությունը հնարավոր չէ հետարկել։</string>
+    <string name="mobile_settings_backup_now">Ստեղծել պահուստային պատճեն</string>
+    <string name="mobile_settings_backup_now_summary">Պահում է կարգավորումները %1$s հասցեում</string>
+    <string name="mobile_settings_backup_done">Պահուստային պատճենը պահպանված է</string>
+    <string name="mobile_settings_restore">Վերականգնել</string>
+    <string name="mobile_settings_restore_summary">%1$s-ում գտնվող պահուստային պատճենից</string>
+    <string name="mobile_settings_auto_backup">Ավտոմատ պահուստավորում</string>
+    <string name="mobile_settings_auto_backup_off">Երբեք</string>
+    <string name="mobile_settings_backup_note">Պահուստային պատճենը ներառում է MeeTube-ում ձեր կատարած բոլոր կարգավորումները։ YouTube հաշվին պատկանող տվյալները, օրինակ՝ բաժանորդագրություններն ու պատմությունը, մնում են այնտեղ։</string>
+    <string name="mobile_settings_home_layout">Գլխավոր էջի դասավորություն</string>
 </resources>
