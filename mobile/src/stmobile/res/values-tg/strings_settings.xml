@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Дар саҳифаҳои канал пинҳон кардан</string>
     <string name="mobile_settings_hidden_live">Пахшҳои мустақим</string>
     <string name="mobile_settings_hidden_live_subscriptions">Пинҳон кардани пахшҳои мустақим дар обунаҳо</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Менюи видео</string>
+    <string name="mobile_settings_video_menu_summary">Интихоб кунед, ки дар менюи ⋮ чӣ нишон дода шавад</string>
+    <string name="mobile_settings_video_menu_note">Мундариҷаи менюи ⋮ дар видео ва менюе, ки бо нигоҳ доштани ҷадвал кушода мешавад. Ҳар банд танҳо дар ҷойи мувофиқ нишон дода мешавад.</string>
+    <string name="mobile_settings_menu_play">Навозиш</string>
+    <string name="mobile_settings_menu_queue_add">Ба навбат илова кардан</string>
+    <string name="mobile_settings_menu_save">Нигоҳдорӣ</string>
+    <string name="mobile_settings_menu_recent_playlist">Ба рӯйхати навозиши охирин истифодашуда илова кардан</string>
+    <string name="mobile_settings_menu_save_playlist">Рӯйхати навозишро нигоҳ доштан ё хориҷ кардан</string>
+    <string name="mobile_settings_menu_channel">Канал ва тавсияҳо</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Дар обунаҳо пинҳон кардан</string>
+    <string name="mobile_settings_menu_share">Мубодила ва маълумот</string>
+    <string name="mobile_settings_menu_playlists">Рӯйхатҳои навозиш</string>
+    <string name="mobile_settings_menu_tabs">Менюи ҷадвал</string>
+    <string name="mobile_settings_menu_move_section">Ба боло ё поён кӯчондан</string>
+    <string name="mobile_settings_menu_usual_order">Тартиби маъмулӣ</string>
+    <string name="mobile_settings_menu_usual_order_summary">Бандҳои менюро ба ҷойҳои маъмулии худ баргардондан</string>
+    <string name="mobile_settings_menu_usual_order_done">Тартиби меню барқарор шуд</string>
+    <string name="mobile_settings_thumbnails">Аксҳои пешнамоиш</string>
+    <string name="mobile_settings_thumbnails_default">Акси пешнамоиши интихобкардаи боргузоранда</string>
+    <string name="mobile_settings_thumbnails_start">Кадр аз аввали видео</string>
+    <string name="mobile_settings_thumbnails_middle">Кадр аз миёнаи видео</string>
+    <string name="mobile_settings_thumbnails_end">Кадр аз охири видео</string>
+    <string name="mobile_settings_original_titles">Унвонҳои аслӣ</string>
+    <string name="mobile_settings_original_titles_summary">Нишон додани унвонҳо ба забони аслӣ, на тарҷумаи YouTube</string>
 </resources>
