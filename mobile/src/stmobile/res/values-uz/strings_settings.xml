@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Siz</string>
     <string name="mobile_settings_tabs_none">Hech biri</string>
     <string name="mobile_settings_tabs_bar_note">Tartibni o‘zgartirish uchun elementni tutqichidan sudrang yoki bosib turing. Qidiruvni yuqori panelga ko‘chirish uchun yuqoriga sudrang. Tarkibini o‘zgartirish uchun yorliqni bosing.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Yuqori panel</string>
+    <string name="mobile_settings_bar_tab">Yorliq</string>
+    <string name="mobile_settings_bar_tab_summary">O‘zgartirish uchun bosing</string>
+    <string name="mobile_settings_bar_empty">Bo‘sh</string>
+    <string name="mobile_settings_bar_empty_summary">Yorliq tanlash uchun bosing</string>
+    <string name="mobile_settings_bar_first">Har doim birinchi</string>
+    <string name="mobile_settings_bar_home_summary">Har doim birinchi. Olib tashlash uchun bosing</string>
+    <string name="mobile_settings_bar_home_shown">Ko‘rsatilgan</string>
+    <string name="mobile_settings_bar_home_removed">Olib tashlandi</string>
+    <string name="mobile_settings_bar_home_removed_desc">Tavsiyalar lentasi yo‘q: ilova birinchi yorliqda ochiladi</string>
+    <string name="mobile_settings_bar_last">Har doim oxirgi</string>
+    <string name="mobile_settings_bar_search_up">Yuqori panelga ko‘chirish uchun yuqoriga suring</string>
+    <string name="mobile_settings_bar_search_down">Pastki panelga qaytarish uchun pastga suring</string>
+    <string name="mobile_settings_search_place">Qidiruv</string>
+    <string name="mobile_settings_search_place_bottom">Pastki panelda</string>
+    <string name="mobile_settings_search_place_top">Yuqori panelda</string>
+    <string name="mobile_settings_tabs_note">«Siz» bo‘limidagi yorliq yoki qatorni ko‘chirish, nomini o‘zgartirish yoki yashirish uchun uni bosib turing.</string>
 </resources>
