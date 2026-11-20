@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Hər 0,05× artımla</string>
     <string name="mobile_settings_natural_voice">Digər sürətlərdə təbii səs</string>
     <string name="mobile_settings_natural_voice_summary">Sürəti artırdıqda və ya azaltdıqda səsin adi tonunu saxlayır</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Yuxu taymeri</string>
+    <string name="mobile_settings_sleep_timer_summary">Video açdıqdan sonra %1$s müddət keçəndə oxutmanı dayandırır</string>
+    <string name="mobile_settings_audio_focus">Digər səslər zamanı pauza</string>
+    <string name="mobile_settings_audio_focus_summary">Zənglər və digər tətbiqlərin səsi zamanı pauza verir. Növbəti açacağınız videoya tətbiq olunur</string>
+    <string name="mobile_settings_resume">Davam et</string>
+    <string name="mobile_settings_resume_short">Qısa videoları davam etdir</string>
+    <string name="mobile_settings_resume_short_summary">Bu seçim aktiv olmadıqda 6 dəqiqədən qısa videolar əvvəldən başlayır</string>
+    <string name="mobile_settings_resume_live">Canlı yayımları davam etdir</string>
+    <string name="mobile_settings_resume_live_summary">Canlı yayımı canlı nöqtədən deyil, dayandığınız yerdən davam etdirir</string>
+    <string name="mobile_settings_watch_page">Videonun altında</string>
+    <string name="mobile_settings_ambient">Atmosfer rejimi</string>
+    <string name="mobile_settings_ambient_summary">Videonun rəngləri pleyerin altında parlayır və şaquli tam ekran rejimində qara sahələri doldurur</string>
+    <string name="mobile_settings_hide_related">Növbəti videoları gizlət</string>
+    <string name="mobile_settings_hide_related_summary">Pleyerin altındakı əlaqəli videoları göstərmir</string>
+    <string name="mobile_settings_dislikes">Dislayk sayını göstər</string>
+    <string name="mobile_settings_dislikes_summary">Məlumatı videonun ID-sini alan Return YouTube Dislike xidmətindən götürür</string>
+    <string name="mobile_settings_paid_promotion">Ödənişli tanıtım barədə bildiriş ver</string>
+    <string name="mobile_settings_paid_promotion_summary">Videoda ödənişli tanıtım olduğu bildiriləndə qısa mesaj göstərir</string>
 </resources>
