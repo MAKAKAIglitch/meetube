@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Кадр з канца відэа</string>
     <string name="mobile_settings_original_titles">Арыгінальныя назвы</string>
     <string name="mobile_settings_original_titles_summary">Паказваць назвы на мове арыгінала, а не ў перакладзе YouTube</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Фармат ліку лакх і крор</string>
+    <string name="mobile_settings_indian_counts_summary">Паказваць прагляды і ўпадабанні як 2,5 лакха і 1,2 крора замест 250 тыс. і 12 млн.</string>
+    <string name="mobile_settings_channels_order">Парадак каналаў ва ўкладцы «Вы»</string>
+    <string name="mobile_settings_channels_order_recent">Спачатку нядаўна прагледжаныя</string>
+    <string name="mobile_settings_channels_order_name">Ад А да Я</string>
+    <string name="mobile_settings_channels_order_new">Спачатку каналы з новымі відэа</string>
+    <string name="mobile_settings_pinned_channels">Што паказваць у замацаваных каналах</string>
+    <string name="mobile_settings_pinned_channels_all">Галоўная старонка канала</string>
+    <string name="mobile_settings_pinned_channels_uploads">Толькі яго відэа</string>
+    <string name="mobile_settings_playlists_style">Плэйлісты ва ўкладцы «Вы»</string>
+    <string name="mobile_settings_playlists_style_grid">Кожны плэйліст асобна</string>
+    <string name="mobile_settings_playlists_style_rows">Усе відэа з плэйлістаў запар</string>
+    <string name="mobile_settings_watch_history">Гісторыя праглядаў</string>
+    <string name="mobile_settings_watch_history_auto">Выкарыстоўваць наладу YouTube</string>
+    <string name="mobile_settings_watch_history_auto_desc">Захоўваць гісторыю, калі яна ўключана ў вашым уліковым запісе YouTube</string>
+    <string name="mobile_settings_watch_history_on">Заўсёды захоўваць</string>
+    <string name="mobile_settings_watch_history_on_desc">Пры кожным запуску MeeTube зноў уключае гісторыю праглядаў YouTube</string>
+    <string name="mobile_settings_watch_history_off">Не захоўваць</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube перастае паведамляць YouTube, якія відэа вы глядзіце</string>
+    <string name="mobile_settings_clear_watch_history">Ачысціць гісторыю праглядаў</string>
+    <string name="mobile_settings_clear_watch_history_summary">Выдаляе прагледжаныя відэа з гісторыі YouTube</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Ачысціць гісторыю праглядаў?</string>
+    <string name="mobile_settings_clear_watch_history_body">Усе відэа з гісторыі праглядаў YouTube будуць выдалены. Гэта дзеянне нельга адмяніць.</string>
 </resources>
