@@ -161,7 +161,7 @@
     <string name="mobile_settings_hidden_watched_later">Görülen wideolary «Soň gör» sanawyndan aýyr</string>
     <string name="mobile_settings_hidden_watched_later_summary">Wideony görüp gutaranyňyzdan soň ony «Soň gör» sanawyndan aýyrýar</string>
     <string name="mobile_settings_hidden_watched_note">YouTube tomaşa taryhy ulanylýar, şonuň üçin hasabyňyza girmeli.</string>
-    <string name="mobile_settings_hidden_upcoming">Upcoming premýeralar we ýaýlymlar</string>
+    <string name="mobile_settings_hidden_upcoming">Ýakyn wagtda boljak premýeralar we ýaýlymlar</string>
     <string name="mobile_settings_hidden_upcoming_home">Baş sahypada gizle</string>
     <string name="mobile_settings_hidden_upcoming_subscriptions">Ýazylan kanallaryň sanawynda gizle</string>
     <string name="mobile_settings_hidden_upcoming_channels">Kanal sahypalarynda gizle</string>
