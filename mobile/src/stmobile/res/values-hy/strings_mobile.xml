@@ -206,4 +206,19 @@
     <string name="mobile_search_error">Չհաջողվեց բեռնել արդյունքները։</string>
     <string name="mobile_channel_tab_videos">Տեսանյութեր</string>
     <string name="mobile_channel_tab_more">Ավելին</string>
+    <string name="mobile_nav_you">Դուք</string>
+    <string name="mobile_nav_hint_tabs">Ներդիրների կարգավորում  ›</string>
+    <string name="mobile_nav_hint_change">Փոխել</string>
+    <string name="mobile_nav_hint_confirm_title">Անհատականացնե՞լ ներդիրները։</string>
+    <string name="mobile_nav_hint_confirm_body">Բացում է կարգավորումները՝ ներքևի վահանակի ներդիրներն ընտրելու և դասավորելու համար։</string>
+    <string name="mobile_nav_hint_confirm_open">Բացել</string>
+    <string name="mobile_nav_subs">Բաժանորդագրություններ</string>
+    <string name="mobile_subs_all_channels">Բոլոր բաժանորդագրությունները</string>
+    <string name="mobile_you_explore">Բացահայտել</string>
+    <string name="mobile_you_library">Գրադարան</string>
+    <string name="mobile_you_watch_later">Դիտել ավելի ուշ</string>
+    <string name="mobile_you_liked_videos">Հավանած տեսանյութեր</string>
+    <string name="mobile_no_browser">Այս հղումը բացելու համար հավելված չի գտնվել</string>
+    <string name="mobile_add_device_title">Զուգակցել սարքը</string>
+    <string name="mobile_add_device_done">Պատրաստ է</string>
 </resources>
