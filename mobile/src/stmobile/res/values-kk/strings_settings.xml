@@ -103,4 +103,6 @@
     <string name="mobile_settings_24_hour_summary">Премьералар мен тікелей эфирлердің басталу уақыты үшін</string>
     <string name="mobile_settings_liquid_glass">Сұйық әйнек</string>
     <string name="mobile_settings_liquid_glass_summary">Әйнек панельдердегі линза, жарық және текстура. Өшірілгенде батареяны аз жұмсайтын қарапайым бұлыңғырлық қолданылады</string>
+    <string name="mobile_settings_storage_clear_empty">Кэш әлдеқашан бос!</string>
+    <string name="mobile_settings_storage_clear_empty_note">Тазалайтын кэш жоқ. Бірдеңе көріп, кейін қайта оралыңыз.</string>
 </resources>
