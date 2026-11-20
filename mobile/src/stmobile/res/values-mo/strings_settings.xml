@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Tu</string>
     <string name="mobile_settings_tabs_none">Niciuna</string>
     <string name="mobile_settings_tabs_bar_note">Trage un element de mâner sau ține-l apăsat pentru a schimba ordinea barei. Trage „Căutare” în sus pentru a o muta în bara de sus. Atinge o filă pentru a-i schimba conținutul.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Bara de sus</string>
+    <string name="mobile_settings_bar_tab">Filă</string>
+    <string name="mobile_settings_bar_tab_summary">Atinge pentru a modifica</string>
+    <string name="mobile_settings_bar_empty">Gol</string>
+    <string name="mobile_settings_bar_empty_summary">Atinge pentru a alege o filă</string>
+    <string name="mobile_settings_bar_first">Întotdeauna prima</string>
+    <string name="mobile_settings_bar_home_summary">Întotdeauna prima. Atinge pentru a o elimina</string>
+    <string name="mobile_settings_bar_home_shown">Afișată</string>
+    <string name="mobile_settings_bar_home_removed">Eliminată</string>
+    <string name="mobile_settings_bar_home_removed_desc">Nu există flux de recomandări: aplicația se deschide pe prima filă</string>
+    <string name="mobile_settings_bar_last">Întotdeauna ultima</string>
+    <string name="mobile_settings_bar_search_up">Trage în sus pentru a muta în bara de sus</string>
+    <string name="mobile_settings_bar_search_down">Trage în jos pentru a o muta înapoi în bara de jos</string>
+    <string name="mobile_settings_search_place">Căutare</string>
+    <string name="mobile_settings_search_place_bottom">În bara de jos</string>
+    <string name="mobile_settings_search_place_top">În bara de sus</string>
+    <string name="mobile_settings_tabs_note">Ține apăsată o filă sau un rând din „Tu” pentru a-l muta, redenumi sau ascunde.</string>
 </resources>
