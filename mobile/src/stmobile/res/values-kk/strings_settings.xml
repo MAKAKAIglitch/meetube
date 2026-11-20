@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Шыны жарқылы қойындыға қарай сырғиды, ал панель аздап қозғалады. Баяу телефондарда өзіңіз қоспайынша өшірулі болады.</string>
     <string name="mobile_settings_tabs_reset">Панельді әдепкі күйге қайтару</string>
     <string name="mobile_settings_tabs_reset_summary">Басты бет, Shorts, Іздеу, Жазылымдар, Сіз</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Бейне орналасуы</string>
+    <string name="mobile_settings_video_layout_cards">Карталар</string>
+    <string name="mobile_settings_video_layout_cards_desc">Әр бейнеге арналған үлкен нобай</string>
+    <string name="mobile_settings_video_layout_list">Тізім</string>
+    <string name="mobile_settings_video_layout_list_desc">Тақырып жанындағы шағын нобай, экранда көбірек бейне</string>
+    <string name="mobile_settings_screen_off">Экран өшірулі кезде ойнатуды жалғастыру</string>
+    <string name="mobile_settings_screen_off_on">Рұқсат етілген: қуат үнемдеу дыбысты тоқтатпайды</string>
+    <string name="mobile_settings_screen_off_off">Қуат үнемдеу дыбысты тоқтатуы мүмкін. MeeTube қолданбасына фонда жұмыс істеуге рұқсат беру үшін түртіңіз</string>
+    <string name="mobile_settings_seek_thumb">Іздеу жолағының сырғытпасы</string>
+    <string name="mobile_settings_seek_thumb_dot">Нүкте</string>
+    <string name="mobile_settings_seek_thumb_picture">Өз суретіңіз</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Телефоннан сурет таңдаңыз; GIF анимацияланады</string>
+    <string name="mobile_settings_seek_thumb_failed">Бұл суретті пайдалану мүмкін болмады (ең көбі 5 МБ)</string>
+    <string name="mobile_settings_mini_type">Шағын ойнатқыш түрі</string>
+    <string name="mobile_settings_mini_type_default">Әдепкі</string>
+    <string name="mobile_settings_mini_type_default_desc">Қалқымалы карта. Өлшемін өзгерту үшін саусақтарыңызды жақындатыңыз не алшақтатыңыз</string>
+    <string name="mobile_settings_mini_type_minimal">Минималистік</string>
+    <string name="mobile_settings_mini_type_minimal2">Минималистік 2</string>
+    <string name="mobile_settings_mini_type_disabled">Өшірулі</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Ойнатқышты төмен сырғыту бейнені кішірейтпей, жабады</string>
+    <string name="mobile_settings_auto_pip">Сурет ішіндегі сурет</string>
+    <string name="mobile_settings_auto_pip_summary">Бейне ойнатылып тұрғанда қолданбадан шықсаңыз, ол шағын терезеге кішірейеді. Өшірілсе, фонда тек дыбыс ойнатылады</string>
 </resources>
