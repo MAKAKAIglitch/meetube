@@ -151,4 +151,20 @@
     <string name="mobile_settings_search_place_bottom">Pastki panelda</string>
     <string name="mobile_settings_search_place_top">Yuqori panelda</string>
     <string name="mobile_settings_tabs_note">«Siz» bo‘limidagi yorliq yoki qatorni ko‘chirish, nomini o‘zgartirish yoki yashirish uchun uni bosib turing.</string>
+
+    <!-- Hidden video and feed translations -->
+    <string name="mobile_settings_hidden">Yashirilgan videolar</string>
+    <string name="mobile_settings_hidden_none">Hech narsa yashirilmagan</string>
+    <string name="mobile_settings_hidden_watched">Ko‘rilgan videolar</string>
+    <string name="mobile_settings_hidden_watched_home">Ko‘rilgan videolarni bosh sahifada yashirish</string>
+    <string name="mobile_settings_hidden_watched_subscriptions">Ko‘rilgan videolarni obunalarda yashirish</string>
+    <string name="mobile_settings_hidden_watched_later">Ko‘rilgan videolarni «Keyinroq ko‘rish» ro‘yxatidan olib tashlash</string>
+    <string name="mobile_settings_hidden_watched_later_summary">Videoni ko‘rib bo‘lgach, uni «Keyinroq ko‘rish» ro‘yxatidan olib tashlaydi</string>
+    <string name="mobile_settings_hidden_watched_note">YouTube tomosha tarixi ishlatiladi, shuning uchun hisobingizga kirgan bo‘lishingiz kerak.</string>
+    <string name="mobile_settings_hidden_upcoming">Kutilayotgan premyeralar va jonli efirlar</string>
+    <string name="mobile_settings_hidden_upcoming_home">Bosh sahifada yashirish</string>
+    <string name="mobile_settings_hidden_upcoming_subscriptions">Obunalarda yashirish</string>
+    <string name="mobile_settings_hidden_upcoming_channels">Kanal sahifalarida yashirish</string>
+    <string name="mobile_settings_hidden_live">Jonli efirlar</string>
+    <string name="mobile_settings_hidden_live_subscriptions">Jonli efirlarni obunalarda yashirish</string>
 </resources>
