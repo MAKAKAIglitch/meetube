@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Суюк тамчы</string>
     <string name="mobile_loader_glass_orbit">Айнек орбита</string>
     <string name="mobile_app_icon_pending">Жаңы сүрөтчө бардык жерде колдонулушу үчүн MeeTube колдонмосун кайра иштетиңиз. Болбосо, колдонмодон чыккандан кийин өзгөрөт.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Тасма</string>
+    <string name="mobile_settings_home_layout_feed_desc">YouTube сыяктуу видеолордун бир тизмеси</string>
+    <string name="mobile_settings_home_layout_rows">Катарлар</string>
+    <string name="mobile_settings_home_layout_rows_desc">SmartTube сыяктуу ар бир тема үчүн өзүнчө туурасынан жылдырылуучу катар</string>
+    <string name="mobile_settings_home_shorts">Башкы беттеги Shorts</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube'дагыдай туурасынан жылдырылуучу Shorts катары</string>
+    <string name="mobile_settings_chip_style">Чыпкалардын стили</string>
+    <string name="mobile_settings_chip_style_segment">Бириктирилген панель</string>
+    <string name="mobile_settings_chip_style_segment_desc">Башкы беттеги тема чыпкалары жана издөө чыпкалары бир айнек тилкеде турат. Чыпканы басып, линза сыяктуу сүйрөңүз.</string>
+    <string name="mobile_settings_chip_style_pills">Өзүнчө белгилер</string>
+    <string name="mobile_settings_chip_style_pills_desc">Ар бир чыпка өзүнчө айнек белгиде көрсөтүлөт</string>
+    <string name="mobile_settings_player_buttons_look">Ойноткуч баскычтарынын стили</string>
+    <string name="mobile_settings_player_buttons_see_through">Жарым тунук</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Видео, Shorts жана мини-ойноткучтагы ар бир баскычтын артында түстүү айнек тегерек бар</string>
+    <string name="mobile_settings_player_buttons_frosted">Күңүрт айнек</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Тегеректер астындагы сүрөттү бүдөмүктөтөт. Кубатты көбүрөөк сарптайт жана жай телефондордо тыгылып калышы мүмкүн.</string>
+    <string name="mobile_settings_player_buttons_minimal">Минималдуу</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Тегеректер жок, YouTube'дагыдай жумшак көлөкөлүү сүрөтчөлөр гана бар</string>
+    <string name="mobile_settings_performance">Өндүрүмдүүлүк</string>
+    <string name="mobile_settings_high_refresh">Жогорку жаңыртуу жыштыгы режими</string>
+    <string name="mobile_settings_high_refresh_summary">Эң жылмакай кыймыл үчүн колдонмо %1$d Гц жыштыгында иштейт. Кубатты көбүрөөк сарптайт; телефон ысыганда же кубат үнөмдөө күйгөндө Android жыштыкты азайтышы мүмкүн.</string>
+    <string name="mobile_settings_tab_motion">Өтмөктөрдү алмаштыруу анимациясы</string>
+    <string name="mobile_settings_tab_motion_summary">Айнек жарыгы өтмөккө жылат, ал эми тилке бир аз термелет. Жай телефондордо сиз күйгүзмөйүнчө өчүк болот.</string>
+    <string name="mobile_settings_tabs_reset">Тилкени демейки абалга келтирүү</string>
+    <string name="mobile_settings_tabs_reset_summary">Башкы бет, Shorts, Издөө, Жазылуулар, Сиз</string>
 </resources>
