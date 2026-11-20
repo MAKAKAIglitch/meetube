@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Har 0,05× qadamda</string>
     <string name="mobile_settings_natural_voice">Boshqa tezliklarda tabiiy ovoz</string>
     <string name="mobile_settings_natural_voice_summary">Tezlikni oshirganda yoki pasaytirganda ovozning odatiy balandligini saqlaydi</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Uyqu taymeri</string>
+    <string name="mobile_settings_sleep_timer_summary">Video ochilgandan %1$s o‘tib ijroni to‘xtatadi</string>
+    <string name="mobile_settings_audio_focus">Boshqa tovushlarda pauza</string>
+    <string name="mobile_settings_audio_focus_summary">Qo‘ng‘iroqlar va boshqa ilovalar ovozi paytida pauza qiladi. Keyingi ochiladigan videoga qo‘llanadi</string>
+    <string name="mobile_settings_resume">Davom ettirish</string>
+    <string name="mobile_settings_resume_short">Qisqa videolarni davom ettirish</string>
+    <string name="mobile_settings_resume_short_summary">Bu yoqilmagan bo‘lsa, 6 daqiqadan qisqa videolar boshidan boshlanadi</string>
+    <string name="mobile_settings_resume_live">Jonli efirlarni davom ettirish</string>
+    <string name="mobile_settings_resume_live_summary">Jonli efirni hozirgi nuqtadan emas, to‘xtagan joyingizdan davom ettiradi</string>
+    <string name="mobile_settings_watch_page">Video ostida</string>
+    <string name="mobile_settings_ambient">Atmosfera rejimi</string>
+    <string name="mobile_settings_ambient_summary">Video ranglari pleyer ostida tovlanadi va vertikal to‘liq ekran rejimidagi qora joylarni to‘ldiradi</string>
+    <string name="mobile_settings_hide_related">«Keyingisi» bo‘limini yashirish</string>
+    <string name="mobile_settings_hide_related_summary">Pleyer ostidagi bog‘liq videolarni ko‘rsatmaydi</string>
+    <string name="mobile_settings_dislikes">Dislayklar sonini ko‘rsatish</string>
+    <string name="mobile_settings_dislikes_summary">Ma’lumot video ID raqamini oladigan Return YouTube Dislike xizmatidan olinadi</string>
+    <string name="mobile_settings_paid_promotion">Pulli reklama haqida xabar berish</string>
+    <string name="mobile_settings_paid_promotion_summary">Videoda pulli reklama borligi aytilganda qisqa xabar ko‘rsatadi</string>
 </resources>
