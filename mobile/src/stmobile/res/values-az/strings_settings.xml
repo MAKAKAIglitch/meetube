@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Məlumatı videonun ID-sini alan Return YouTube Dislike xidmətindən götürür</string>
     <string name="mobile_settings_paid_promotion">Ödənişli tanıtım barədə bildiriş ver</string>
     <string name="mobile_settings_paid_promotion_summary">Videoda ödənişli tanıtım olduğu bildiriləndə qısa mesaj göstərir</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Videoların başladığı keyfiyyət. Ayrı video üçün bunu pleyerin ayarlarından dəyişə bilərsiniz.</string>
+    <string name="mobile_settings_default_quality">Standart keyfiyyət</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi ilə</string>
+    <string name="mobile_settings_quality_mobile">Mobil internetlə</string>
+    <string name="mobile_settings_quality_same">Wi-Fi ilə eyni</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Mobil internet: %2$s</string>
+    <string name="mobile_settings_quality_auto">Avtomatik (%1$dp-ə qədər)</string>
+    <string name="mobile_settings_quality_auto_desc">Tövsiyə olunur. Bağlantınızın imkan verdiyi ən yüksək keyfiyyət</string>
+    <string name="mobile_settings_quality_up_to">%1$s-ə qədər</string>
+    <string name="mobile_settings_quality_more_data">Daha çox trafik sərf edir</string>
+    <string name="mobile_settings_quality_less_data">Daha az trafik sərf edir</string>
+    <string name="mobile_settings_quality_data_saver">Trafikə qənaət</string>
+    <string name="mobile_settings_hdr">HDR video</string>
+    <string name="mobile_settings_hdr_summary">HDR videoları daha parlaq və zəngin rənglərlə HDR formatında oxudur. Daha çox trafik sərf edir. Növbəti açacağınız videoya tətbiq olunur</string>
+    <string name="mobile_settings_loudness">Səs səviyyəsini bərabərləşdir</string>
+    <string name="mobile_settings_loudness_summary">Çox yüksək səsli videoların səviyyəsini YouTube-un adi səviyyəsinə endirir</string>
+    <string name="mobile_settings_player_volume">Pleyerin səs səviyyəsi</string>
+    <string name="mobile_settings_quality_data_saver_note">Android-də trafikə qənaət rejimi aktiv olduqda MeeTube mobil şəbəkədə daha az məlumatı əvvəlcədən yükləyir.</string>
 </resources>
