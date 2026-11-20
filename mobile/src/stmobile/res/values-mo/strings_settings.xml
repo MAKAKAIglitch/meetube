@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Miniaturi mai bune</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Înlocuiește miniaturile cu cadre alese de comunitate</string>
     <string name="mobile_settings_dearrow_note">DeArrow primește ID-urile videoclipurilor pe care le vezi în liste.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Majoritatea utilizatorilor nu au nevoie de aceste setări. Ele schimbă modul în care MeeTube transmite videoclipurile și se conectează.</string>
+    <string name="mobile_settings_streaming">Redare în flux</string>
+    <string name="mobile_settings_buffer">Buffer</string>
+    <string name="mobile_settings_buffer_low_desc">Aproximativ 25 de secunde înainte. Folosește cel mai puțină memorie</string>
+    <string name="mobile_settings_buffer_med_desc">Aproximativ 50 de secunde înainte</string>
+    <string name="mobile_settings_buffer_high_desc">Până la 75 de secunde înainte</string>
+    <string name="mobile_settings_buffer_highest_desc">Până la 2 minute înainte. Folosește cea mai multă memorie</string>
+    <string name="mobile_settings_stall_quality">Reduce calitatea când bufferingul continuă</string>
+    <string name="mobile_settings_stall_quality_summary">Reduce calitatea cu un nivel după aproximativ 20 de secunde de buffering. Dezactivarea poate ajuta când folosești un VPN.</string>
+    <string name="mobile_settings_high_bitrate">Formate cu bitrate ridicat</string>
+    <string name="mobile_settings_high_bitrate_summary">Adaugă fluxurile YouTube 1080p cu bitrate ridicat, dacă videoclipul le oferă. Necesită o solicitare suplimentară</string>
+    <string name="mobile_settings_sabr">Redare prin SABR (experimental)</string>
+    <string name="mobile_settings_sabr_summary">Noul protocol de streaming YouTube este folosit începând cu următorul videoclip. Dacă nu funcționează, videoclipul este redat în modul obișnuit.</string>
+    <string name="mobile_settings_legacy_codecs">Fluxuri într-un singur fișier</string>
+    <string name="mobile_settings_legacy_codecs_summary">Redă fluxul vechi într-un singur fișier, de obicei 360p, fără schimbarea calității. Doar pentru telefoane foarte lente.</string>
+    <string name="mobile_settings_live">Transmisiuni live</string>
+    <string name="mobile_settings_live_edge">Pornește din momentul actual al transmisiunii</string>
+    <string name="mobile_settings_live_edge_summary">Redă transmisiunile cât mai aproape de momentul live, fără tamponul de 15 secunde</string>
+    <string name="mobile_settings_live_hls">Redă transmisiunile live prin HLS</string>
+    <string name="mobile_settings_live_hls_summary">Poate funcționa mai fluent pe telefoanele lente. Nu poți derula înapoi, iar calitatea este limitată la 1080p</string>
 </resources>
