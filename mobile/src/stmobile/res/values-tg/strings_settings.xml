@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Маълумот аз Return YouTube Dislike гирифта мешавад, ки ID-и видеоро мегирад</string>
     <string name="mobile_settings_paid_promotion">Огоҳӣ дар бораи таблиғи пулакӣ</string>
     <string name="mobile_settings_paid_promotion_summary">Вақте ки дар видео мавҷудияти таблиғи пулакӣ гуфта мешавад, паёми кӯтоҳ нишон медиҳад</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Сифате, ки видеоҳо бо он оғоз мешаванд. Барои видеои алоҳида онро дар танзимоти плеер тағйир додан мумкин аст.</string>
+    <string name="mobile_settings_default_quality">Сифати пешфарз</string>
+    <string name="mobile_settings_quality_wifi">Дар Wi-Fi</string>
+    <string name="mobile_settings_quality_mobile">Бо интернети мобилӣ</string>
+    <string name="mobile_settings_quality_same">Ҳамон тавре ки дар Wi-Fi</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Интернети мобилӣ: %2$s</string>
+    <string name="mobile_settings_quality_auto">Худкор (то %1$dp)</string>
+    <string name="mobile_settings_quality_auto_desc">Тавсия мешавад. Сифати беҳтарине, ки пайвасти шумо имкон медиҳад</string>
+    <string name="mobile_settings_quality_up_to">То %1$s</string>
+    <string name="mobile_settings_quality_more_data">Трафики бештар истифода мешавад</string>
+    <string name="mobile_settings_quality_less_data">Трафики камтар истифода мешавад</string>
+    <string name="mobile_settings_quality_data_saver">Сарфаи трафик</string>
+    <string name="mobile_settings_hdr">Видеои HDR</string>
+    <string name="mobile_settings_hdr_summary">Видеоҳои HDR-ро бо равшанӣ ва рангҳои ғанӣ дар HDR намоиш медиҳад. Трафики бештар истифода мешавад. Ба видеои навбатии кушодашуда татбиқ мешавад.</string>
+    <string name="mobile_settings_loudness">Ҳамвор кардани баландии садо</string>
+    <string name="mobile_settings_loudness_summary">Баландии садои видеоҳои аз ҳад баландро то сатҳи муқаррарии YouTube паст мекунад</string>
+    <string name="mobile_settings_player_volume">Баландии садои плеер</string>
+    <string name="mobile_settings_quality_data_saver_note">Ҳангоми фаъол будани сарфаи трафик дар Android, MeeTube дар шабакаи мобилӣ маълумоти камтарро пешакӣ бор мекунад.</string>
 </resources>
