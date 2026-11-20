@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Маалымат видеонун ID номерин алган Return YouTube Dislike кызматынан алынат</string>
     <string name="mobile_settings_paid_promotion">Акы төлөнгөн жарнама тууралуу билдирүү</string>
     <string name="mobile_settings_paid_promotion_summary">Видеодо акы төлөнгөн жарнама бар экени айтылса, кыска билдирүү көрсөтөт</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Видеолор баштала турган сапат. Өзүнчө видео үчүн аны плеердин жөндөөлөрүнөн өзгөртө аласыз.</string>
+    <string name="mobile_settings_default_quality">Демейки сапат</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi менен</string>
+    <string name="mobile_settings_quality_mobile">Мобилдик интернет менен</string>
+    <string name="mobile_settings_quality_same">Wi-Fi менен бирдей</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Мобилдик интернет: %2$s</string>
+    <string name="mobile_settings_quality_auto">Автоматтык (%1$dp чейин)</string>
+    <string name="mobile_settings_quality_auto_desc">Сунушталат. Байланышыңыз мүмкүнчүлүк берген эң жогорку сапат</string>
+    <string name="mobile_settings_quality_up_to">%1$s чейин</string>
+    <string name="mobile_settings_quality_more_data">Көбүрөөк трафик сарптайт</string>
+    <string name="mobile_settings_quality_less_data">Азыраак трафик сарптайт</string>
+    <string name="mobile_settings_quality_data_saver">Трафикти үнөмдөө</string>
+    <string name="mobile_settings_hdr">HDR видео</string>
+    <string name="mobile_settings_hdr_summary">HDR видеолорду HDR форматында, жарыгыраак жана канык түстөр менен ойнотот. Көбүрөөк трафик сарптайт. Кийинки ачыла турган видеого колдонулат.</string>
+    <string name="mobile_settings_loudness">Үндүн деңгээлин теңдөө</string>
+    <string name="mobile_settings_loudness_summary">Өтө катуу видеолордун үнүн YouTube'дун кадимки деңгээлине түшүрөт</string>
+    <string name="mobile_settings_player_volume">Плеердин үн деңгээли</string>
+    <string name="mobile_settings_quality_data_saver_note">Android'де трафикти үнөмдөө күйүп турганда, MeeTube мобилдик тармакта азыраак маалыматты алдын ала жүктөйт.</string>
 </resources>
