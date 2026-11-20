@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Ապակե փայլը սահում է դեպի ներդիրը, իսկ վահանակը թեթև շարժվում է։ Դանդաղ հեռախոսներում անջատված է, մինչև միացնեք։</string>
     <string name="mobile_settings_tabs_reset">Վերականգնել վահանակի լռելյայն տեսքը</string>
     <string name="mobile_settings_tabs_reset_summary">Գլխավոր, Shorts, Որոնում, Բաժանորդագրություններ, Դուք</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Տեսանյութի դասավորություն</string>
+    <string name="mobile_settings_video_layout_cards">Քարտեր</string>
+    <string name="mobile_settings_video_layout_cards_desc">Մեծ մանրապատկեր յուրաքանչյուր տեսանյութի համար</string>
+    <string name="mobile_settings_video_layout_list">Ցանկ</string>
+    <string name="mobile_settings_video_layout_list_desc">Փոքր մանրապատկեր վերնագրի կողքին, էկրանին՝ ավելի շատ տեսանյութեր</string>
+    <string name="mobile_settings_screen_off">Շարունակել նվագարկումը անջատված էկրանով</string>
+    <string name="mobile_settings_screen_off_on">Թույլատրված է․ էներգախնայողությունը չի դադարեցնի ձայնը</string>
+    <string name="mobile_settings_screen_off_off">Էներգախնայողությունը կարող է դադարեցնել ձայնը։ Հպեք՝ MeeTube-ին ֆոնային աշխատանք թույլատրելու համար</string>
+    <string name="mobile_settings_seek_thumb">Փնտրման սահիկի բռնակ</string>
+    <string name="mobile_settings_seek_thumb_dot">Կետ</string>
+    <string name="mobile_settings_seek_thumb_picture">Ձեր նկարը</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Ընտրեք նկար հեռախոսից․ GIF-ը կշարժվի</string>
+    <string name="mobile_settings_seek_thumb_failed">Չհաջողվեց օգտագործել այդ նկարը (առավելագույնը՝ 5 ՄԲ)</string>
+    <string name="mobile_settings_mini_type">Մինի նվագարկչի տեսակ</string>
+    <string name="mobile_settings_mini_type_default">Լռելյայն</string>
+    <string name="mobile_settings_mini_type_default_desc">Լողացող քարտ։ Չափը փոխելու համար մոտեցրեք կամ հեռացրեք մատները</string>
+    <string name="mobile_settings_mini_type_minimal">Մինիմալ</string>
+    <string name="mobile_settings_mini_type_minimal2">Մինիմալ 2</string>
+    <string name="mobile_settings_mini_type_disabled">Անջատված է</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Նվագարկիչը ներքև սահեցնելիս տեսանյութը փակվում է, ոչ թե փոքրանում</string>
+    <string name="mobile_settings_auto_pip">Նկար նկարում</string>
+    <string name="mobile_settings_auto_pip_summary">Տեսանյութի նվագարկման ժամանակ հավելվածից դուրս գալիս այն փոքրանում է պատուհանի։ Անջատելու դեպքում ֆոնում շարունակվում է միայն ձայնը</string>
 </resources>
