@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Կադր տեսանյութի վերջից</string>
     <string name="mobile_settings_original_titles">Բնօրինակ վերնագրեր</string>
     <string name="mobile_settings_original_titles_summary">Ցուցադրել վերնագրերը բնօրինակ լեզվով, ոչ թե YouTube-ի թարգմանությամբ</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Լաքհ և կրոր թվերի ձևաչափ</string>
+    <string name="mobile_settings_indian_counts_summary">Դիտումների և հավանումների քանակը ցուցադրել 250K և 12M-ի փոխարեն 2,5 լաքհ և 1,2 կրոր ձևով</string>
+    <string name="mobile_settings_channels_order">Ալիքների հերթականությունը «Դուք» բաժնում</string>
+    <string name="mobile_settings_channels_order_recent">Վերջերս դիտվածներն առաջինը</string>
+    <string name="mobile_settings_channels_order_name">Ա-ից Ֆ</string>
+    <string name="mobile_settings_channels_order_new">Նոր տեսանյութերով ալիքներն առաջինը</string>
+    <string name="mobile_settings_pinned_channels">Ինչ ցուցադրել ամրացված ալիքների համար</string>
+    <string name="mobile_settings_pinned_channels_all">Ալիքի գլխավոր էջը</string>
+    <string name="mobile_settings_pinned_channels_uploads">Միայն դրա տեսանյութերը</string>
+    <string name="mobile_settings_playlists_style">Նվագացանկերը «Դուք» բաժնում</string>
+    <string name="mobile_settings_playlists_style_grid">Յուրաքանչյուր նվագացանկ առանձին</string>
+    <string name="mobile_settings_playlists_style_rows">Բոլոր տեսանյութերը՝ մեկը մյուսի հետևից</string>
+    <string name="mobile_settings_watch_history">Դիտումների պատմություն</string>
+    <string name="mobile_settings_watch_history_auto">Հետևել YouTube-ի կարգավորմանը</string>
+    <string name="mobile_settings_watch_history_auto_desc">Պահպանվում է, եթե ձեր YouTube հաշվում պատմությունը միացված է</string>
+    <string name="mobile_settings_watch_history_on">Միշտ պահպանել</string>
+    <string name="mobile_settings_watch_history_on_desc">MeeTube-ի յուրաքանչյուր բացման ժամանակ կրկին միացնում է YouTube-ի դիտումների պատմությունը</string>
+    <string name="mobile_settings_watch_history_off">Չպահպանել</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube-ն այլևս չի հայտնում YouTube-ին, թե ինչ եք դիտում</string>
+    <string name="mobile_settings_clear_watch_history">Մաքրել դիտումների պատմությունը</string>
+    <string name="mobile_settings_clear_watch_history_summary">Ջնջում է դիտված տեսանյութերը YouTube-ի պատմությունից</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Մաքրե՞լ դիտումների պատմությունը</string>
+    <string name="mobile_settings_clear_watch_history_body">YouTube-ի դիտումների պատմության բոլոր տեսանյութերը կհեռացվեն։ Այս գործողությունը հնարավոր չէ հետարկել։</string>
 </resources>
