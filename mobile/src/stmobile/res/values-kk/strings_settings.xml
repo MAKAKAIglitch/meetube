@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Көрілген бейнелерді YouTube тарихынан жояды</string>
     <string name="mobile_settings_clear_watch_history_confirm">Көру тарихы тазартылсын ба?</string>
     <string name="mobile_settings_clear_watch_history_body">YouTube көру тарихындағы барлық бейне жойылады. Бұл әрекетті кері қайтару мүмкін емес.</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Іздеу тарихын сақтамау</string>
+    <string name="mobile_settings_search_history_off_summary">Алдыңғы іздеулер сақталмайды және ұсынылмайды</string>
+    <string name="mobile_settings_clear_search_history">Іздеу тарихын тазарту</string>
+    <string name="mobile_settings_clear_search_history_summary">Осы телефонда сақталған іздеулерді жояды</string>
+    <string name="mobile_settings_clear_search_history_confirm">Іздеу тарихы тазартылсын ба?</string>
+    <string name="mobile_settings_clear_search_history_body">MeeTube осы телефонда сақтаған іздеулер жойылады. Бұл әрекетті кері қайтару мүмкін емес.</string>
+    <string name="mobile_settings_backup_now">Қазір сақтық көшірме жасау</string>
+    <string name="mobile_settings_backup_now_summary">Параметрлерді %1$s мекенжайына сақтайды</string>
+    <string name="mobile_settings_backup_done">Сақтық көшірме сақталды</string>
+    <string name="mobile_settings_restore">Қалпына келтіру</string>
+    <string name="mobile_settings_restore_summary">%1$s ішіндегі сақтық көшірмеден</string>
+    <string name="mobile_settings_auto_backup">Автоматты сақтық көшірме</string>
+    <string name="mobile_settings_auto_backup_off">Ешқашан</string>
+    <string name="mobile_settings_backup_note">Сақтық көшірмеде MeeTube-та орнатқан барлық параметр сақталады. Жазылымдар мен тарих сияқты YouTube аккаунтына тиесілі деректер сол аккаунтта қалады.</string>
+    <string name="mobile_settings_home_layout">Басты бет орналасуы</string>
 </resources>
