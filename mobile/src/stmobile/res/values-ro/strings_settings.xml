@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Un cadru de la sfârșitul videoclipului</string>
     <string name="mobile_settings_original_titles">Titluri originale</string>
     <string name="mobile_settings_original_titles_summary">Afișează titlurile în limba originală, nu în traducerea YouTube</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Format de numere lakh și crore</string>
+    <string name="mobile_settings_indian_counts_summary">Afișează vizualizările și aprecierile ca 2,5 lakh și 1,2 crore în loc de 250K și 12M</string>
+    <string name="mobile_settings_channels_order">Ordinea canalelor în fila „Tu”</string>
+    <string name="mobile_settings_channels_order_recent">Videoclipurile vizionate recent mai întâi</string>
+    <string name="mobile_settings_channels_order_name">De la A la Z</string>
+    <string name="mobile_settings_channels_order_new">Mai întâi canalele cu videoclipuri noi</string>
+    <string name="mobile_settings_pinned_channels">Ce se afișează pentru canalele fixate</string>
+    <string name="mobile_settings_pinned_channels_all">Pagina principală a canalului</string>
+    <string name="mobile_settings_pinned_channels_uploads">Doar videoclipurile sale</string>
+    <string name="mobile_settings_playlists_style">Playlisturi în fila „Tu”</string>
+    <string name="mobile_settings_playlists_style_grid">Fiecare playlist separat</string>
+    <string name="mobile_settings_playlists_style_rows">Toate videoclipurile din ele, unul după altul</string>
+    <string name="mobile_settings_watch_history">Istoricul vizionărilor</string>
+    <string name="mobile_settings_watch_history_auto">Respectă setarea YouTube</string>
+    <string name="mobile_settings_watch_history_auto_desc">Se salvează dacă istoricul este activ în contul YouTube</string>
+    <string name="mobile_settings_watch_history_on">Salvează întotdeauna</string>
+    <string name="mobile_settings_watch_history_on_desc">Reactivează istoricul YouTube de fiecare dată când pornește MeeTube</string>
+    <string name="mobile_settings_watch_history_off">Nu salva</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube nu mai trimite către YouTube informații despre ce vizionezi</string>
+    <string name="mobile_settings_clear_watch_history">Șterge istoricul vizionărilor</string>
+    <string name="mobile_settings_clear_watch_history_summary">Elimină videoclipurile vizionate din istoricul YouTube</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Ștergi istoricul vizionărilor?</string>
+    <string name="mobile_settings_clear_watch_history_body">Toate videoclipurile din istoricul YouTube vor fi eliminate. Acțiunea nu poate fi anulată.</string>
 </resources>
