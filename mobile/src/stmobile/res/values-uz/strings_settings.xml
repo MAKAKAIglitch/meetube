@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Efirni 15 soniyalik zaxirasiz, imkon qadar jonli vaqtga yaqin ijro etadi</string>
     <string name="mobile_settings_live_hls">Jonli efirlarni HLS orqali ijro etish</string>
     <string name="mobile_settings_live_hls_summary">Sekin telefonlarda ravonroq ishlashi mumkin. Orqaga qaytarib bo‘lmaydi va sifat 1080p bilan cheklanadi</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Pleyer</string>
+    <string name="mobile_settings_controls_on_next">Keyingi videoda boshqaruv elementlarini ko‘rsatish</string>
+    <string name="mobile_settings_controls_on_next_summary">Keyingi video boshlanganda boshqaruv elementlari paydo bo‘ladi</string>
+    <string name="mobile_settings_list_queue">Boshlangan ro‘yxatni ijro etish</string>
+    <string name="mobile_settings_list_queue_summary">Pleylistdan ochilgan videodan keyin qolgan videolar avvalgi tartibda ijro etiladi</string>
+    <string name="mobile_settings_queue_mode">Navbat «Video tugaganda» sozlamasiga amal qiladi</string>
+    <string name="mobile_settings_queue_mode_summary">Pauza qilinganda yoki pleyer yopilganda navbat ham to‘xtaydi</string>
+    <string name="mobile_settings_chapter_popup">Boblarning qalqib chiquvchi nomlari</string>
+    <string name="mobile_settings_chapter_popup_summary">Har bir bob boshlanganda uning nomini ko‘rsatadi. Keyingisiga o‘tish uchun bosing</string>
 </resources>
