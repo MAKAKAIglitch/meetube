@@ -105,4 +105,31 @@
     <string name="mobile_settings_24_hour_summary">Premýeralaryň we göni ýaýlymlaryň başlanýan wagty üçin</string>
     <string name="mobile_settings_liquid_glass">Suwuk aýna</string>
     <string name="mobile_settings_liquid_glass_summary">Aýna panellerde linza, ýagtylyk we däne. Öçürilende batareýany az sarp edýän adaty bulaşyklyk ulanylýar</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d sag %2$d min</string>
+    <string name="mobile_settings_customize_summary_value">%1$s mowzugy, baş sahypa we wideo sanawlary, pleýer, bölümler we effektler</string>
+    <string name="mobile_settings_auto_none">Hiç biri</string>
+    <string name="mobile_settings_auto_note">Birnäçe sagatdan bir barlanýar. Saýlanan kanal täze wideo ýükläninden soň, ol awtomatik göçürilýär. Saýlanan sanawdan her barlagda 10 wideo çenli göçürilýär. Bu ýerde bellenen hil derejesinden ýokary bolmadyk iň gowy hil saýlanýar.</string>
+    <string name="mobile_battery_saver_ask">Batareýany tygşytlamak tertibi açyk. Şu tertip açyk wagty animasiýalar we buzly aýna effekti öçürilsinmi?</string>
+    <string name="mobile_battery_saver_ask_action">Öçür</string>
+    <string name="mobile_settings_coffee">Işläp düzüjä kofe alyp beriň</string>
+    <string name="mobile_settings_coffee_summary">MeeTube halasaňyz we taslamany goldamak isleseňiz</string>
+    <string name="mobile_settings_new_uploads">Täze wideolar barada habar ber</string>
+    <string name="mobile_settings_new_uploads_summary">Ýazylan kanallaryňyzyň täze wideolary bildiriş panelinde görkeziler</string>
+    <string name="mobile_settings_tabs">Bölümler</string>
+    <string name="mobile_settings_tabs_summary">Aşaky panelde we «Siz» bölüminde nämäniň görkeziljekdigini saýlaň</string>
+    <string name="mobile_settings_tabs_bottom_bar">Aşaky panel</string>
+    <string name="mobile_settings_nav_labels">Bölümleriň atlary</string>
+    <string name="mobile_settings_nav_labels_summary">Aşaky panelde her bölümiň nyşanynyň aşagynda adyny görkez</string>
+    <string name="mobile_settings_brand_name">Ýokarky paneldäki programmanyň ady</string>
+    <string name="mobile_settings_brand_name_summary">Ýokarda nyşanyň ýanynda MeeTube adyny görkez. Öçürilende diňe nyşan galar</string>
+    <string name="mobile_settings_top_bar">Ýokarky paneli hemişe görkez</string>
+    <string name="mobile_settings_top_bar_summary">Lent aýlananda ýokarky paneli gizlemegiň ýerine ekranda sakla</string>
+    <string name="mobile_settings_search_fab">Panel gizlenende gözleg düwmesi</string>
+    <string name="mobile_settings_search_fab_right">Aşakda sagda</string>
+    <string name="mobile_settings_search_fab_left">Aşakda çepde</string>
+    <string name="mobile_settings_tabs_you">Siz</string>
+    <string name="mobile_settings_tabs_none">Hiç biri</string>
+    <string name="mobile_settings_tabs_bar_note">Tertibi üýtgetmek üçin elementi tutawajyndan süýşüriň ýa-da basyp saklaň. «Gözleg» bölümçesini ýokarky panele geçirmek üçin ýokary süýşüriň. Mazmunyny üýtgetmek üçin bölüme basyň.</string>
 </resources>
