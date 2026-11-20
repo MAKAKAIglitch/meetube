@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Ավելի լավ մանրապատկերներ</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Մանրապատկերները փոխարինում է համայնքի ընտրած կադրերով</string>
     <string name="mobile_settings_dearrow_note">DeArrow-ը ստանում է ցանկերում տեսած տեսանյութերի ID-ները։</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Այս կարգավորումները մարդկանց մեծ մասին պետք չեն։ Դրանք փոխում են, թե ինչպես է MeeTube-ը փոխանցում տեսանյութը և միանում ցանցին։</string>
+    <string name="mobile_settings_streaming">Հոսքային նվագարկում</string>
+    <string name="mobile_settings_buffer">Բուֆեր</string>
+    <string name="mobile_settings_buffer_low_desc">Մոտ 25 վայրկյան առաջ։ Օգտագործում է նվազագույն հիշողություն</string>
+    <string name="mobile_settings_buffer_med_desc">Մոտ 50 վայրկյան առաջ</string>
+    <string name="mobile_settings_buffer_high_desc">Մինչև 75 վայրկյան առաջ</string>
+    <string name="mobile_settings_buffer_highest_desc">Մինչև 2 րոպե առաջ։ Օգտագործում է առավելագույն հիշողություն</string>
+    <string name="mobile_settings_stall_quality">Շարունակական բուֆերացման դեպքում նվազեցնել որակը</string>
+    <string name="mobile_settings_stall_quality_summary">Մոտ 20 վայրկյան բուֆերացումից հետո որակը նվազեցնում է մեկ աստիճանով։ Անջատելը կարող է օգնել VPN օգտագործելիս։</string>
+    <string name="mobile_settings_high_bitrate">Բարձր բիթրեյթով ձևաչափեր</string>
+    <string name="mobile_settings_high_bitrate_summary">Ավելացնում է YouTube-ի բարձր բիթրեյթով 1080p հոսքերը, եթե տեսանյութն ունի դրանք։ Պահանջվում է լրացուցիչ հարցում</string>
+    <string name="mobile_settings_sabr">Հոսք SABR-ով (փորձնական)</string>
+    <string name="mobile_settings_sabr_summary">YouTube-ի նոր հոսքային արձանագրությունը կկիրառվի հաջորդ տեսանյութից։ Եթե այն չաշխատի, տեսանյութը կնվագարկվի սովորական եղանակով։</string>
+    <string name="mobile_settings_legacy_codecs">Մեկ ֆայլով հոսքեր</string>
+    <string name="mobile_settings_legacy_codecs_summary">Նվագարկում է հին՝ մեկ ֆայլով հոսքը, սովորաբար 360p, առանց որակի փոփոխման։ Միայն շատ դանդաղ հեռախոսների համար։</string>
+    <string name="mobile_settings_live">Ուղիղ հեռարձակումներ</string>
+    <string name="mobile_settings_live_edge">Սկսել ուղիղ եթերի ընթացիկ պահից</string>
+    <string name="mobile_settings_live_edge_summary">Նվագարկում է հեռարձակումները հնարավորինս ուղիղ եթերին մոտ՝ առանց 15 վայրկյան պահուստի</string>
+    <string name="mobile_settings_live_hls">Ուղիղ հեռարձակումները նվագարկել HLS-ով</string>
+    <string name="mobile_settings_live_hls_summary">Դանդաղ հեռախոսներում կարող է ավելի սահուն աշխատել։ Հետ պտտել հնարավոր չէ, իսկ որակը սահմանափակվում է 1080p-ով</string>
 </resources>
