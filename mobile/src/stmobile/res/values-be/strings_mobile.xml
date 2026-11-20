@@ -208,4 +208,19 @@
     <string name="mobile_search_error">Не ўдалося загрузіць вынікі.</string>
     <string name="mobile_channel_tab_videos">Відэа</string>
     <string name="mobile_channel_tab_more">Яшчэ</string>
+    <string name="mobile_nav_you">Вы</string>
+    <string name="mobile_nav_hint_tabs">Налады ўкладак  ›</string>
+    <string name="mobile_nav_hint_change">Змяніць</string>
+    <string name="mobile_nav_hint_confirm_title">Наладзіць укладкі?</string>
+    <string name="mobile_nav_hint_confirm_body">Адкрывае налады, каб выбраць і ўпарадкаваць укладкі ніжняй панэлі.</string>
+    <string name="mobile_nav_hint_confirm_open">Адкрыць</string>
+    <string name="mobile_nav_subs">Падпіскі</string>
+    <string name="mobile_subs_all_channels">Усе падпіскі</string>
+    <string name="mobile_you_explore">Агляд</string>
+    <string name="mobile_you_library">Бібліятэка</string>
+    <string name="mobile_you_watch_later">Паглядзець пазней</string>
+    <string name="mobile_you_liked_videos">Упадабаныя відэа</string>
+    <string name="mobile_no_browser">Не знойдзена праграма для адкрыцця спасылкі</string>
+    <string name="mobile_add_device_title">Спалучыць прыладу</string>
+    <string name="mobile_add_device_done">Гатова</string>
 </resources>
