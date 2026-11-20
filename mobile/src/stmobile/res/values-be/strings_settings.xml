@@ -103,4 +103,6 @@
     <string name="mobile_settings_24_hour_summary">Для часу пачатку прэм'ер і прамых трансляцый</string>
     <string name="mobile_settings_liquid_glass">Вадкае шкло</string>
     <string name="mobile_settings_liquid_glass_summary">Лінза, святло і тэкстура на шкляных панэлях. Калі выключана, выкарыстоўваецца простае размыццё, якое менш расходуе батарэю</string>
+    <string name="mobile_settings_storage_clear_empty">Кэш ужо пусты!</string>
+    <string name="mobile_settings_storage_clear_empty_note">Няма чаго ачышчаць. Паглядзіце што-небудзь і вярніцеся пазней.</string>
 </resources>
