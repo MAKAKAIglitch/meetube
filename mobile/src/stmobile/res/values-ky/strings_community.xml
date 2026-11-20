@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_channel_posts">Жазмалар</string>
+    <string name="mobile_channel_sort">Иреттөө</string>
+    <string name="mobile_posts_title">%1$s жазма</string>
+    <string name="mobile_posts_empty">Азырынча жазма жок</string>
+    <string name="mobile_posts_image">Жазманын сүрөтү</string>
+    <string name="mobile_posts_likes">%1$s жактыруу</string>
+    <string name="mobile_posts_replies">%1$s жооп</string>
+    <string name="mobile_posts_like">Бул жазманы жактыруу</string>
+    <string name="mobile_posts_like_failed">Жазманы жактыруу мүмкүн болгон жок. Кайра аракет кылыңыз.</string>
+    <string name="mobile_posts_comments_read_only">Жазмалардын комментарийлерин жактыруу жана аларга жооп берүү азырынча жеткиликтүү эмес</string>
+    <string name="mobile_comments_just_now">Азыр эле</string>
+</resources>
