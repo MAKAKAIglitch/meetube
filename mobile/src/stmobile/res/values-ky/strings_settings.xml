@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Сиз</string>
     <string name="mobile_settings_tabs_none">Эч бири</string>
     <string name="mobile_settings_tabs_bar_note">Тартибин өзгөртүү үчүн элементти кармагычынан сүйрөңүз же басып туруңуз. Издөөнү жогорку тилкеге жылдыруу үчүн өйдө сүйрөңүз. Өтмөктү басып, анда эмне көрсөтүлөрүн өзгөртүңүз.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Жогорку тилке</string>
+    <string name="mobile_settings_bar_tab">Өтмөк</string>
+    <string name="mobile_settings_bar_tab_summary">Өзгөртүү үчүн басыңыз</string>
+    <string name="mobile_settings_bar_empty">Бош</string>
+    <string name="mobile_settings_bar_empty_summary">Өтмөктү тандоо үчүн басыңыз</string>
+    <string name="mobile_settings_bar_first">Ар дайым биринчи</string>
+    <string name="mobile_settings_bar_home_summary">Ар дайым биринчи. Алып салуу үчүн басыңыз</string>
+    <string name="mobile_settings_bar_home_shown">Көрсөтүлөт</string>
+    <string name="mobile_settings_bar_home_removed">Алып салынды</string>
+    <string name="mobile_settings_bar_home_removed_desc">Сунуштар тасмасы жок: колдонмо биринчи өтмөктөн ачылат</string>
+    <string name="mobile_settings_bar_last">Ар дайым акыркы</string>
+    <string name="mobile_settings_bar_search_up">Жогорку тилкеге жылдыруу үчүн өйдө сүйрөңүз</string>
+    <string name="mobile_settings_bar_search_down">Төмөнкү тилкеге кайтаруу үчүн ылдый сүйрөңүз</string>
+    <string name="mobile_settings_search_place">Издөө</string>
+    <string name="mobile_settings_search_place_bottom">Төмөнкү тилкеде</string>
+    <string name="mobile_settings_search_place_top">Жогорку тилкеде</string>
+    <string name="mobile_settings_tabs_note">«Сиз» бөлүмүндөгү өтмөктү же сапты жылдыруу, атын өзгөртүү же жашыруу үчүн басып туруңуз.</string>
 </resources>
