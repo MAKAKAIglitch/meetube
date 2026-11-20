@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Örän gaty wideolaryň sesini YouTube-yň adaty derejesine çenli peseldýär</string>
     <string name="mobile_settings_player_volume">Pleýeriň ses derejesi</string>
     <string name="mobile_settings_quality_data_saver_note">Android-de maglumat tygşytlaýjy açyk bolsa, MeeTube mobil ulgamda öňünden az maglumat ýükleýär.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Stil</string>
+    <string name="mobile_settings_caption_size">Ölçeg</string>
+    <string name="mobile_settings_caption_position">Aşaky gyradan aralyk</string>
+    <string name="mobile_settings_caption_per_channel">Subtitrlary her kanal üçin ýatda sakla</string>
+    <string name="mobile_settings_caption_per_channel_summary">Açan subtitrlaryňyz diňe şol kanal üçin ýatda saklanýar. Öçük bolsa, soňky saýlan subtitr diliňiz ähli wideolarda ulanylýar.</string>
+    <string name="mobile_settings_caption_system">Android subtitr sazlamalary</string>
+    <string name="mobile_settings_caption_system_summary">«Ulgam» stili tarapyndan ulanylýar</string>
+    <string name="mobile_settings_captions_note">Subtitrlary açmak ýa-da dilini saýlamak üçin pleýerdäki CC düwmesini ulanyň.</string>
 </resources>
