@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Նվագարկում է հեռարձակումները հնարավորինս ուղիղ եթերին մոտ՝ առանց 15 վայրկյան պահուստի</string>
     <string name="mobile_settings_live_hls">Ուղիղ հեռարձակումները նվագարկել HLS-ով</string>
     <string name="mobile_settings_live_hls_summary">Դանդաղ հեռախոսներում կարող է ավելի սահուն աշխատել։ Հետ պտտել հնարավոր չէ, իսկ որակը սահմանափակվում է 1080p-ով</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Նվագարկիչ</string>
+    <string name="mobile_settings_controls_on_next">Ցուցադրել կառավարումը հաջորդ տեսանյութում</string>
+    <string name="mobile_settings_controls_on_next_summary">Կառավարման կոճակները հայտնվում են հաջորդ տեսանյութի մեկնարկին</string>
+    <string name="mobile_settings_list_queue">Նվագարկել սկզբնական ցանկը</string>
+    <string name="mobile_settings_list_queue_summary">Նվագացանկից բացված տեսանյութից հետո նվագարկվում են դրա մնացած տեսանյութերը նույն հերթականությամբ</string>
+    <string name="mobile_settings_queue_mode">Հերթը հետևում է «Երբ տեսանյութն ավարտվի» կարգավորմանը</string>
+    <string name="mobile_settings_queue_mode_summary">Դադարեցնելու կամ նվագարկիչը փակելու դեպքում հերթն էլ է կանգնում</string>
+    <string name="mobile_settings_chapter_popup">Գլուխների ելնող պատուհաններ</string>
+    <string name="mobile_settings_chapter_popup_summary">Ցուցադրում է յուրաքանչյուր գլխի անունը դրա սկսվելիս։ Հպեք՝ հաջորդին անցնելու համար</string>
 </resources>
