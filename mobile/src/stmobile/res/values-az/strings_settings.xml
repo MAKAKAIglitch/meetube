@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Yayımı 15 saniyəlik ehtiyat olmadan mümkün qədər canlı yayıma yaxın göstərir</string>
     <string name="mobile_settings_live_hls">Canlı yayımları HLS ilə oxut</string>
     <string name="mobile_settings_live_hls_summary">Zəif telefonlarda daha rəvan işləyə bilər. Geri sarımaq mümkün deyil və keyfiyyət 1080p ilə məhdudlaşır</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Pleyer</string>
+    <string name="mobile_settings_controls_on_next">Növbəti videoda idarəetmə düymələrini göstər</string>
+    <string name="mobile_settings_controls_on_next_summary">Növbəti video başlayanda idarəetmə düymələri görünür</string>
+    <string name="mobile_settings_list_queue">Başladığınız siyahını oxut</string>
+    <string name="mobile_settings_list_queue_summary">Pleylistdən açılan video bitdikdən sonra siyahının qalan hissəsi əvvəlki ardıcıllıqla oxudulur</string>
+    <string name="mobile_settings_queue_mode">Növbə «Video bitdikdə» ayarına tabedir</string>
+    <string name="mobile_settings_queue_mode_summary">Pauza və ya pleyeri bağlama seçildikdə növbə də dayanır</string>
+    <string name="mobile_settings_chapter_popup">Fəsil bildirişləri</string>
+    <string name="mobile_settings_chapter_popup_summary">Hər fəsil başlayanda adını göstərir. Növbəti fəslə keçmək üçün toxunun</string>
 </resources>
