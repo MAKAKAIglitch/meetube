@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Ҳар қадам 0,05×</string>
     <string name="mobile_settings_natural_voice">Овози табиӣ дар суръатҳои дигар</string>
     <string name="mobile_settings_natural_voice_summary">Ҳангоми тез ё суст кардани навозиш баландии муқаррарии овозро нигоҳ медорад</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Таймери хоб</string>
+    <string name="mobile_settings_sleep_timer_summary">Пас аз кушодани видео, баъди %1$s навозишро таваққуф мекунад</string>
+    <string name="mobile_settings_audio_focus">Таваққуф ҳангоми садоҳои дигар</string>
+    <string name="mobile_settings_audio_focus_summary">Ҳангоми зангҳо ва садои барномаҳои дигар таваққуф мекунад. Ба видеои навбатии кушодашуда татбиқ мешавад</string>
+    <string name="mobile_settings_resume">Идома додан</string>
+    <string name="mobile_settings_resume_short">Идомаи видеоҳои кӯтоҳ</string>
+    <string name="mobile_settings_resume_short_summary">Агар ин хомӯш бошад, видеоҳои кӯтоҳтар аз 6 дақиқа аз аввал оғоз мешаванд</string>
+    <string name="mobile_settings_resume_live">Идомаи пахшҳои мустақим</string>
+    <string name="mobile_settings_resume_live_summary">Пахши мустақимро аз ҷойи қатъшуда идома медиҳад, на аз лаҳзаи ҷории эфир</string>
+    <string name="mobile_settings_watch_page">Дар зери видео</string>
+    <string name="mobile_settings_ambient">Ҳолати муҳитӣ</string>
+    <string name="mobile_settings_ambient_summary">Рангҳои видео дар зери плеер медурахшанд ва тасмаҳои сиёҳро дар ҳолати пурраи экрани амудӣ пур мекунанд</string>
+    <string name="mobile_settings_hide_related">Пинҳон кардани бахши «Баъдӣ»</string>
+    <string name="mobile_settings_hide_related_summary">Видеоҳои алоқаманди зери плеерро нишон намедиҳад</string>
+    <string name="mobile_settings_dislikes">Нишон додани шумораи дизлайкҳо</string>
+    <string name="mobile_settings_dislikes_summary">Маълумот аз Return YouTube Dislike гирифта мешавад, ки ID-и видеоро мегирад</string>
+    <string name="mobile_settings_paid_promotion">Огоҳӣ дар бораи таблиғи пулакӣ</string>
+    <string name="mobile_settings_paid_promotion_summary">Вақте ки дар видео мавҷудияти таблиғи пулакӣ гуфта мешавад, паёми кӯтоҳ нишон медиҳад</string>
 </resources>
