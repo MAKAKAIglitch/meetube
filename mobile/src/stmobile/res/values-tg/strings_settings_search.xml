@@ -34,8 +34,7 @@
     <string name="mobile_settings_search_kw_backup">export import save settings нусхаи эҳтиётӣ содирот воридот барқарорсозӣ</string>
     <string name="mobile_settings_search_kw_buffer">buffering cache memory буфер кэш хотира</string>
     <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers dns серверҳо суроғаҳо шабака пайвастшавӣ</string>
-    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security https сертификаттар sertifikatlar сертификатҳо şahadatnamalar
-    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls сертификатҳо амният шабака интернет пайвастшавӣ</string>
     <string name="mobile_settings_search_kw_updates">update version new release notify notification навсозӣ версия нашри нав огоҳинома</string>
     <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug хато гузориш журнал ташхис</string>
     <string name="mobile_settings_search_kw_gesture_levels">gestures brightness volume</string>
