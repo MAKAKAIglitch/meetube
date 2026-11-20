@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Դադարեցնելու կամ նվագարկիչը փակելու դեպքում հերթն էլ է կանգնում</string>
     <string name="mobile_settings_chapter_popup">Գլուխների ելնող պատուհաններ</string>
     <string name="mobile_settings_chapter_popup_summary">Ցուցադրում է յուրաքանչյուր գլխի անունը դրա սկսվելիս։ Հպեք՝ հաջորդին անցնելու համար</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Ցանց</string>
+    <string name="mobile_settings_proxy">Վեբ պրոքսի</string>
+    <string name="mobile_settings_proxy_summary">MeeTube-ի տրաֆիկը փոխանցում է HTTP կամ SOCKS պրոքսիի միջոցով</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Նախ IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Լռելյայն տարբերակն է։ Օգնում է այն ցանցերում, որտեղ IPv6-ը սխալ է աշխատում</string>
+    <string name="mobile_settings_dns_system">Հեռախոսի DNS-ը</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Միացումների անվտանգության ներկառուցված գրադարան է։ Կարող է բարելավել համատեղելիությունը որոշ HTTPS/TLS միացումների հետ։</string>
+    <string name="mobile_settings_multi_profiles">Առանձին կարգավորումներ յուրաքանչյուր հաշվի համար</string>
+    <string name="mobile_settings_multi_profiles_summary">Յուրաքանչյուր հաշիվ ունի իր կարգավորումները՝ սկսած լռելյայն արժեքներից</string>
 </resources>
