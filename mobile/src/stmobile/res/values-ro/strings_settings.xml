@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Redă transmisiunile cât mai aproape de momentul live, fără tamponul de 15 secunde</string>
     <string name="mobile_settings_live_hls">Redă transmisiunile live prin HLS</string>
     <string name="mobile_settings_live_hls_summary">Poate funcționa mai fluent pe telefoanele lente. Nu poți derula înapoi, iar calitatea este limitată la 1080p</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Player</string>
+    <string name="mobile_settings_controls_on_next">Afișează comenzile în următorul videoclip</string>
+    <string name="mobile_settings_controls_on_next_summary">Comenzile apar când începe următorul videoclip</string>
+    <string name="mobile_settings_list_queue">Redă lista din care ai pornit</string>
+    <string name="mobile_settings_list_queue_summary">Un videoclip deschis dintr-un playlist este urmat de restul elementelor acestuia, în ordinea inițială</string>
+    <string name="mobile_settings_queue_mode">Coada urmează setarea „La finalul videoclipului”</string>
+    <string name="mobile_settings_queue_mode_summary">Când pui pauză sau închizi playerul, se oprește și coada</string>
+    <string name="mobile_settings_chapter_popup">Ferestre pop-up pentru capitole</string>
+    <string name="mobile_settings_chapter_popup_summary">Afișează numele fiecărui capitol la începutul acestuia. Atinge pentru a trece la următorul</string>
 </resources>
