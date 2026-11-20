@@ -206,4 +206,19 @@
     <string name="mobile_search_error">Жыйынтыктарды жүктөө мүмкүн болгон жок.</string>
     <string name="mobile_channel_tab_videos">Видеолор</string>
     <string name="mobile_channel_tab_more">Дагы</string>
+    <string name="mobile_nav_you">Сиз</string>
+    <string name="mobile_nav_hint_tabs">Өтмөктөрдү ыңгайлаштыруу  ›</string>
+    <string name="mobile_nav_hint_change">Өзгөртүү</string>
+    <string name="mobile_nav_hint_confirm_title">Өтмөктөрдү ыңгайлаштырасызбы?</string>
+    <string name="mobile_nav_hint_confirm_body">Төмөнкү панелдин өтмөктөрүн тандап, иреттөө үчүн жөндөөлөрдү ачат.</string>
+    <string name="mobile_nav_hint_confirm_open">Ачуу</string>
+    <string name="mobile_nav_subs">Жазылуулар</string>
+    <string name="mobile_subs_all_channels">Бардык жазылуулар</string>
+    <string name="mobile_you_explore">Обзор</string>
+    <string name="mobile_you_library">Китепкана</string>
+    <string name="mobile_you_watch_later">Кийин көрүү</string>
+    <string name="mobile_you_liked_videos">Жактырылган видеолор</string>
+    <string name="mobile_no_browser">Бул шилтемени ача турган колдонмо табылган жок</string>
+    <string name="mobile_add_device_title">Түзмөктү жупташтыруу</string>
+    <string name="mobile_add_device_done">Даяр</string>
 </resources>
