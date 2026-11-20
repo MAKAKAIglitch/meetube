@@ -235,4 +235,31 @@
     <string name="mobile_settings_auto_backup_off">Ніколі</string>
     <string name="mobile_settings_backup_note">Рэзервовая копія змяшчае ўсе вашы налады MeeTube. Даныя ўліковага запісу YouTube, напрыклад падпіскі і гісторыя, застаюцца ў ім.</string>
     <string name="mobile_settings_home_layout">Макет галоўнай старонкі</string>
+
+    <!-- App icon and loading indicator translations -->
+    <string name="mobile_settings_app_icon">Значок праграмы</string>
+    <string name="mobile_app_icon_default">Класічны (па змаўчанні)</string>
+    <string name="mobile_app_icon_classic">Чорнае сэрца</string>
+    <string name="mobile_app_icon_fantasy">Фэнтэзі</string>
+    <string name="mobile_app_icon_glass_heart">Шкляное сэрца</string>
+    <string name="mobile_app_icon_ruby">Арыгінальнае шкло</string>
+    <string name="mobile_app_icon_play">Арыгінальны Play</string>
+    <string name="mobile_app_icon_play_dark">Арыгінальны неон</string>
+    <string name="mobile_app_icon_blaze">Вогненны ўсплёск</string>
+    <string name="mobile_app_icon_red_crt">Чырвоны CRT</string>
+    <string name="mobile_app_icon_chrome">Chrome Play</string>
+    <string name="mobile_app_icon_pixel_play">Pixel Play</string>
+    <string name="mobile_app_icon_starry_night">Зорная ноч</string>
+    <string name="mobile_app_icon_gta_vi">GTA VI</string>
+    <string name="mobile_settings_loader">Індыкатар загрузкі</string>
+    <string name="mobile_settings_font">Шрыфт</string>
+    <string name="mobile_loader_neon">Неонавае кольца</string>
+    <string name="mobile_loader_frosted">Матаванае шкло</string>
+    <string name="mobile_loader_cookie">Печыва</string>
+    <string name="mobile_loader_frosted_cookie">Матаванае печыва</string>
+    <string name="mobile_loader_liquid_ring">Вадкае кольца</string>
+    <string name="mobile_loader_glass_orb">Шкляная сфера</string>
+    <string name="mobile_loader_morphing_blob">Вадкая кропля</string>
+    <string name="mobile_loader_glass_orbit">Шкляная арбіта</string>
+    <string name="mobile_app_icon_pending">Перазапусціце MeeTube, каб новы значок з'явіўся ўсюды. Інакш ён зменіцца пасля выхаду з праграмы.</string>
 </resources>
