@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Videonun sonundan kadr</string>
     <string name="mobile_settings_original_titles">Orijinal başlıqlar</string>
     <string name="mobile_settings_original_titles_summary">Başlıqları YouTube tərcüməsində deyil, orijinal dilində göstər</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Lakh və crore say formatı</string>
+    <string name="mobile_settings_indian_counts_summary">Baxış və bəyənmə saylarını 250K və 12M əvəzinə 2,5 lakh və 1,2 crore kimi göstər</string>
+    <string name="mobile_settings_channels_order">«Siz» bölməsində kanalların sırası</string>
+    <string name="mobile_settings_channels_order_recent">Son baxılanlar əvvəl</string>
+    <string name="mobile_settings_channels_order_name">A-dan Z-yə</string>
+    <string name="mobile_settings_channels_order_new">Yeni videolar əvvəl</string>
+    <string name="mobile_settings_pinned_channels">Sabitlənmiş kanallarda nə göstərilsin</string>
+    <string name="mobile_settings_pinned_channels_all">Kanalın əsas səhifəsi</string>
+    <string name="mobile_settings_pinned_channels_uploads">Yalnız videoları</string>
+    <string name="mobile_settings_playlists_style">«Siz» bölməsində pleylistlər</string>
+    <string name="mobile_settings_playlists_style_grid">Hər pleylist ayrıca</string>
+    <string name="mobile_settings_playlists_style_rows">Bütün videoları ardıcıl göstər</string>
+    <string name="mobile_settings_watch_history">Baxış tarixçəsi</string>
+    <string name="mobile_settings_watch_history_auto">YouTube ayarına uyğun</string>
+    <string name="mobile_settings_watch_history_auto_desc">YouTube hesabınız tarixçəni saxlayırsa, burada da saxlanılır</string>
+    <string name="mobile_settings_watch_history_on">Həmişə saxla</string>
+    <string name="mobile_settings_watch_history_on_desc">MeeTube hər açıldıqda YouTube baxış tarixçəsini yenidən aktivləşdirir</string>
+    <string name="mobile_settings_watch_history_off">Yadda saxlama</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube baxdığınız videolar barədə YouTube-a məlumat göndərmir</string>
+    <string name="mobile_settings_clear_watch_history">Baxış tarixçəsini təmizlə</string>
+    <string name="mobile_settings_clear_watch_history_summary">Baxdığınız videoları YouTube tarixçəsindən silir</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Baxış tarixçəsi təmizlənsin?</string>
+    <string name="mobile_settings_clear_watch_history_body">YouTube baxış tarixçənizdəki bütün videolar silinəcək. Bu əməliyyatı geri qaytarmaq mümkün deyil.</string>
 </resources>
