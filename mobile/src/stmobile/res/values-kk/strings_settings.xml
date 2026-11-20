@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android субтитр параметрлері</string>
     <string name="mobile_settings_caption_system_summary">«Жүйелік» стилі осы параметрлерді пайдаланады</string>
     <string name="mobile_settings_captions_note">Субтитрлерді қосу немесе тілін таңдау үшін ойнатқыштағы CC түймесін пайдаланыңыз.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Қауымдастық белгілеген бейне бөліктерін өткізіп жібереді</string>
+    <string name="mobile_settings_sponsorblock_segments">Бөлік басталғанда</string>
+    <string name="mobile_settings_segment_skip">Өткізіп жіберу</string>
+    <string name="mobile_settings_segment_ask_short">Сұрау</string>
+    <string name="mobile_settings_segment_show">Көрсету</string>
+    <string name="mobile_settings_segment_modes_note">Бөлікті өткізіп жіберуге, түйме арқылы растауды сұрауға, оны тек іздеу жолағында көрсетуге немесе өшіруге болады.</string>
+    <string name="mobile_settings_segment_min">Мыналардан қысқа бөліктерді өткізбеу</string>
+    <string name="mobile_settings_segment_once">Әр бөлікті тек бір рет өткізіп жіберу</string>
+    <string name="mobile_settings_segment_once_summary">Өткізілген бөлікке қайта оралсаңыз, ол ойнатылады</string>
+    <string name="mobile_settings_segment_alt_server_summary">Бөліктер жүктелмесе, осыны қолданып көріңіз</string>
+    <string name="mobile_settings_segment_alt_server">Балама серверді пайдалану</string>
+    <string name="mobile_settings_dearrow_titles">Жақсырақ тақырыптар</string>
+    <string name="mobile_settings_dearrow_titles_summary">Кликбейт тақырыптарды қауымдастық жазған тақырыптармен ауыстырады</string>
+    <string name="mobile_settings_dearrow_thumbnails">Жақсырақ нобайлар</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Нобайларды қауымдастық таңдаған кадрлармен ауыстырады</string>
+    <string name="mobile_settings_dearrow_note">DeArrow тізімдерде көретін бейнелеріңіздің ID нөмірлерін алады.</string>
 </resources>
