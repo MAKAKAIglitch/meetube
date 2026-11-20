@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">O reflexie de sticlă alunecă spre filă, iar bara se mișcă ușor. Este dezactivată pe telefoanele mai lente până când o activezi.</string>
     <string name="mobile_settings_tabs_reset">Resetează bara la valorile implicite</string>
     <string name="mobile_settings_tabs_reset_summary">Acasă, Shorts, Căutare, Abonamente, Tu</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Aspectul videoclipurilor</string>
+    <string name="mobile_settings_video_layout_cards">Carduri</string>
+    <string name="mobile_settings_video_layout_cards_desc">O miniatură mare pentru fiecare videoclip</string>
+    <string name="mobile_settings_video_layout_list">Listă</string>
+    <string name="mobile_settings_video_layout_list_desc">O miniatură mică lângă titlu, mai multe videoclipuri pe ecran</string>
+    <string name="mobile_settings_screen_off">Continuă redarea cu ecranul stins</string>
+    <string name="mobile_settings_screen_off_on">Permis: economisirea bateriei nu va opri sunetul</string>
+    <string name="mobile_settings_screen_off_off">Economisirea bateriei poate opri sunetul. Atinge pentru a permite MeeTube să ruleze în fundal</string>
+    <string name="mobile_settings_seek_thumb">Cursorul barei de derulare</string>
+    <string name="mobile_settings_seek_thumb_dot">Punct</string>
+    <string name="mobile_settings_seek_thumb_picture">Imagine proprie</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Alege o imagine din telefon; GIF-ul se va anima</string>
+    <string name="mobile_settings_seek_thumb_failed">Imaginea nu a putut fi folosită (maximum 5 MB)</string>
+    <string name="mobile_settings_mini_type">Tipul mini-playerului</string>
+    <string name="mobile_settings_mini_type_default">Implicit</string>
+    <string name="mobile_settings_mini_type_default_desc">Card plutitor. Modifică-i dimensiunea apropiind sau depărtând două degete</string>
+    <string name="mobile_settings_mini_type_minimal">Minimal</string>
+    <string name="mobile_settings_mini_type_minimal2">Minimal 2</string>
+    <string name="mobile_settings_mini_type_disabled">Dezactivat</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Glisarea playerului în jos închide videoclipul în loc să îl micșoreze</string>
+    <string name="mobile_settings_auto_pip">Imagine în imagine</string>
+    <string name="mobile_settings_auto_pip_summary">Când ieși din aplicație în timp ce redai un videoclip, acesta se micșorează într-o fereastră. Când opțiunea este dezactivată, doar sunetul continuă în fundal</string>
 </resources>
