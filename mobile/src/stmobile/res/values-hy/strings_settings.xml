@@ -103,4 +103,6 @@
     <string name="mobile_settings_24_hour_summary">Պրեմիերաների և ուղիղ հեռարձակումների մեկնարկի ժամերի համար</string>
     <string name="mobile_settings_liquid_glass">Հեղուկ ապակի</string>
     <string name="mobile_settings_liquid_glass_summary">Ոսպնյակ, լույս և հատիկավորություն ապակե վահանակների վրա։ Անջատելիս օգտագործվում է սովորական մշուշում, որն ավելի քիչ մարտկոց է ծախսում</string>
+    <string name="mobile_settings_storage_clear_empty">Քեշն արդեն դատարկ է։</string>
+    <string name="mobile_settings_storage_clear_empty_note">Մաքրելու քեշ այլևս չկա։ Դիտեք որևէ բան և վերադարձեք ավելի ուշ։</string>
 </resources>
