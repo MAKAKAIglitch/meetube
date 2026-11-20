@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Тым қатты бейнелердің дыбысын YouTube-тың қалыпты деңгейіне дейін төмендетеді</string>
     <string name="mobile_settings_player_volume">Ойнатқыш дыбысының деңгейі</string>
     <string name="mobile_settings_quality_data_saver_note">Android жүйесінде деректерді үнемдеу қосылса, MeeTube мобильді желіде деректерді азырақ алдын ала жүктейді.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Стиль</string>
+    <string name="mobile_settings_caption_size">Өлшем</string>
+    <string name="mobile_settings_caption_position">Төменгі жиектен қашықтық</string>
+    <string name="mobile_settings_caption_per_channel">Субтитрлерді әр арна үшін есте сақтау</string>
+    <string name="mobile_settings_caption_per_channel_summary">Қосылған субтитрлер тек сол арна үшін сақталады. Өшірілсе, соңғы таңдалған субтитр тілі барлық бейнеге қолданылады.</string>
+    <string name="mobile_settings_caption_system">Android субтитр параметрлері</string>
+    <string name="mobile_settings_caption_system_summary">«Жүйелік» стилі осы параметрлерді пайдаланады</string>
+    <string name="mobile_settings_captions_note">Субтитрлерді қосу немесе тілін таңдау үшін ойнатқыштағы CC түймесін пайдаланыңыз.</string>
 </resources>
