@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Suyuq tomchi</string>
     <string name="mobile_loader_glass_orbit">Shisha orbita</string>
     <string name="mobile_app_icon_pending">Yangi belgi hamma joyda ishlashi uchun MeeTube ilovasini qayta ishga tushiring. Aks holda, ilovadan chiqqaningizdan keyin o‘zgaradi.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Tasma</string>
+    <string name="mobile_settings_home_layout_feed_desc">YouTube kabi videolarning yagona ro‘yxati</string>
+    <string name="mobile_settings_home_layout_rows">Qatorlar</string>
+    <string name="mobile_settings_home_layout_rows_desc">SmartTube kabi har bir mavzu uchun alohida gorizontal suriladigan qator</string>
+    <string name="mobile_settings_home_shorts">Bosh sahifada Shorts</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube’dagidek gorizontal suriladigan Shorts qatori</string>
+    <string name="mobile_settings_chip_style">Filtrlar uslubi</string>
+    <string name="mobile_settings_chip_style_segment">Birlashtirilgan panel</string>
+    <string name="mobile_settings_chip_style_segment_desc">Bosh sahifadagi mavzu filtrlari va qidiruv filtrlari bitta shisha panelda joylashadi. Filtrni bosib, linzadek sudrang.</string>
+    <string name="mobile_settings_chip_style_pills">Alohida belgilar</string>
+    <string name="mobile_settings_chip_style_pills_desc">Har bir filtr alohida shisha belgida ko‘rsatiladi</string>
+    <string name="mobile_settings_player_buttons_look">Pleyer tugmalari uslubi</string>
+    <string name="mobile_settings_player_buttons_see_through">Yarim shaffof</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Video, Shorts va mini-pleyer ustidagi har bir tugma ortida rangli shisha doira bor</string>
+    <string name="mobile_settings_player_buttons_frosted">Xira shisha</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Doiralar ostidagi tasvirni xiralashtiradi. Batareyani ko‘proq sarflaydi va sekin telefonlarda qotib qolishi mumkin.</string>
+    <string name="mobile_settings_player_buttons_minimal">Minimal</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Doiralar yo‘q, faqat YouTube kabi yumshoq soyali belgilar bor</string>
+    <string name="mobile_settings_performance">Unumdorlik</string>
+    <string name="mobile_settings_high_refresh">Yuqori yangilanish chastotasi rejimi</string>
+    <string name="mobile_settings_high_refresh_summary">Harakat ravon bo‘lishi uchun ilova %1$d Hz chastotada ishlaydi. Batareyani ko‘proq sarflaydi; telefon qiziganda yoki quvvat tejash yoqilganda Android chastotani pasaytirishi mumkin.</string>
+    <string name="mobile_settings_tab_motion">Yorliqlar almashish animatsiyasi</string>
+    <string name="mobile_settings_tab_motion_summary">Shisha jilosi yorliq tomon siljiydi, panel esa biroz tebranadi. Sekin telefonlarda siz yoqmaguningizcha o‘chiq bo‘ladi.</string>
+    <string name="mobile_settings_tabs_reset">Panelni standart holatga qaytarish</string>
+    <string name="mobile_settings_tabs_reset_summary">Bosh sahifa, Shorts, Qidiruv, Obunalar, Siz</string>
 </resources>
