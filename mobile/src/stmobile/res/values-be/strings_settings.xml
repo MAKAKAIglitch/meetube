@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Крок 0,05×</string>
     <string name="mobile_settings_natural_voice">Натуральны голас на іншых хуткасцях</string>
     <string name="mobile_settings_natural_voice_summary">Захоўвае звычайную вышыню голасу пры паскарэнні або запаволенні</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Таймер сну</string>
+    <string name="mobile_settings_sleep_timer_summary">Прыпыняе прайграванне праз %1$s пасля адкрыцця відэа</string>
+    <string name="mobile_settings_audio_focus">Прыпыняць пры іншых гуках</string>
+    <string name="mobile_settings_audio_focus_summary">Прыпыняе прайграванне падчас званкоў і гуку з іншых праграм. Ужываецца да наступнага адкрытага відэа</string>
+    <string name="mobile_settings_resume">Працягнуць</string>
+    <string name="mobile_settings_resume_short">Працягваць кароткія відэа</string>
+    <string name="mobile_settings_resume_short_summary">Калі выключана, відэа карацейшыя за 6 хвілін пачынаюцца спачатку</string>
+    <string name="mobile_settings_resume_live">Працягваць прамыя трансляцыі</string>
+    <string name="mobile_settings_resume_live_summary">Працягвае трансляцыю з месца, дзе вы спыніліся, а не з бягучага моманту эфіру</string>
+    <string name="mobile_settings_watch_page">Пад відэа</string>
+    <string name="mobile_settings_ambient">Атмасферны рэжым</string>
+    <string name="mobile_settings_ambient_summary">Колеры відэа свецяцца пад прайгравальнікам і запаўняюць чорныя палосы ў вертыкальным поўнаэкранным рэжыме</string>
+    <string name="mobile_settings_hide_related">Хаваць раздзел «Далей»</string>
+    <string name="mobile_settings_hide_related_summary">Хавае звязаныя відэа пад прайгравальнікам</string>
+    <string name="mobile_settings_dislikes">Паказваць колькасць дызлайкаў</string>
+    <string name="mobile_settings_dislikes_summary">Даныя атрымлівае ад Return YouTube Dislike, які атрымлівае ідэнтыфікатар відэа</string>
+    <string name="mobile_settings_paid_promotion">Паведамляць пра платную рэкламу</string>
+    <string name="mobile_settings_paid_promotion_summary">Паказвае кароткае паведамленне, калі ў відэа пазначана платная рэклама</string>
 </resources>
