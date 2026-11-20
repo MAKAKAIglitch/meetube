@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Ýaýlymy 15 sekuntlyk ätiýaçlyk bolmazdan mümkin boldugyça göni görkezýär</string>
     <string name="mobile_settings_live_hls">Göni ýaýlymlary HLS arkaly görkez</string>
     <string name="mobile_settings_live_hls_summary">Haýal telefonlarda has rahat işläp biler. Yza saramak mümkin däl we hil 1080p bilen çäklenýär</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Pleýer</string>
+    <string name="mobile_settings_controls_on_next">Indiki wideoda dolandyryş düwmelerini görkez</string>
+    <string name="mobile_settings_controls_on_next_summary">Indiki wideo başlananda dolandyryş düwmeleri görünýär</string>
+    <string name="mobile_settings_list_queue">Başlanan sanawy görkez</string>
+    <string name="mobile_settings_list_queue_summary">Sanawdan açylan wideodan soň galan wideolar şol bir tertipde görkezilýär</string>
+    <string name="mobile_settings_queue_mode">Nobat «Wideo gutaranda» sazlamasyna eýerýär</string>
+    <string name="mobile_settings_queue_mode_summary">Säginende ýa-da pleýer ýapylanda nobat hem durýar</string>
+    <string name="mobile_settings_chapter_popup">Bölümleriň açylýan atlary</string>
+    <string name="mobile_settings_chapter_popup_summary">Her bölüm başlananda onuň adyny görkezýär. Indiki bölüme geçmek üçin basyň</string>
 </resources>
