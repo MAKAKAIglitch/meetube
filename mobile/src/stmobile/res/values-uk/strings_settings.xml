@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Скляний відблиск ковзає до вкладки, а панель трохи погойдується. На повільних телефонах вимкнено, доки ви не ввімкнете її.</string>
     <string name="mobile_settings_tabs_reset">Скинути панель до типових налаштувань</string>
     <string name="mobile_settings_tabs_reset_summary">Головна, Shorts, Пошук, Підписки, Ви</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Макет відео</string>
+    <string name="mobile_settings_video_layout_cards">Картки</string>
+    <string name="mobile_settings_video_layout_cards_desc">Велика мініатюра для кожного відео</string>
+    <string name="mobile_settings_video_layout_list">Список</string>
+    <string name="mobile_settings_video_layout_list_desc">Мала мініатюра біля назви, більше відео на екрані</string>
+    <string name="mobile_settings_screen_off">Продовжувати відтворення з вимкненим екраном</string>
+    <string name="mobile_settings_screen_off_on">Дозволено: енергозбереження не зупинить звук</string>
+    <string name="mobile_settings_screen_off_off">Енергозбереження може зупинити звук. Торкніться, щоб дозволити MeeTube працювати у фоновому режимі</string>
+    <string name="mobile_settings_seek_thumb">Повзунок перемотування</string>
+    <string name="mobile_settings_seek_thumb_dot">Крапка</string>
+    <string name="mobile_settings_seek_thumb_picture">Власне зображення</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Виберіть зображення з телефона; GIF буде анімованим</string>
+    <string name="mobile_settings_seek_thumb_failed">Не вдалося використати це зображення (максимум 5 МБ)</string>
+    <string name="mobile_settings_mini_type">Тип мініплеєра</string>
+    <string name="mobile_settings_mini_type_default">Типовий</string>
+    <string name="mobile_settings_mini_type_default_desc">Плаваюча картка. Змінюйте розмір, зводячи або розводячи пальці</string>
+    <string name="mobile_settings_mini_type_minimal">Мінімальний</string>
+    <string name="mobile_settings_mini_type_minimal2">Мінімальний 2</string>
+    <string name="mobile_settings_mini_type_disabled">Вимкнено</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Якщо потягнути плеєр униз, відео закриється, а не згорнеться</string>
+    <string name="mobile_settings_auto_pip">Картинка в картинці</string>
+    <string name="mobile_settings_auto_pip_summary">Якщо вийти із застосунку під час відтворення, відео згорнеться в маленьке вікно. Якщо вимкнути, у фоні продовжить відтворюватися лише звук</string>
 </resources>
