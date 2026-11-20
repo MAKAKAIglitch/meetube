@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Ойнатқышты төмен сырғыту бейнені кішірейтпей, жабады</string>
     <string name="mobile_settings_auto_pip">Сурет ішіндегі сурет</string>
     <string name="mobile_settings_auto_pip_summary">Бейне ойнатылып тұрғанда қолданбадан шықсаңыз, ол шағын терезеге кішірейеді. Өшірілсе, фонда тек дыбыс ойнатылады</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Бейне аяқталғанда</string>
+    <string name="mobile_settings_video_ends_next">Келесі бейнені ойнату</string>
+    <string name="mobile_settings_video_ends_repeat">Бейнені қайталау</string>
+    <string name="mobile_settings_video_ends_shuffle">Ойнату тізімін араластыру</string>
+    <string name="mobile_settings_video_ends_list">Ойнату тізімін аяқтап, тоқтату</string>
+    <string name="mobile_settings_video_ends_reverse">Ойнату тізімін кері ретпен ойнату</string>
+    <string name="mobile_settings_video_ends_pause">Тоқтату</string>
+    <string name="mobile_settings_video_ends_close">Ойнатқышты жабу</string>
+    <string name="mobile_settings_background">Қолданбадан шыққанда</string>
+    <string name="mobile_settings_background_pip_desc">Бейне шағын терезеде ойнатыла береді</string>
+    <string name="mobile_settings_background_audio_desc">Тек дыбыс ойнатыла береді</string>
+    <string name="mobile_settings_remember_speed">Ойнату жылдамдығын есте сақтау</string>
+    <string name="mobile_settings_remember_speed_channel">Әр арна үшін</string>
+    <string name="mobile_settings_remember_speed_video">Әр бейне үшін</string>
+    <string name="mobile_settings_remember_speed_all">Барлық бейнеге бірдей</string>
+    <string name="mobile_settings_remember_speed_none">Есте сақтамау</string>
+    <string name="mobile_settings_remember_speed_none_desc">MeeTube іске қосылған сайын жылдамдық 1× мәніне қайтарылады</string>
+    <string name="mobile_settings_speed_list">«Қосымша жылдамдықтар» бөліміндегі жылдамдықтар</string>
+    <string name="mobile_settings_speed_list_basic">Қысқа тізім</string>
+    <string name="mobile_settings_speed_list_fine">Дәл қадамдар</string>
+    <string name="mobile_settings_speed_list_finest">Әр 0,05× қадам</string>
+    <string name="mobile_settings_natural_voice">Басқа жылдамдықтарда табиғи дауыс</string>
+    <string name="mobile_settings_natural_voice_summary">Жылдамдықты арттырғанда немесе азайтқанда дауыстың қалыпты биіктігін сақтайды</string>
 </resources>
