@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Әр 0,05× қадам</string>
     <string name="mobile_settings_natural_voice">Басқа жылдамдықтарда табиғи дауыс</string>
     <string name="mobile_settings_natural_voice_summary">Жылдамдықты арттырғанда немесе азайтқанда дауыстың қалыпты биіктігін сақтайды</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Ұйқы таймері</string>
+    <string name="mobile_settings_sleep_timer_summary">Бейне ашылғаннан кейін %1$s өткен соң ойнатуды тоқтатады</string>
+    <string name="mobile_settings_audio_focus">Басқа дыбыстар кезінде кідірту</string>
+    <string name="mobile_settings_audio_focus_summary">Қоңыраулар мен басқа қолданбалардың дыбысы шыққанда кідіртеді. Келесі ашылатын бейнеге қолданылады</string>
+    <string name="mobile_settings_resume">Жалғастыру</string>
+    <string name="mobile_settings_resume_short">Қысқа бейнелерді жалғастыру</string>
+    <string name="mobile_settings_resume_short_summary">Бұл қосылмаса, 6 минуттан қысқа бейнелер басынан басталады</string>
+    <string name="mobile_settings_resume_live">Тікелей эфирлерді жалғастыру</string>
+    <string name="mobile_settings_resume_live_summary">Тікелей эфирді ағымдағы сәттен емес, тоқтаған жеріңізден жалғастырады</string>
+    <string name="mobile_settings_watch_page">Бейненің астында</string>
+    <string name="mobile_settings_ambient">Атмосфералық режим</string>
+    <string name="mobile_settings_ambient_summary">Бейне түстері ойнатқыш астында жарқырап, тік толық экран режиміндегі қара жолақтарды толтырады</string>
+    <string name="mobile_settings_hide_related">«Келесі» бөлімін жасыру</string>
+    <string name="mobile_settings_hide_related_summary">Ойнатқыш астындағы қатысты бейнелерді көрсетпейді</string>
+    <string name="mobile_settings_dislikes">Дизлайк санын көрсету</string>
+    <string name="mobile_settings_dislikes_summary">Деректер бейненің ID нөмірін алатын Return YouTube Dislike қызметінен алынады</string>
+    <string name="mobile_settings_paid_promotion">Ақылы жарнама туралы хабарлау</string>
+    <string name="mobile_settings_paid_promotion_summary">Бейнеде ақылы жарнама бар екені айтылса, қысқа хабарлама көрсетеді</string>
 </resources>
