@@ -24,4 +24,8 @@
     <string name="mobile_playlist_add_videos">Video qo‘shish</string>
     <string name="mobile_playlist_add_hint">%1$s ga qo‘shish uchun qidiring</string>
     <string name="mobile_playlist_loading">Pleylist yuklanmoqda</string>
+    <plurals name="mobile_playlist_video_count">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d video</item>
+    </plurals>
 </resources>
