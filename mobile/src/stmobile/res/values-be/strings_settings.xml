@@ -105,4 +105,31 @@
     <string name="mobile_settings_liquid_glass_summary">Лінза, святло і тэкстура на шкляных панэлях. Калі выключана, выкарыстоўваецца простае размыццё, якое менш расходуе батарэю</string>
     <string name="mobile_settings_storage_clear_empty">Кэш ужо пусты!</string>
     <string name="mobile_settings_storage_clear_empty_note">Няма чаго ачышчаць. Паглядзіце што-небудзь і вярніцеся пазней.</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d г %2$d хв</string>
+    <string name="mobile_settings_customize_summary_value">Тэма %1$s, галоўная старонка і спісы відэа, прайгравальнік, укладкі і эфекты</string>
+    <string name="mobile_settings_auto_none">Няма</string>
+    <string name="mobile_settings_auto_note">Праверка выконваецца кожныя некалькі гадзін. Для выбраных каналаў спампоўваюцца новыя відэа пасля іх публікацыі. З плэйліста за адну праверку спампоўваецца да 10 відэа. Выбіраецца найлепшая якасць, якая не перавышае зададзеную тут.</string>
+    <string name="mobile_battery_saver_ask">Уключаны рэжым эканоміі зараду. На гэты час выключыць анімацыю і эфект матавага шкла?</string>
+    <string name="mobile_battery_saver_ask_action">Выключыць</string>
+    <string name="mobile_settings_coffee">Пачаставаць распрацоўшчыка кавай</string>
+    <string name="mobile_settings_coffee_summary">Падтрымайце MeeTube, калі вам падабаецца праграма</string>
+    <string name="mobile_settings_new_uploads">Апавяшчаць пра новыя відэа</string>
+    <string name="mobile_settings_new_uploads_summary">Новыя відэа з вашых падпісак будуць з'яўляцца ў панэлі апавяшчэнняў</string>
+    <string name="mobile_settings_tabs">Укладкі</string>
+    <string name="mobile_settings_tabs_summary">Выберыце, што паказваць на ніжняй панэлі і ва ўкладцы «Вы»</string>
+    <string name="mobile_settings_tabs_bottom_bar">Ніжняя панэль</string>
+    <string name="mobile_settings_nav_labels">Назвы ўкладак</string>
+    <string name="mobile_settings_nav_labels_summary">Паказваць назву кожнай укладкі пад яе значком на ніжняй панэлі</string>
+    <string name="mobile_settings_brand_name">Назва праграмы на верхняй панэлі</string>
+    <string name="mobile_settings_brand_name_summary">Паказваць MeeTube побач са значком уверсе. Калі выключана, застаецца толькі значок</string>
+    <string name="mobile_settings_top_bar">Заўсёды паказваць верхнюю панэль</string>
+    <string name="mobile_settings_top_bar_summary">Пакідаць верхнюю панэль на экране падчас пракруткі стужкі, а не хаваць яе</string>
+    <string name="mobile_settings_search_fab">Кнопка пошуку, калі панэль схавана</string>
+    <string name="mobile_settings_search_fab_right">Унізе справа</string>
+    <string name="mobile_settings_search_fab_left">Унізе злева</string>
+    <string name="mobile_settings_tabs_you">Вы</string>
+    <string name="mobile_settings_tabs_none">Няма</string>
+    <string name="mobile_settings_tabs_bar_note">Каб змяніць парадак элементаў на панэлі, перацягніце іх за значок-пераключальнік або ўтрымлівайце. Перацягніце «Пошук» уверх, каб перамясціць яго на верхнюю панэль. Націсніце ўкладку, каб змяніць яе змесціва.</string>
 </resources>
