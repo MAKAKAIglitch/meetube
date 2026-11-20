@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Шкляны блік слізгае да ўкладкі, а панэль злёгку хістаецца. На павольных тэлефонах выключана, пакуль вы не ўключыце яе.</string>
     <string name="mobile_settings_tabs_reset">Скінуць панэль да стандартных налад</string>
     <string name="mobile_settings_tabs_reset_summary">Галоўная, Shorts, Пошук, Падпіскі, Вы</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Макет відэа</string>
+    <string name="mobile_settings_video_layout_cards">Карткі</string>
+    <string name="mobile_settings_video_layout_cards_desc">Вялікая мініяцюра для кожнага відэа</string>
+    <string name="mobile_settings_video_layout_list">Спіс</string>
+    <string name="mobile_settings_video_layout_list_desc">Маленькая мініяцюра побач з назвай, больш відэа на экране</string>
+    <string name="mobile_settings_screen_off">Працягваць прайграванне з выключаным экранам</string>
+    <string name="mobile_settings_screen_off_on">Дазволена: эканомія зараду не спыніць гук</string>
+    <string name="mobile_settings_screen_off_off">Эканомія зараду можа спыніць гук. Націсніце, каб дазволіць MeeTube працаваць у фонавым рэжыме</string>
+    <string name="mobile_settings_seek_thumb">Паўзунок перамоткі</string>
+    <string name="mobile_settings_seek_thumb_dot">Кропка</string>
+    <string name="mobile_settings_seek_thumb_picture">Выява з тэлефона</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Выберыце выяву з тэлефона; GIF будзе анімавацца</string>
+    <string name="mobile_settings_seek_thumb_failed">Не ўдалося выкарыстаць гэтую выяву (максімум 5 МБ)</string>
+    <string name="mobile_settings_mini_type">Тып міні-прайгравальніка</string>
+    <string name="mobile_settings_mini_type_default">Па змаўчанні</string>
+    <string name="mobile_settings_mini_type_default_desc">Плаваючая картка. Змяняйце памер, зводзячы або разводзячы пальцы</string>
+    <string name="mobile_settings_mini_type_minimal">Мінімальны</string>
+    <string name="mobile_settings_mini_type_minimal2">Мінімальны 2</string>
+    <string name="mobile_settings_mini_type_disabled">Выключаны</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Правядзенне прайгравальніка ўніз закрывае відэа, а не згортвае яго</string>
+    <string name="mobile_settings_auto_pip">Карцінка ў карцінцы</string>
+    <string name="mobile_settings_auto_pip_summary">Пры выхадзе з праграмы відэа згортваецца ў невялікае акно. Калі выключыць, у фоне будзе гучаць толькі аўдыя</string>
 </resources>
