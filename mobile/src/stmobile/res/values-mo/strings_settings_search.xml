@@ -34,8 +34,7 @@
     <string name="mobile_settings_search_kw_backup">export import save settings copie de rezervă export import salvare restaurare</string>
     <string name="mobile_settings_search_kw_buffer">buffering cache memory buffer memorie cache</string>
     <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers dns servere adrese rețea conexiune</string>
-    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security https сертификаттар sertifikatlar сертификатҳо şahadatnamalar
-    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificate securitate rețea internet conexiune</string>
     <string name="mobile_settings_search_kw_updates">update version new release notify notification actualizare versiune lansare notificare</string>
     <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug eroare raport jurnal diagnosticare</string>
     <string name="mobile_settings_search_kw_gesture_levels">gestures brightness volume</string>
