@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Has gowy kiçi suratlar</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Kiçi suratlary jemgyýetiň saýlan kadrlary bilen çalyşýar</string>
     <string name="mobile_settings_dearrow_note">DeArrow sanawlarda görýän wideolaryňyzyň ID belgilerini alýar.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Bu sazlamalar köplere gerek däl. Olar MeeTube-yň wideony nähili geçirýändigini we birikýändigini üýtgedýär.</string>
+    <string name="mobile_settings_streaming">Akymly görkezme</string>
+    <string name="mobile_settings_buffer">Bufer</string>
+    <string name="mobile_settings_buffer_low_desc">Takmynan 25 sekunt öňde. Ýady iň az ulanýar</string>
+    <string name="mobile_settings_buffer_med_desc">Takmynan 50 sekunt öňde</string>
+    <string name="mobile_settings_buffer_high_desc">75 sekunda çenli öňde</string>
+    <string name="mobile_settings_buffer_highest_desc">2 minuta çenli öňde. Ýady iň köp ulanýar</string>
+    <string name="mobile_settings_stall_quality">Yzygiderli buferlenende hili peselt</string>
+    <string name="mobile_settings_stall_quality_summary">Takmynan 20 sekunt buferlenenden soň hili bir dereje peseldýär. Öçürmek VPN ulanylanda kömek edip biler.</string>
+    <string name="mobile_settings_high_bitrate">Ýokary bitreýtli formatlar</string>
+    <string name="mobile_settings_high_bitrate_summary">Wideo goldaýan bolsa, YouTube-yň ýokary bitreýtli 1080p akymlaryny goşýar. Goşmaça talap gerek</string>
+    <string name="mobile_settings_sabr">SABR bilen akym (synag)</string>
+    <string name="mobile_settings_sabr_summary">YouTube-yň täze akym protokoly indiki wideodan başlap ulanylýar. Işlemese, wideo adaty usulda görkezilýär.</string>
+    <string name="mobile_settings_legacy_codecs">Bir faýlly akymlar</string>
+    <string name="mobile_settings_legacy_codecs_summary">Köne bir faýlly akymy, adatça 360p görnüşinde, hili üýtgetmän görkezýär. Diňe örän haýal telefonlar üçin.</string>
+    <string name="mobile_settings_live">Göni ýaýlymlar</string>
+    <string name="mobile_settings_live_edge">Göni ýaýlymyň häzirki pursatyndan başla</string>
+    <string name="mobile_settings_live_edge_summary">Ýaýlymy 15 sekuntlyk ätiýaçlyk bolmazdan mümkin boldugyça göni görkezýär</string>
+    <string name="mobile_settings_live_hls">Göni ýaýlymlary HLS arkaly görkez</string>
+    <string name="mobile_settings_live_hls_summary">Haýal telefonlarda has rahat işläp biler. Yza saramak mümkin däl we hil 1080p bilen çäklenýär</string>
 </resources>
