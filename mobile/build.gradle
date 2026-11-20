@@ -283,7 +283,7 @@ android {
     // A new translation adds its locale here.
     androidResources {
         localeFilters += ['en', 'ar', 'az', 'bg', 'ca', 'cs', 'da', 'de', 'el', 'es', 'et', 'fa-rIR',
-                'fi', 'fr', 'gl-rES', 'he', 'hi', 'hr', 'hu', 'hy', 'in', 'it', 'iw', 'ja', 'ko', 'lt',
+                'fi', 'fr', 'gl-rES', 'he', 'hi', 'hr', 'hu', 'hy', 'in', 'it', 'iw', 'ja', 'kk', 'ko', 'lt',
                 'lv', 'mo', 'nb', 'nl', 'pl', 'pt', 'pt-rBR', 'pt-rPT', 'ro', 'ru', 'sk', 'sl', 'sq',
                 'sr', 'sv', 'te', 'th', 'tr', 'uk', 'vi', 'zh', 'zh-rCN', 'zh-rTW']
     }
