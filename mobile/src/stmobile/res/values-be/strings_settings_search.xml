@@ -52,4 +52,5 @@
     <string name="mobile_settings_search_kw_stable_volume">stable volume drc compression dynamic range audio loud quiet</string>
     <string name="mobile_settings_search_kw_equalizer">equalizer eq audio bass treble frequencies bands presets custom sound эквалайзер бас высокія частоты палосы</string>
     <string name="mobile_settings_search_web_signin">chat google login cookies account session send message чат google уваход уліковы запіс паведамленне браўзер</string>
+    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different профілі асобныя ўліковыя запісы розныя</string>
 </resources>
