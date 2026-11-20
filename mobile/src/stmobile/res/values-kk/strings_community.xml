@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_channel_posts">Жазбалар</string>
+    <string name="mobile_channel_sort">Сұрыптау</string>
+    <string name="mobile_posts_title">%1$s жазба</string>
+    <string name="mobile_posts_empty">Әзірге жазба жоқ</string>
+    <string name="mobile_posts_image">Жазба суреті</string>
+    <string name="mobile_posts_likes">%1$s ұнату</string>
+    <string name="mobile_posts_replies">%1$s жауап</string>
+    <string name="mobile_posts_like">Бұл жазбаны ұнату</string>
+    <string name="mobile_posts_like_failed">Жазбаны ұнату мүмкін болмады. Қайталап көріңіз.</string>
+    <string name="mobile_posts_comments_read_only">Жазба пікірлерін ұнату және оларға жауап беру әзірге қолжетімді емес</string>
+    <string name="mobile_comments_just_now">Жаңа ғана</string>
+</resources>
