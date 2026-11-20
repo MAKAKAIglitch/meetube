@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Baxdığınız videoları YouTube tarixçəsindən silir</string>
     <string name="mobile_settings_clear_watch_history_confirm">Baxış tarixçəsi təmizlənsin?</string>
     <string name="mobile_settings_clear_watch_history_body">YouTube baxış tarixçənizdəki bütün videolar silinəcək. Bu əməliyyatı geri qaytarmaq mümkün deyil.</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Axtarış tarixçəsini saxlama</string>
+    <string name="mobile_settings_search_history_off_summary">Əvvəlki axtarışlar saxlanılmır və təklif edilmir</string>
+    <string name="mobile_settings_clear_search_history">Axtarış tarixçəsini təmizlə</string>
+    <string name="mobile_settings_clear_search_history_summary">Bu telefonda saxlanılan axtarışları silir</string>
+    <string name="mobile_settings_clear_search_history_confirm">Axtarış tarixçəsi təmizlənsin?</string>
+    <string name="mobile_settings_clear_search_history_body">MeeTube-un bu telefonda saxladığı axtarışlar silinəcək. Bu əməliyyatı geri qaytarmaq mümkün deyil.</string>
+    <string name="mobile_settings_backup_now">İndi ehtiyat nüsxə yarat</string>
+    <string name="mobile_settings_backup_now_summary">Parametrləri %1$s ünvanında saxlayır</string>
+    <string name="mobile_settings_backup_done">Ehtiyat nüsxə saxlanıldı</string>
+    <string name="mobile_settings_restore">Bərpa et</string>
+    <string name="mobile_settings_restore_summary">%1$s ünvanındakı ehtiyat nüsxədən</string>
+    <string name="mobile_settings_auto_backup">Avtomatik ehtiyat nüsxə</string>
+    <string name="mobile_settings_auto_backup_off">Heç vaxt</string>
+    <string name="mobile_settings_backup_note">Ehtiyat nüsxədə MeeTube-da qurduğunuz bütün parametrlər saxlanılır. Abunəliklər və tarixçə kimi YouTube hesabınıza aid məlumatlar həmin hesabda qalır.</string>
+    <string name="mobile_settings_home_layout">Əsas səhifənin düzəni</string>
 </resources>
