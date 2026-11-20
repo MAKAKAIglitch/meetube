@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Ҳангоми таваққуф ё бастани плеер навбат низ қатъ мешавад</string>
     <string name="mobile_settings_chapter_popup">Номҳои равзанаии бобҳо</string>
     <string name="mobile_settings_chapter_popup_summary">Ҳангоми оғози ҳар боб номи онро нишон медиҳад. Барои гузаштан ба боби навбатӣ ламс кунед</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Шабака</string>
+    <string name="mobile_settings_proxy">Прокси-сервери веб</string>
+    <string name="mobile_settings_proxy_summary">Трафики MeeTube-ро тавассути прокси-сервери HTTP ё SOCKS мегузаронад</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Аввал IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Интихоби пешфарз. Дар шабакаҳое, ки IPv6 дуруст кор намекунад, кӯмак мекунад</string>
+    <string name="mobile_settings_dns_system">DNS-и телефон</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Китобхонаи дохилии амниятӣ барои пайвастшавӣ. Метавонад мутобиқатро бо баъзе пайвастҳои HTTPS/TLS беҳтар кунад.</string>
+    <string name="mobile_settings_multi_profiles">Танзимоти алоҳида барои ҳар ҳисоб</string>
+    <string name="mobile_settings_multi_profiles_summary">Ҳар ҳисоб танзимоти худро нигоҳ медорад ва аз арзишҳои пешфарз оғоз мекунад</string>
 </resources>
