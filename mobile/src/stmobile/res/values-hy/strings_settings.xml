@@ -151,4 +151,20 @@
     <string name="mobile_settings_search_place_bottom">Ներքևի վահանակում</string>
     <string name="mobile_settings_search_place_top">Վերին վահանակում</string>
     <string name="mobile_settings_tabs_note">«Դուք» բաժնի ներդիրը կամ տողը տեղափոխելու, վերանվանելու կամ թաքցնելու համար սեղմած պահեք այն։</string>
+
+    <!-- Hidden video and feed translations -->
+    <string name="mobile_settings_hidden">Թաքցված տեսանյութեր</string>
+    <string name="mobile_settings_hidden_none">Թաքցված ոչինչ չկա</string>
+    <string name="mobile_settings_hidden_watched">Դիտված տեսանյութեր</string>
+    <string name="mobile_settings_hidden_watched_home">Թաքցնել դիտված տեսանյութերը գլխավոր էջում</string>
+    <string name="mobile_settings_hidden_watched_subscriptions">Թաքցնել դիտված տեսանյութերը բաժանորդագրություններում</string>
+    <string name="mobile_settings_hidden_watched_later">Հեռացնել դիտված տեսանյութերը «Դիտել ավելի ուշ» ցանկից</string>
+    <string name="mobile_settings_hidden_watched_later_summary">Տեսանյութը դիտելուց հետո այն հեռացնում է «Դիտել ավելի ուշ» ցանկից</string>
+    <string name="mobile_settings_hidden_watched_note">Օգտագործվում է YouTube-ի դիտումների պատմությունը, ուստի պետք է մուտք գործեք հաշիվ։</string>
+    <string name="mobile_settings_hidden_upcoming">Առաջիկա պրեմիերաներ և հեռարձակումներ</string>
+    <string name="mobile_settings_hidden_upcoming_home">Թաքցնել գլխավոր էջում</string>
+    <string name="mobile_settings_hidden_upcoming_subscriptions">Թաքցնել բաժանորդագրություններում</string>
+    <string name="mobile_settings_hidden_upcoming_channels">Թաքցնել ալիքների էջերում</string>
+    <string name="mobile_settings_hidden_live">Ուղիղ հեռարձակումներ</string>
+    <string name="mobile_settings_hidden_live_subscriptions">Թաքցնել ուղիղ հեռարձակումները բաժանորդագրություններում</string>
 </resources>
