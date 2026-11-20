@@ -100,7 +100,7 @@
     <string name="mobile_settings_notify_system_summary">Налады апавяшчэнняў MeeTube на гэтым тэлефоне</string>
     <string name="mobile_settings_notify_note">Новыя відэа правяраюцца па раскладзе, а не праз push. Android дазваляе праграмам правяраць іх не часцей за раз на 15 хвілін. Некаторыя тэлефоны спыняюць фонавыя праверкі без адпаведнага дазволу.</string>
     <string name="mobile_settings_24_hour">Фармат 24 гадзіны</string>
-    <string name="mobile_settings_24_hour_summary">Для часу пачатку прэм'ер і прамых трансляцый</string>
+    <string name="mobile_settings_24_hour_summary">Для часу пачатку прэм\'ер і прамых трансляцый</string>
     <string name="mobile_settings_liquid_glass">Вадкае шкло</string>
     <string name="mobile_settings_liquid_glass_summary">Лінза, святло і тэкстура на шкляных панэлях. Калі выключана, выкарыстоўваецца простае размыццё, якое менш расходуе батарэю</string>
     <string name="mobile_settings_storage_clear_empty">Кэш ужо пусты!</string>
