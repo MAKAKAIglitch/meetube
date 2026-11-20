@@ -105,4 +105,31 @@
     <string name="mobile_settings_liquid_glass_summary">Ոսպնյակ, լույս և հատիկավորություն ապակե վահանակների վրա։ Անջատելիս օգտագործվում է սովորական մշուշում, որն ավելի քիչ մարտկոց է ծախսում</string>
     <string name="mobile_settings_storage_clear_empty">Քեշն արդեն դատարկ է։</string>
     <string name="mobile_settings_storage_clear_empty_note">Մաքրելու քեշ այլևս չկա։ Դիտեք որևէ բան և վերադարձեք ավելի ուշ։</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d ժ %2$d ր</string>
+    <string name="mobile_settings_customize_summary_value">%1$s թեմա, գլխավոր էջ և տեսանյութերի ցանկեր, նվագարկիչ, ներդիրներ և էֆեկտներ</string>
+    <string name="mobile_settings_auto_none">Ոչ մեկը</string>
+    <string name="mobile_settings_auto_note">Ստուգումը կատարվում է մի քանի ժամը մեկ։ Ընտրված ալիքի նոր տեսանյութերը ներբեռնվում են հրապարակվելուց հետո։ Ցանկից յուրաքանչյուր ստուգման ժամանակ ներբեռնվում է մինչև 10 տեսանյութ։ Օգտագործվում է այստեղ նշվածից ոչ բարձր՝ հնարավոր լավագույն որակը։</string>
+    <string name="mobile_battery_saver_ask">Միացված է մարտկոցի խնայողության ռեժիմը։ Այս ընթացքում անջատե՞լ անիմացիաներն ու խամրած ապակու էֆեկտը։</string>
+    <string name="mobile_battery_saver_ask_action">Անջատել</string>
+    <string name="mobile_settings_coffee">Սուրճ հյուրասիրել մշակողին</string>
+    <string name="mobile_settings_coffee_summary">Աջակցեք MeeTube-ին, եթե ձեզ դուր է գալիս հավելվածը</string>
+    <string name="mobile_settings_new_uploads">Ծանուցել նոր տեսանյութերի մասին</string>
+    <string name="mobile_settings_new_uploads_summary">Ձեր բաժանորդագրությունների նոր տեսանյութերը կհայտնվեն ծանուցումների վահանակում</string>
+    <string name="mobile_settings_tabs">Ներդիրներ</string>
+    <string name="mobile_settings_tabs_summary">Ընտրեք, թե ինչ ցուցադրել ներքևի վահանակում և «Դուք» ներդիրում</string>
+    <string name="mobile_settings_tabs_bottom_bar">Ներքևի վահանակ</string>
+    <string name="mobile_settings_nav_labels">Ներդիրների անունները</string>
+    <string name="mobile_settings_nav_labels_summary">Ներքևի վահանակում յուրաքանչյուր ներդիրի պատկերակի տակ ցուցադրել դրա անունը</string>
+    <string name="mobile_settings_brand_name">Հավելվածի անունը վերևի վահանակում</string>
+    <string name="mobile_settings_brand_name_summary">Վերևում պատկերակի կողքին ցուցադրել MeeTube-ը։ Անջատելու դեպքում կմնա միայն պատկերակը</string>
+    <string name="mobile_settings_top_bar">Միշտ ցուցադրել վերևի վահանակը</string>
+    <string name="mobile_settings_top_bar_summary">Ժապավենը ոլորելիս վերևի վահանակը պահել էկրանին՝ այն թաքցնելու փոխարեն</string>
+    <string name="mobile_settings_search_fab">Որոնման կոճակը՝ վահանակը թաքցնելիս</string>
+    <string name="mobile_settings_search_fab_right">Ներքևի աջ կողմում</string>
+    <string name="mobile_settings_search_fab_left">Ներքևի ձախ կողմում</string>
+    <string name="mobile_settings_tabs_you">Դուք</string>
+    <string name="mobile_settings_tabs_none">Ոչ մեկը</string>
+    <string name="mobile_settings_tabs_bar_note">Վահանակի տարրերի հերթականությունը փոխելու համար քաշեք դրանք բռնակից կամ պահեք սեղմած։ «Որոնում»-ը քաշեք վերև՝ այն վերևի վահանակ տեղափոխելու համար։ Հպեք ներդիրին՝ դրա ցուցադրած բովանդակությունը փոխելու համար։</string>
 </resources>
