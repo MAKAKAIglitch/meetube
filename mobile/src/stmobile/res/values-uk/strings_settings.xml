@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Відтворює трансляції якомога ближче до прямого ефіру, без 15-секундного запасу</string>
     <string name="mobile_settings_live_hls">Відтворювати прямі трансляції через HLS</string>
     <string name="mobile_settings_live_hls_summary">На повільних телефонах може працювати плавніше. Перемотування назад недоступне, а якість обмежена 1080p</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Плеєр</string>
+    <string name="mobile_settings_controls_on_next">Показувати елементи керування в наступному відео</string>
+    <string name="mobile_settings_controls_on_next_summary">Елементи керування з’являються, коли починається наступне відео</string>
+    <string name="mobile_settings_list_queue">Відтворювати початковий список</string>
+    <string name="mobile_settings_list_queue_summary">Після відео, відкритого зі списку відтворення, решта відео відтворюється в тому самому порядку</string>
+    <string name="mobile_settings_queue_mode">Черга відповідає налаштуванню «Коли відео завершиться»</string>
+    <string name="mobile_settings_queue_mode_summary">Під час паузи або закриття плеєра черга також зупиняється</string>
+    <string name="mobile_settings_chapter_popup">Спливні назви розділів</string>
+    <string name="mobile_settings_chapter_popup_summary">Показує назву кожного розділу на початку. Торкніться, щоб перейти до наступного</string>
 </resources>
