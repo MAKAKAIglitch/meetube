@@ -35,7 +35,7 @@
     <string name="mobile_settings_auto_watch_later">Кийин көрүү</string>
     <string name="mobile_settings_auto_quality">Автоматтык жүктөө сапаты</string>
     <string name="mobile_settings_auto_wifi">Wi-Fi аркылуу гана</string>
-    <string name="mobile_settings_auto_wifi_summary">Текшерүү жана жүктөөдөн мурун Wi-Fi'ды күтүү</string>
+    <string name="mobile_settings_auto_wifi_summary">Текшерүү жана жүктөөдөн мурун Wi-Fi\'ды күтүү</string>
     <string name="mobile_settings_auto_now">Азыр текшерүү</string>
     <string name="mobile_settings_auto_now_done">Жаңы видеолор текшерилүүдө</string>
     <string name="mobile_settings_auto_sign_in">Каналдарды жана плейлисттерди тандоо үчүн кириңиз</string>
