@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">автор: %1$s</string>
+    <string name="mobile_playlist_type">Плейлист</string>
+    <string name="mobile_playlist_download_all">Завантажити все</string>
+    <string name="mobile_playlist_download_confirm">Завантажити відео: %1$d?</string>
+    <string name="mobile_playlist_download_quality">Якість завантаження для всіх відео</string>
+    <string name="mobile_playlist_download_best">Найкраща доступна</string>
+    <string name="mobile_playlist_download_queued">У чергу додано відео: %1$d</string>
+    <string name="mobile_playlist_download_skipped">У чергу додано відео: %1$d. Недоступно: %2$d.</string>
+    <string name="mobile_playlist_load_failed">Не вдалося завантажити весь плейлист. Спробуйте ще раз.</string>
+    <string name="mobile_playlist_sort">Сортувати за</string>
+    <string name="mobile_playlist_sort_manual">Вручну</string>
+    <string name="mobile_playlist_sort_newest">Датою публікації (спочатку новіші)</string>
+    <string name="mobile_playlist_sort_oldest">Датою публікації (спочатку старіші)</string>
+    <string name="mobile_playlist_sort_popular">Найпопулярніші</string>
+    <string name="mobile_playlist_filter_all">Усі</string>
+    <string name="mobile_playlist_filter_videos">Відео</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Вибрати відео</string>
+    <string name="mobile_playlist_select_all">Вибрати все</string>
+    <string name="mobile_playlist_selected">Вибрано: %1$d</string>
+    <string name="mobile_playlist_download_selected">Завантажити</string>
+    <string name="mobile_playlist_add_videos">Додати відео</string>
+    <string name="mobile_playlist_add_hint">Шукайте, щоб додати до %1$s</string>
+    <string name="mobile_playlist_loading">Завантаження плейлиста</string>
+</resources>
