@@ -11,4 +11,8 @@
     <string name="mobile_posts_like_failed">Жазбаны ұнату мүмкін болмады. Қайталап көріңіз.</string>
     <string name="mobile_posts_comments_read_only">Жазба пікірлерін ұнату және оларға жауап беру әзірге қолжетімді емес</string>
     <string name="mobile_comments_just_now">Жаңа ғана</string>
+    <plurals name="mobile_posts_images">
+        <item quantity="one">%1$d сурет</item>
+        <item quantity="other">%1$d сурет</item>
+    </plurals>
 </resources>
