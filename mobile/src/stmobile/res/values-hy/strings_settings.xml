@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android-ի ենթագրերի կարգավորումներ</string>
     <string name="mobile_settings_caption_system_summary">Օգտագործվում է «Համակարգային» ոճում</string>
     <string name="mobile_settings_captions_note">Ենթագրերը միացնելու կամ դրանց լեզուն ընտրելու համար օգտագործեք նվագարկչի CC կոճակը։</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Բաց է թողնում համայնքի կողմից նշված տեսանյութերի հատվածները</string>
+    <string name="mobile_settings_sponsorblock_segments">Երբ հատվածը սկսվում է</string>
+    <string name="mobile_settings_segment_skip">Բաց թողնել</string>
+    <string name="mobile_settings_segment_ask_short">Հարցնել</string>
+    <string name="mobile_settings_segment_show">Ցուցադրել</string>
+    <string name="mobile_settings_segment_modes_note">Կարող եք բաց թողնել հատվածը, հաստատում խնդրել կոճակով, այն ցույց տալ միայն փնտրման գոտում կամ անջատել։</string>
+    <string name="mobile_settings_segment_min">Չբաց թողնել սրանից կարճ հատվածները</string>
+    <string name="mobile_settings_segment_once">Յուրաքանչյուր հատված բաց թողնել միայն մեկ անգամ</string>
+    <string name="mobile_settings_segment_once_summary">Եթե վերադառնաք բաց թողած հատվածին, այն կնվագարկվի</string>
+    <string name="mobile_settings_segment_alt_server_summary">Փորձեք սա, եթե հատվածները չեն բեռնվում</string>
+    <string name="mobile_settings_segment_alt_server">Օգտագործել այլընտրանքային սերվեր</string>
+    <string name="mobile_settings_dearrow_titles">Ավելի լավ վերնագրեր</string>
+    <string name="mobile_settings_dearrow_titles_summary">Կլիքբեյթ վերնագրերը փոխարինում է համայնքի գրած տարբերակներով</string>
+    <string name="mobile_settings_dearrow_thumbnails">Ավելի լավ մանրապատկերներ</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Մանրապատկերները փոխարինում է համայնքի ընտրած կադրերով</string>
+    <string name="mobile_settings_dearrow_note">DeArrow-ը ստանում է ցանկերում տեսած տեսանյութերի ID-ները։</string>
 </resources>
