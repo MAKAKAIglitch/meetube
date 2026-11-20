@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Çox yüksək səsli videoların səviyyəsini YouTube-un adi səviyyəsinə endirir</string>
     <string name="mobile_settings_player_volume">Pleyerin səs səviyyəsi</string>
     <string name="mobile_settings_quality_data_saver_note">Android-də trafikə qənaət rejimi aktiv olduqda MeeTube mobil şəbəkədə daha az məlumatı əvvəlcədən yükləyir.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Üslub</string>
+    <string name="mobile_settings_caption_size">Ölçü</string>
+    <string name="mobile_settings_caption_position">Aşağı kənardan məsafə</string>
+    <string name="mobile_settings_caption_per_channel">Altyazıları hər kanal üçün yadda saxla</string>
+    <string name="mobile_settings_caption_per_channel_summary">Aktiv etdiyiniz altyazılar yalnız həmin kanalda yenidən göstərilir. Söndürülərsə, son seçdiyiniz altyazı dili bütün videolarda istifadə olunur.</string>
+    <string name="mobile_settings_caption_system">Android altyazı ayarları</string>
+    <string name="mobile_settings_caption_system_summary">Sistem üslubu bu ayarlardan istifadə edir</string>
+    <string name="mobile_settings_captions_note">Altyazıları aktivləşdirmək və ya dilini seçmək üçün pleyerdəki CC düyməsindən istifadə edin.</string>
 </resources>
