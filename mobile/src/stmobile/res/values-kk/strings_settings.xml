@@ -235,4 +235,31 @@
     <string name="mobile_settings_auto_backup_off">Ешқашан</string>
     <string name="mobile_settings_backup_note">Сақтық көшірмеде MeeTube-та орнатқан барлық параметр сақталады. Жазылымдар мен тарих сияқты YouTube аккаунтына тиесілі деректер сол аккаунтта қалады.</string>
     <string name="mobile_settings_home_layout">Басты бет орналасуы</string>
+
+    <!-- App icon and loading indicator translations -->
+    <string name="mobile_settings_app_icon">Қолданба белгішесі</string>
+    <string name="mobile_app_icon_default">Классикалық (әдепкі)</string>
+    <string name="mobile_app_icon_classic">Қара жүрек</string>
+    <string name="mobile_app_icon_fantasy">Қиял-ғажайып</string>
+    <string name="mobile_app_icon_glass_heart">Шыны жүрек</string>
+    <string name="mobile_app_icon_ruby">Түпнұсқа шыны</string>
+    <string name="mobile_app_icon_play">Түпнұсқа Play</string>
+    <string name="mobile_app_icon_play_dark">Түпнұсқа неон</string>
+    <string name="mobile_app_icon_blaze">Жалынды өрнек</string>
+    <string name="mobile_app_icon_red_crt">Қызыл CRT</string>
+    <string name="mobile_app_icon_chrome">Chrome Play</string>
+    <string name="mobile_app_icon_pixel_play">Pixel Play</string>
+    <string name="mobile_app_icon_starry_night">Жұлдызды түн</string>
+    <string name="mobile_app_icon_gta_vi">GTA VI</string>
+    <string name="mobile_settings_loader">Жүктеу индикаторы</string>
+    <string name="mobile_settings_font">Қаріп</string>
+    <string name="mobile_loader_neon">Неон сақина</string>
+    <string name="mobile_loader_frosted">Күңгірт шыны</string>
+    <string name="mobile_loader_cookie">Печенье</string>
+    <string name="mobile_loader_frosted_cookie">Күңгірт печенье</string>
+    <string name="mobile_loader_liquid_ring">Сұйық сақина</string>
+    <string name="mobile_loader_glass_orb">Шыны шар</string>
+    <string name="mobile_loader_morphing_blob">Сұйық тамшы</string>
+    <string name="mobile_loader_glass_orbit">Шыны орбита</string>
+    <string name="mobile_app_icon_pending">Жаңа белгіше барлық жерде қолданылуы үшін MeeTube қолданбасын қайта іске қосыңыз. Әйтпесе, қолданбадан шыққаннан кейін өзгереді.</string>
 </resources>
