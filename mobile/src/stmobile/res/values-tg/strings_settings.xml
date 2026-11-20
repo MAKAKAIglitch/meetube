@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Қатраи моеъ</string>
     <string name="mobile_loader_glass_orbit">Мадори шишагӣ</string>
     <string name="mobile_app_icon_pending">Барои дар ҳама ҷо истифода шудани нишонаи нав MeeTube-ро аз нав оғоз кунед. Дар акси ҳол, он пас аз баромадан аз барнома иваз мешавад.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Навор</string>
+    <string name="mobile_settings_home_layout_feed_desc">Як рӯйхати ягонаи видеоҳо, монанди YouTube</string>
+    <string name="mobile_settings_home_layout_rows">Қаторҳо</string>
+    <string name="mobile_settings_home_layout_rows_desc">Барои ҳар мавзӯъ як қатори алоҳидаи уфуқӣ, монанди SmartTube</string>
+    <string name="mobile_settings_home_shorts">Shorts дар саҳифаи асосӣ</string>
+    <string name="mobile_settings_home_shorts_summary">Қатори уфуқии Shorts, монанди YouTube</string>
+    <string name="mobile_settings_chip_style">Услуби филтрҳо</string>
+    <string name="mobile_settings_chip_style_segment">Панели муттаҳид</string>
+    <string name="mobile_settings_chip_style_segment_desc">Филтрҳои мавзӯъҳои саҳифаи асосӣ ва филтрҳои ҷустуҷӯ дар як панели шишагӣ ҷойгиранд. Филтрро ламс карда, кашед.</string>
+    <string name="mobile_settings_chip_style_pills">Плашкаҳои алоҳида</string>
+    <string name="mobile_settings_chip_style_pills_desc">Ҳар филтр дар плашкаи шишагии алоҳида нишон дода мешавад</string>
+    <string name="mobile_settings_player_buttons_look">Услуби тугмаҳои плеер</string>
+    <string name="mobile_settings_player_buttons_see_through">Нимшаффоф</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Дар паси ҳар тугма дар видео, Shorts ва плеери хурд доираи шишагии рангдор ҷойгир аст</string>
+    <string name="mobile_settings_player_buttons_frosted">Шишаи хира</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Доираҳо тасвири зери худро хира мекунанд. Қувваи бештар сарф мешавад ва дар телефонҳои суст метавонад таваққуф кунад.</string>
+    <string name="mobile_settings_player_buttons_minimal">Минималӣ</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Бе доираҳо, танҳо нишонаҳо бо сояи нарм, монанди YouTube</string>
+    <string name="mobile_settings_performance">Самаранокӣ</string>
+    <string name="mobile_settings_high_refresh">Ҳолати басомади баланди навсозӣ</string>
+    <string name="mobile_settings_high_refresh_summary">Барои ҳаракати ҳамвортар барнома бо басомади %1$d Гц кор мекунад. Қувваи бештар сарф мешавад; ҳангоми гарм шудани телефон ё фаъол будани сарфаи батарея Android метавонад басомадро паст кунад.</string>
+    <string name="mobile_settings_tab_motion">Аниматсияи гузариш байни ҷадвалҳо</string>
+    <string name="mobile_settings_tab_motion_summary">Дурахши шишагӣ ба ҷадвал ҳаракат мекунад ва панел каме меларзад. Дар телефонҳои суст то фаъол кардани шумо хомӯш аст.</string>
+    <string name="mobile_settings_tabs_reset">Панелро ба ҳолати пешфарз баргардондан</string>
+    <string name="mobile_settings_tabs_reset_summary">Асосӣ, Shorts, Ҷустуҷӯ, Обунаҳо, Шумо</string>
 </resources>
