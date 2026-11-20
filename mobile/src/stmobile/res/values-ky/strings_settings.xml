@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Жакшыраак эскиздер</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Эскиздерди коомчулук тандаган кадрларга алмаштырат</string>
     <string name="mobile_settings_dearrow_note">DeArrow тизмелерден көргөн видеолоруңуздун ID номерлерин алат.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Бул жөндөөлөр көпчүлүккө керек эмес. Алар MeeTube видеону кантип өткөрүп, кантип туташарын өзгөртөт.</string>
+    <string name="mobile_settings_streaming">Агым менен ойнотуу</string>
+    <string name="mobile_settings_buffer">Буфер</string>
+    <string name="mobile_settings_buffer_low_desc">Болжол менен 25 секунд алдыда. Эстутумду эң аз колдонот</string>
+    <string name="mobile_settings_buffer_med_desc">Болжол менен 50 секунд алдыда</string>
+    <string name="mobile_settings_buffer_high_desc">75 секундга чейин алдыда</string>
+    <string name="mobile_settings_buffer_highest_desc">2 мүнөткө чейин алдыда. Эстутумду эң көп колдонот</string>
+    <string name="mobile_settings_stall_quality">Тынымсыз буферлөөдө сапатты төмөндөтүү</string>
+    <string name="mobile_settings_stall_quality_summary">Болжол менен 20 секунд буферленгенден кийин сапатты бир деңгээлге төмөндөтөт. Өчүрүү VPN колдонгондо жардам бериши мүмкүн.</string>
+    <string name="mobile_settings_high_bitrate">Жогорку битрейттүү форматтар</string>
+    <string name="mobile_settings_high_bitrate_summary">Видео колдосо, YouTube'дун жогорку битрейттүү 1080p агымдарын кошот. Кошумча суроо талап кылынат</string>
+    <string name="mobile_settings_sabr">SABR менен агым (эксперименталдык)</string>
+    <string name="mobile_settings_sabr_summary">YouTube'дун жаңы агым протоколу кийинки видеодон тартып колдонулат. Иштебесе, видео кадимки ыкма менен ойнотулат.</string>
+    <string name="mobile_settings_legacy_codecs">Бир файлдуу агымдар</string>
+    <string name="mobile_settings_legacy_codecs_summary">Эски бир файлдуу агымды, адатта 360p сапатында, сапатты өзгөртпөй ойнотот. Өтө жай телефондор үчүн гана.</string>
+    <string name="mobile_settings_live">Түз эфирлер</string>
+    <string name="mobile_settings_live_edge">Эфирдин азыркы учурунан баштоо</string>
+    <string name="mobile_settings_live_edge_summary">Эфирди 15 секунддук артта калуусуз мүмкүн болушунча түз көрсөтөт</string>
+    <string name="mobile_settings_live_hls">Түз эфирлерди HLS аркылуу ойнотуу</string>
+    <string name="mobile_settings_live_hls_summary">Жай телефондордо жылмакайыраак иштеши мүмкүн. Артка түрүү мүмкүн эмес жана сапат 1080p менен чектелет</string>
 </resources>
