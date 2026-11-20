@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Kanal səhifələrində gizlət</string>
     <string name="mobile_settings_hidden_live">Canlı yayımlar</string>
     <string name="mobile_settings_hidden_live_subscriptions">Canlı yayımları abunəliklərdə gizlət</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Video menyusu</string>
+    <string name="mobile_settings_video_menu_summary">⋮ menyusunda hansı seçimlərin olacağını seçin</string>
+    <string name="mobile_settings_video_menu_note">Videonun ⋮ menyusunda və bölməni basıb saxladıqda açılan menyuda göstərilənlər. Hər seçim yalnız uyğun olduğu yerdə görünür.</string>
+    <string name="mobile_settings_menu_play">Oxutma</string>
+    <string name="mobile_settings_menu_queue_add">Növbəyə əlavə et</string>
+    <string name="mobile_settings_menu_save">Saxlama</string>
+    <string name="mobile_settings_menu_recent_playlist">Son istifadə olunan pleylistə saxla</string>
+    <string name="mobile_settings_menu_save_playlist">Pleylisti saxla və ya sil</string>
+    <string name="mobile_settings_menu_channel">Kanal və tövsiyələr</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Abunəliklərdə gizlət</string>
+    <string name="mobile_settings_menu_share">Paylaşım və məlumat</string>
+    <string name="mobile_settings_menu_playlists">Pleylistlər</string>
+    <string name="mobile_settings_menu_tabs">Bölmə menyusu</string>
+    <string name="mobile_settings_menu_move_section">Yuxarı və aşağı köçür</string>
+    <string name="mobile_settings_menu_usual_order">Adi sıra</string>
+    <string name="mobile_settings_menu_usual_order_summary">Menyu elementlərini əvvəlki yerlərinə qaytar</string>
+    <string name="mobile_settings_menu_usual_order_done">Menyu sırası bərpa edildi</string>
+    <string name="mobile_settings_thumbnails">Kiçik şəkillər</string>
+    <string name="mobile_settings_thumbnails_default">Videonu yükləyənin seçdiyi miniatür</string>
+    <string name="mobile_settings_thumbnails_start">Videonun əvvəlindən kadr</string>
+    <string name="mobile_settings_thumbnails_middle">Videonun ortasından kadr</string>
+    <string name="mobile_settings_thumbnails_end">Videonun sonundan kadr</string>
+    <string name="mobile_settings_original_titles">Orijinal başlıqlar</string>
+    <string name="mobile_settings_original_titles_summary">Başlıqları YouTube tərcüməsində deyil, orijinal dilində göstər</string>
 </resources>
