@@ -206,4 +206,19 @@
     <string name="mobile_search_error">Netijeleri ýüklemek başartmady.</string>
     <string name="mobile_channel_tab_videos">Wideolar</string>
     <string name="mobile_channel_tab_more">Has köp</string>
+    <string name="mobile_nav_you">Siz</string>
+    <string name="mobile_nav_hint_tabs">Goýmalary sazlamak  ›</string>
+    <string name="mobile_nav_hint_change">Üýtgetmek</string>
+    <string name="mobile_nav_hint_confirm_title">Goýmalary sazlamak isleýärsiňizmi?</string>
+    <string name="mobile_nav_hint_confirm_body">Aşaky paneliň goýmalaryny saýlamak we tertiplemek üçin sazlamalary açýar.</string>
+    <string name="mobile_nav_hint_confirm_open">Açmak</string>
+    <string name="mobile_nav_subs">Ýazylmalar</string>
+    <string name="mobile_subs_all_channels">Ähli ýazylmalar</string>
+    <string name="mobile_you_explore">Gözden geçirmek</string>
+    <string name="mobile_you_library">Kitaphana</string>
+    <string name="mobile_you_watch_later">Soň görmek</string>
+    <string name="mobile_you_liked_videos">Halan wideolar</string>
+    <string name="mobile_no_browser">Bu baglanyşygy açmak üçin programma tapylmady</string>
+    <string name="mobile_add_device_title">Enjamy jübütlemek</string>
+    <string name="mobile_add_device_done">Taýýar</string>
 </resources>
