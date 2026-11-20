@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Дані надходять від Return YouTube Dislike, який отримує ідентифікатор відео</string>
     <string name="mobile_settings_paid_promotion">Повідомляти про платну рекламу</string>
     <string name="mobile_settings_paid_promotion_summary">Показує коротке повідомлення, коли у відео зазначено наявність платної реклами</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Якість, з якої починається відтворення відео. Для окремого відео її можна змінити в налаштуваннях плеєра.</string>
+    <string name="mobile_settings_default_quality">Типова якість</string>
+    <string name="mobile_settings_quality_wifi">Через Wi-Fi</string>
+    <string name="mobile_settings_quality_mobile">Через мобільні дані</string>
+    <string name="mobile_settings_quality_same">Як через Wi-Fi</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Мобільні дані: %2$s</string>
+    <string name="mobile_settings_quality_auto">Автоматично (до %1$dp)</string>
+    <string name="mobile_settings_quality_auto_desc">Рекомендовано. Найкраща якість, яку підтримує ваше з’єднання</string>
+    <string name="mobile_settings_quality_up_to">До %1$s</string>
+    <string name="mobile_settings_quality_more_data">Використовує більше трафіку</string>
+    <string name="mobile_settings_quality_less_data">Використовує менше трафіку</string>
+    <string name="mobile_settings_quality_data_saver">Заощаджує трафік</string>
+    <string name="mobile_settings_hdr">Відео HDR</string>
+    <string name="mobile_settings_hdr_summary">Відтворює HDR-відео в HDR із яскравішими та насиченішими кольорами. Використовує більше трафіку. Діє для наступного відкритого відео.</string>
+    <string name="mobile_settings_loudness">Вирівнювати гучність</string>
+    <string name="mobile_settings_loudness_summary">Знижує гучність надто гучних відео до звичайного рівня YouTube</string>
+    <string name="mobile_settings_player_volume">Гучність плеєра</string>
+    <string name="mobile_settings_quality_data_saver_note">Коли в Android увімкнено заощадження трафіку, MeeTube попередньо завантажує менше даних через мобільну мережу.</string>
 </resources>
