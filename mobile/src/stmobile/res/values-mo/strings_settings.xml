@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Ascunde pe paginile canalelor</string>
     <string name="mobile_settings_hidden_live">Transmisiuni live</string>
     <string name="mobile_settings_hidden_live_subscriptions">Ascunde transmisiunile live în Abonamente</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Meniul videoclipului</string>
+    <string name="mobile_settings_video_menu_summary">Alege ce apare în meniul ⋮</string>
+    <string name="mobile_settings_video_menu_note">Elementele din meniul ⋮ al videoclipului și din meniul deschis prin apăsarea lungă a unei file. Un element apare doar acolo unde este relevant.</string>
+    <string name="mobile_settings_menu_play">Redare</string>
+    <string name="mobile_settings_menu_queue_add">Adaugă la coadă</string>
+    <string name="mobile_settings_menu_save">Salvare</string>
+    <string name="mobile_settings_menu_recent_playlist">Salvează în ultimul playlist folosit</string>
+    <string name="mobile_settings_menu_save_playlist">Salvează sau elimină playlistul</string>
+    <string name="mobile_settings_menu_channel">Canal și recomandări</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Ascunde din Abonamente</string>
+    <string name="mobile_settings_menu_share">Partajare și detalii</string>
+    <string name="mobile_settings_menu_playlists">Playlisturi</string>
+    <string name="mobile_settings_menu_tabs">Meniul filei</string>
+    <string name="mobile_settings_menu_move_section">Mută în sus sau în jos</string>
+    <string name="mobile_settings_menu_usual_order">Ordine obișnuită</string>
+    <string name="mobile_settings_menu_usual_order_summary">Restabilește pozițiile obișnuite ale elementelor din meniu</string>
+    <string name="mobile_settings_menu_usual_order_done">Ordinea meniului a fost restabilită</string>
+    <string name="mobile_settings_thumbnails">Miniaturi</string>
+    <string name="mobile_settings_thumbnails_default">Miniatura aleasă de persoana care a încărcat videoclipul</string>
+    <string name="mobile_settings_thumbnails_start">Un cadru de la începutul videoclipului</string>
+    <string name="mobile_settings_thumbnails_middle">Un cadru din mijlocul videoclipului</string>
+    <string name="mobile_settings_thumbnails_end">Un cadru de la sfârșitul videoclipului</string>
+    <string name="mobile_settings_original_titles">Titluri originale</string>
+    <string name="mobile_settings_original_titles_summary">Afișează titlurile în limba originală, nu în traducerea YouTube</string>
 </resources>
