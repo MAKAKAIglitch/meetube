@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Maye fiqur</string>
     <string name="mobile_loader_glass_orbit">Şüşə orbiti</string>
     <string name="mobile_app_icon_pending">Yeni nişanın hər yerdə tətbiq olunması üçün MeeTube-u yenidən başladın. Əks halda, tətbiqdən çıxdıqdan sonra dəyişəcək.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Lent</string>
+    <string name="mobile_settings_home_layout_feed_desc">YouTube kimi vahid video siyahısı</string>
+    <string name="mobile_settings_home_layout_rows">Sətirlər</string>
+    <string name="mobile_settings_home_layout_rows_desc">SmartTube kimi hər mövzu üçün ayrıca üfüqi sürüşdürülən sətir</string>
+    <string name="mobile_settings_home_shorts">Əsas səhifədə Shorts</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube-da olduğu kimi üfüqi sürüşdürülən Shorts sətri</string>
+    <string name="mobile_settings_chip_style">Filtrlərin üslubu</string>
+    <string name="mobile_settings_chip_style_segment">Birləşdirilmiş panel</string>
+    <string name="mobile_settings_chip_style_segment_desc">Əsas səhifənin mövzu filtrləri və axtarış filtrləri bir şüşə paneldə yerləşir. Filtri basıb obyektiv kimi sürüşdürün.</string>
+    <string name="mobile_settings_chip_style_pills">Ayrı filtrlər</string>
+    <string name="mobile_settings_chip_style_pills_desc">Hər filtr ayrıca şüşə lövhədə göstərilir</string>
+    <string name="mobile_settings_player_buttons_look">Pleyer düymələrinin üslubu</string>
+    <string name="mobile_settings_player_buttons_see_through">Yarımşəffaf</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Video, Shorts və mini-pleyer üzərində hər düymənin arxasında rəngli şüşə dairə</string>
+    <string name="mobile_settings_player_buttons_frosted">Mat şüşə</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Dairələr altındakı təsviri bulanıqlaşdırır. Daha çox enerji sərf edir və zəif telefonlarda ilişə bilər.</string>
+    <string name="mobile_settings_player_buttons_minimal">Minimal</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Dairələr yoxdur, yalnız YouTube-dakı kimi yumşaq kölgəli nişanlar var</string>
+    <string name="mobile_settings_performance">Məhsuldarlıq</string>
+    <string name="mobile_settings_high_refresh">Yüksək yenilənmə tezliyi rejimi</string>
+    <string name="mobile_settings_high_refresh_summary">Ən hamar hərəkət üçün tətbiq %1$d Hz tezliyində işləyir. Daha çox enerji sərf edir; telefon qızdıqda və ya enerji qənaəti aktiv olduqda Android tezliyi azalda bilər.</string>
+    <string name="mobile_settings_tab_motion">Bölmələr arasında keçid animasiyası</string>
+    <string name="mobile_settings_tab_motion_summary">Şüşə parıltısı bölməyə doğru hərəkət edir, panel isə yüngülcə titrəyir. Zəif telefonlarda siz aktiv edənədək söndürülür.</string>
+    <string name="mobile_settings_tabs_reset">Paneli standart vəziyyətə qaytar</string>
+    <string name="mobile_settings_tabs_reset_summary">Əsas səhifə, Shorts, Axtarış, Abunəliklər, Siz</string>
 </resources>
