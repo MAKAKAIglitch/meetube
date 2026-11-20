@@ -103,4 +103,6 @@
     <string name="mobile_settings_24_hour_summary">Для часу початку прем’єр і прямих трансляцій</string>
     <string name="mobile_settings_liquid_glass">Рідке скло</string>
     <string name="mobile_settings_liquid_glass_summary">Лінза, світло й текстура на скляних панелях. Якщо вимкнено, використовується просте розмиття, яке заощаджує заряд</string>
+    <string name="mobile_settings_storage_clear_empty">Кеш уже порожній!</string>
+    <string name="mobile_settings_storage_clear_empty_note">Немає що очищати. Перегляньте щось і поверніться пізніше.</string>
 </resources>
