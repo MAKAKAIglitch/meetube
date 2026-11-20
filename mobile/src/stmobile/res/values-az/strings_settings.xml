@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Şüşə parıltısı bölməyə doğru hərəkət edir, panel isə yüngülcə titrəyir. Zəif telefonlarda siz aktiv edənədək söndürülür.</string>
     <string name="mobile_settings_tabs_reset">Paneli standart vəziyyətə qaytar</string>
     <string name="mobile_settings_tabs_reset_summary">Əsas səhifə, Shorts, Axtarış, Abunəliklər, Siz</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Video düzəni</string>
+    <string name="mobile_settings_video_layout_cards">Kartlar</string>
+    <string name="mobile_settings_video_layout_cards_desc">Hər video üçün böyük miniatür</string>
+    <string name="mobile_settings_video_layout_list">Siyahı</string>
+    <string name="mobile_settings_video_layout_list_desc">Başlığın yanında kiçik miniatür, ekranda daha çox video</string>
+    <string name="mobile_settings_screen_off">Ekran sönülü ikən oxutmanı davam etdir</string>
+    <string name="mobile_settings_screen_off_on">İcazə verilib: enerji qənaəti səsi dayandırmayacaq</string>
+    <string name="mobile_settings_screen_off_off">Enerjiyə qənaət rejimi səsi dayandıra bilər. MeeTube-un fonda işləməsinə icazə vermək üçün toxunun</string>
+    <string name="mobile_settings_seek_thumb">İrəli-geri sürüşdürmə tutacağı</string>
+    <string name="mobile_settings_seek_thumb_dot">Nöqtə</string>
+    <string name="mobile_settings_seek_thumb_picture">Öz şəkliniz</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Telefonunuzdan şəkil seçin; GIF animasiyalı göstərilir</string>
+    <string name="mobile_settings_seek_thumb_failed">Bu şəkildən istifadə etmək mümkün olmadı (maksimum 5 MB)</string>
+    <string name="mobile_settings_mini_type">Mini-pleyerin növü</string>
+    <string name="mobile_settings_mini_type_default">Standart</string>
+    <string name="mobile_settings_mini_type_default_desc">Üzən kart. Ölçüsünü dəyişmək üçün barmaqlarınızı yaxınlaşdırın və ya uzaqlaşdırın</string>
+    <string name="mobile_settings_mini_type_minimal">Minimal</string>
+    <string name="mobile_settings_mini_type_minimal2">Minimal 2</string>
+    <string name="mobile_settings_mini_type_disabled">Söndürülüb</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Pleyeri aşağı sürüşdürmək videonu kiçiltmək əvəzinə bağlayır</string>
+    <string name="mobile_settings_auto_pip">Şəkil içində şəkil</string>
+    <string name="mobile_settings_auto_pip_summary">Video oynayarkən tətbiqdən çıxdıqda kiçik pəncərəyə yığılır. Söndürülərsə, fonda yalnız səs oxudulur</string>
 </resources>
