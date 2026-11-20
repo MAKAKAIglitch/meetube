@@ -24,4 +24,8 @@
     <string name="mobile_playlist_add_videos">Илова кардани видеоҳо</string>
     <string name="mobile_playlist_add_hint">Барои илова кардан ба %1$s ҷустуҷӯ кунед</string>
     <string name="mobile_playlist_loading">Рӯйхати навозиш бор карда мешавад</string>
+    <plurals name="mobile_playlist_video_count">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видео</item>
+    </plurals>
 </resources>
