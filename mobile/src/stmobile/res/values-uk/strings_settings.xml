@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Приховувати на сторінках каналів</string>
     <string name="mobile_settings_hidden_live">Прямі трансляції</string>
     <string name="mobile_settings_hidden_live_subscriptions">Приховувати прямі трансляції в підписках</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Меню відео</string>
+    <string name="mobile_settings_video_menu_summary">Виберіть, що буде в меню ⋮</string>
+    <string name="mobile_settings_video_menu_note">Вміст меню ⋮ у відео та меню, яке відкривається після утримання вкладки. Пункт показується лише там, де він доречний.</string>
+    <string name="mobile_settings_menu_play">Відтворення</string>
+    <string name="mobile_settings_menu_queue_add">Додати до черги</string>
+    <string name="mobile_settings_menu_save">Збереження</string>
+    <string name="mobile_settings_menu_recent_playlist">Зберегти в останній використаний плейлист</string>
+    <string name="mobile_settings_menu_save_playlist">Зберегти або видалити плейлист</string>
+    <string name="mobile_settings_menu_channel">Канал і рекомендації</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Приховати в підписках</string>
+    <string name="mobile_settings_menu_share">Поширення та відомості</string>
+    <string name="mobile_settings_menu_playlists">Плейлисти</string>
+    <string name="mobile_settings_menu_tabs">Меню вкладки</string>
+    <string name="mobile_settings_menu_move_section">Перемістити вгору або вниз</string>
+    <string name="mobile_settings_menu_usual_order">Звичайний порядок</string>
+    <string name="mobile_settings_menu_usual_order_summary">Повернути пункти меню на звичні місця</string>
+    <string name="mobile_settings_menu_usual_order_done">Порядок меню відновлено</string>
+    <string name="mobile_settings_thumbnails">Мініатюри</string>
+    <string name="mobile_settings_thumbnails_default">Мініатюра, вибрана автором відео</string>
+    <string name="mobile_settings_thumbnails_start">Кадр із початку відео</string>
+    <string name="mobile_settings_thumbnails_middle">Кадр із середини відео</string>
+    <string name="mobile_settings_thumbnails_end">Кадр із кінця відео</string>
+    <string name="mobile_settings_original_titles">Оригінальні назви</string>
+    <string name="mobile_settings_original_titles_summary">Показувати назви мовою оригіналу, а не в перекладі YouTube</string>
 </resources>
