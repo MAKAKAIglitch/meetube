@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Siz</string>
     <string name="mobile_settings_tabs_none">Hiç biri</string>
     <string name="mobile_settings_tabs_bar_note">Tertibi üýtgetmek üçin elementi tutawajyndan süýşüriň ýa-da basyp saklaň. «Gözleg» bölümçesini ýokarky panele geçirmek üçin ýokary süýşüriň. Mazmunyny üýtgetmek üçin bölüme basyň.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Ýokarky panel</string>
+    <string name="mobile_settings_bar_tab">Bölüm</string>
+    <string name="mobile_settings_bar_tab_summary">Üýtgetmek üçin basyň</string>
+    <string name="mobile_settings_bar_empty">Boş</string>
+    <string name="mobile_settings_bar_empty_summary">Bölüm saýlamak üçin basyň</string>
+    <string name="mobile_settings_bar_first">Hemişe birinji</string>
+    <string name="mobile_settings_bar_home_summary">Hemişe birinji. Aýyrmak üçin basyň</string>
+    <string name="mobile_settings_bar_home_shown">Görkezilýär</string>
+    <string name="mobile_settings_bar_home_removed">Aýryldy</string>
+    <string name="mobile_settings_bar_home_removed_desc">Maslahat lentasy ýok: programma ilkinji bölümde açylýar</string>
+    <string name="mobile_settings_bar_last">Hemişe iň soňky</string>
+    <string name="mobile_settings_bar_search_up">Ýokarky panele geçirmek üçin ýokary süýşüriň</string>
+    <string name="mobile_settings_bar_search_down">Aşaky panele gaýtarmak üçin aşak süýşüriň</string>
+    <string name="mobile_settings_search_place">Gözleg</string>
+    <string name="mobile_settings_search_place_bottom">Aşaky panelde</string>
+    <string name="mobile_settings_search_place_top">Ýokarky panelde</string>
+    <string name="mobile_settings_tabs_note">«Siz» bölümindäki bölümi ýa-da setiri geçirmek, adyny üýtgetmek ýa-da gizlemek üçin basyp saklaň.</string>
 </resources>
