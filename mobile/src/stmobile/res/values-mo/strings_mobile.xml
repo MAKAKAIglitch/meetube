@@ -405,4 +405,6 @@
     <string name="mobile_settings_gesture_seek_summary">Într-o parte pe videoclip</string>
     <string name="mobile_shorts_mute">Dezactivează sunetul</string>
     <string name="mobile_shorts_unmute">Activează sunetul</string>
+    <string name="mobile_hype_title">Susține acest videoclip</string>
+    <string name="mobile_hype_points">Puncte de susținere</string>
 </resources>
