@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">Ворид шудан ба YouTube</string>
+    <string name="mobile_web_signin_privacy">Ин саҳифаи худи Google аст. MeeTube ҳеҷ гоҳ гузарвожаи шуморо намебинад.</string>
+    <string name="mobile_web_signin_loading">Google кушода мешавад</string>
+    <string name="mobile_web_signin_finishing">Воридшавӣ анҷом меёбад</string>
+    <string name="mobile_web_signin_failed">Воридшавӣ ба YouTube анҷом наёфт. Пайвастро санҷида, бори дигар кӯшиш кунед.</string>
+    <string name="mobile_web_signin_retry">Аз нав кӯшиш кардан</string>
+    <string name="mobile_web_signin_explain_title">Боз як воридшавӣ</string>
+    <string name="mobile_web_signin_explain_need">Барои фиристодани паём дар чати пахши мустақим ва писандидани навиштаҳо бояд ба саҳифаи веби худи YouTube ворид шавед. Ин як дақиқа мегирад ва танҳо як бор анҷом дода мешавад.</string>
+    <string name="mobile_web_signin_explain_current">Воридшавии ҳозираи шумо бетағйир мемонад ва идоракунии видеоҳо, таърих ва обунаҳоро идома медиҳад.</string>
+    <string name="mobile_web_signin_explain_risk">Ҳамон ҳисоби Google-ро истифода баред. Google барномаҳои ғайрирасмиро дастгирӣ намекунад, бинобар ин барои ҳисоби истифодашаванда хавфи каме вуҷуд дорад.</string>
+    <string name="mobile_web_signin_google">Ворид шудан бо Google</string>
+    <string name="mobile_web_signin_not_now">Ҳоло не</string>
+    <string name="mobile_web_signin_sign_out">Аз воридшавии веби YouTube баромадан?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Барои фиристодани паём дар чати мустақим бояд дубора ворид шавед. Воридшавии кунунии MeeTube бетағйир мемонад.</string>
+    <string name="mobile_web_signin_sign_out_failed">Баромадан муяссар нашуд. Бори дигар кӯшиш кунед.</string>
+    <string name="mobile_web_signin_signed_out">Шумо аз воридшавии веби YouTube баромадед</string>
+    <string name="mobile_web_signin_add">Илова кардани ҳисоби веб</string>
+    <string name="mobile_web_signin_choose">Чат ҳамчун</string>
+    <string name="mobile_web_signin_switch">Иваз кардани ҳисоби веб</string>
+    <string name="mobile_web_signin_expired">Муҳлати воридшавии веби YouTube ба охир расид. Дубора ворид шавед.</string>
+    <string name="mobile_chat_as">Чат ҳамчун %1$s</string>
+    <string name="mobile_chat_hint">Чизе нависед</string>
+    <string name="mobile_chat_send">Фиристодани паём</string>
+    <string name="mobile_chat_send_failed">Паём фиристода нашуд. Бори дигар кӯшиш кунед.</string>
+    <string name="mobile_chat_not_ready">Чат ҳоло омода нест. Пас аз каме дубора кӯшиш кунед.</string>
+</resources>
