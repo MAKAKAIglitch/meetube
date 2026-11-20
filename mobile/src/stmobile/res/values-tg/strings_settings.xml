@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Видеоҳои тамошошударо аз таърихи YouTube нест мекунад</string>
     <string name="mobile_settings_clear_watch_history_confirm">Таърихи тамошо пок карда шавад?</string>
     <string name="mobile_settings_clear_watch_history_body">Ҳамаи видеоҳо аз таърихи тамошои YouTube нест карда мешаванд. Ин амалро баргардондан имкон надорад.</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Таърихи ҷустуҷӯро нигоҳ надоштан</string>
+    <string name="mobile_settings_search_history_off_summary">Ҷустуҷӯҳои пешина нигоҳ дошта ё пешниҳод намешаванд</string>
+    <string name="mobile_settings_clear_search_history">Пок кардани таърихи ҷустуҷӯ</string>
+    <string name="mobile_settings_clear_search_history_summary">Ҷустуҷӯҳои дар ин телефон сабтшударо нест мекунад</string>
+    <string name="mobile_settings_clear_search_history_confirm">Таърихи ҷустуҷӯ пок карда шавад?</string>
+    <string name="mobile_settings_clear_search_history_body">Ҷустуҷӯҳое, ки MeeTube дар ин телефон сабт кардааст, нест мешаванд. Ин амалро баргардондан имкон надорад.</string>
+    <string name="mobile_settings_backup_now">Ҳоло нусхаи эҳтиётӣ сохтан</string>
+    <string name="mobile_settings_backup_now_summary">Танзимотро дар %1$s нигоҳ медорад</string>
+    <string name="mobile_settings_backup_done">Нусхаи эҳтиётӣ сабт шуд</string>
+    <string name="mobile_settings_restore">Барқарор кардан</string>
+    <string name="mobile_settings_restore_summary">Аз нусхаи эҳтиётии %1$s</string>
+    <string name="mobile_settings_auto_backup">Нусхабардории худкор</string>
+    <string name="mobile_settings_auto_backup_off">Ҳеҷ гоҳ</string>
+    <string name="mobile_settings_backup_note">Нусхаи эҳтиётӣ ҳамаи танзимоти MeeTube-и шуморо дар бар мегирад. Маълумоти марбут ба ҳисоби YouTube, ба монанди обунаҳо ва таърих, дар ҳамон ҳисоб мемонад.</string>
+    <string name="mobile_settings_home_layout">Тарҳбандии саҳифаи асосӣ</string>
 </resources>
