@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">YouTube’ga kirish</string>
+    <string name="mobile_web_signin_privacy">Bu Google’ning o‘z sahifasi. MeeTube parolingizni hech qachon ko‘rmaydi.</string>
+    <string name="mobile_web_signin_loading">Google ochilmoqda</string>
+    <string name="mobile_web_signin_finishing">Kirish yakunlanmoqda</string>
+    <string name="mobile_web_signin_failed">YouTube’ga kirishni yakunlab bo‘lmadi. Ulanishni tekshirib, qayta urinib ko‘ring.</string>
+    <string name="mobile_web_signin_retry">Qayta urinish</string>
+    <string name="mobile_web_signin_explain_title">Yana bir marta kirish</string>
+    <string name="mobile_web_signin_explain_need">Jonli chatga xabar yuborish va yozuvlarni yoqtirish uchun YouTube’ning o‘z veb-sahifasiga kirish kerak. Bu bir daqiqa vaqt oladi va faqat bir marta bajariladi.</string>
+    <string name="mobile_web_signin_explain_current">Joriy kirishingiz o‘zgarishsiz qoladi va videolar, tarix hamda obunalarni boshqarishda davom etadi.</string>
+    <string name="mobile_web_signin_explain_risk">O‘sha Google hisobidan foydalaning. Google norasmiy ilovalarni ma’qullamaydi, shuning uchun hisobingiz uchun ozgina xavf mavjud.</string>
+    <string name="mobile_web_signin_google">Google orqali kirish</string>
+    <string name="mobile_web_signin_not_now">Hozir emas</string>
+    <string name="mobile_web_signin_sign_out">YouTube veb-kirishidan chiqilsinmi?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Jonli chatga xabar yuborish uchun qayta kirishingiz kerak bo‘ladi. MeeTube’dagi joriy kirishingiz o‘zgarmaydi.</string>
+    <string name="mobile_web_signin_sign_out_failed">Hisobdan chiqib bo‘lmadi. Qayta urinib ko‘ring.</string>
+    <string name="mobile_web_signin_signed_out">YouTube veb-kirishidan chiqdingiz</string>
+    <string name="mobile_web_signin_add">Veb-hisob qo‘shish</string>
+    <string name="mobile_web_signin_choose">Chatdagi ism</string>
+    <string name="mobile_web_signin_switch">Veb-hisobni almashtirish</string>
+    <string name="mobile_web_signin_expired">YouTube veb-kirish muddati tugadi. Qayta kiring.</string>
+    <string name="mobile_chat_as">%1$s nomidan chat</string>
+    <string name="mobile_chat_hint">Biror narsa yozing</string>
+    <string name="mobile_chat_send">Xabar yuborish</string>
+    <string name="mobile_chat_send_failed">Xabar yuborilmadi. Qayta urinib ko‘ring.</string>
+    <string name="mobile_chat_not_ready">Chat hali tayyor emas. Birozdan keyin qayta urinib ko‘ring.</string>
+</resources>
