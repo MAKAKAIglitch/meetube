@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">YouTube-a girmek</string>
+    <string name="mobile_web_signin_privacy">Bu Google-yň öz sahypasy. MeeTube parolyňyzy hiç haçan görmeýär.</string>
+    <string name="mobile_web_signin_loading">Google açylýar</string>
+    <string name="mobile_web_signin_finishing">Giriş tamamlanýar</string>
+    <string name="mobile_web_signin_failed">YouTube-a girişi tamamlamak başartmady. Baglanyşygy barlap, gaýtadan synanyşyň.</string>
+    <string name="mobile_web_signin_retry">Gaýtadan synanyşmak</string>
+    <string name="mobile_web_signin_explain_title">Ýene bir gezek giriş</string>
+    <string name="mobile_web_signin_explain_need">Göni ýaýlymyň çatyna habar ibermek we ýazgylary halamak üçin YouTube-yň öz web sahypasyna girmeli. Bu bir minut alýar we diňe bir gezek edilýär.</string>
+    <string name="mobile_web_signin_explain_current">Häzirki girişiňiz üýtgemän galar we wideolary, taryhy hem-de ýazylmalary dolandyrmagy dowam etdirer.</string>
+    <string name="mobile_web_signin_explain_risk">Şol bir Google hasabyny ulanyň. Google resmi däl programmalary goldamaýar, şonuň üçin ulanýan hasabyňyz üçin azajyk töwekgelçilik bar.</string>
+    <string name="mobile_web_signin_google">Google bilen girmek</string>
+    <string name="mobile_web_signin_not_now">Häzir däl</string>
+    <string name="mobile_web_signin_sign_out">YouTube web girişinden çykmalymy?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Göni ýaýlymyň çatyna habar ibermek üçin täzeden girmeli bolarsyňyz. MeeTube-daky häzirki girişiňiz üýtgemeýär.</string>
+    <string name="mobile_web_signin_sign_out_failed">Hasapdan çykmak başartmady. Gaýtadan synanyşyň.</string>
+    <string name="mobile_web_signin_signed_out">YouTube web girişinden çykdyňyz</string>
+    <string name="mobile_web_signin_add">Web hasaby goşmak</string>
+    <string name="mobile_web_signin_choose">Çatda şu at bilen</string>
+    <string name="mobile_web_signin_switch">Web hasabyny üýtgetmek</string>
+    <string name="mobile_web_signin_expired">YouTube web girişiniň möhleti gutardy. Täzeden giriň.</string>
+    <string name="mobile_chat_as">%1$s adyndan çat</string>
+    <string name="mobile_chat_hint">Bir zat ýazyň</string>
+    <string name="mobile_chat_send">Habar ibermek</string>
+    <string name="mobile_chat_send_failed">Habary ibermek başartmady. Gaýtadan synanyşyň.</string>
+    <string name="mobile_chat_not_ready">Çat entek taýýar däl. Birazdan gaýtadan synanyşyň.</string>
+</resources>
