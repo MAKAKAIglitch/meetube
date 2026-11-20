@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Сіз</string>
     <string name="mobile_settings_tabs_none">Ешқайсысы</string>
     <string name="mobile_settings_tabs_bar_note">Ретін өзгерту үшін элементті тұтқасынан сүйреңіз немесе басып тұрыңыз. Іздеуді жоғарғы жолаққа жылжыту үшін жоғары сүйреңіз. Қойындыны түртіп, оның мазмұнын өзгертіңіз.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Жоғарғы жолақ</string>
+    <string name="mobile_settings_bar_tab">Қойынды</string>
+    <string name="mobile_settings_bar_tab_summary">Өзгерту үшін түртіңіз</string>
+    <string name="mobile_settings_bar_empty">Бос</string>
+    <string name="mobile_settings_bar_empty_summary">Қойынды таңдау үшін түртіңіз</string>
+    <string name="mobile_settings_bar_first">Әрқашан бірінші</string>
+    <string name="mobile_settings_bar_home_summary">Әрқашан бірінші. Алып тастау үшін түртіңіз</string>
+    <string name="mobile_settings_bar_home_shown">Көрсетілген</string>
+    <string name="mobile_settings_bar_home_removed">Алып тасталды</string>
+    <string name="mobile_settings_bar_home_removed_desc">Ұсынымдар лентасы жоқ: қолданба бірінші қойындыдан ашылады</string>
+    <string name="mobile_settings_bar_last">Әрқашан соңғы</string>
+    <string name="mobile_settings_bar_search_up">Жоғарғы жолаққа жылжыту үшін жоғары сүйреңіз</string>
+    <string name="mobile_settings_bar_search_down">Төменгі жолаққа қайтару үшін төмен сүйреңіз</string>
+    <string name="mobile_settings_search_place">Іздеу</string>
+    <string name="mobile_settings_search_place_bottom">Төменгі жолақта</string>
+    <string name="mobile_settings_search_place_top">Жоғарғы жолақта</string>
+    <string name="mobile_settings_tabs_note">«Сіз» бөліміндегі қойындыны немесе жолды жылжыту, атын өзгерту не жасыру үшін басып тұрыңыз.</string>
 </resources>
