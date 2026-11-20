@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Հեղուկ կաթիլ</string>
     <string name="mobile_loader_glass_orbit">Ապակե ուղեծիր</string>
     <string name="mobile_app_icon_pending">Վերագործարկեք MeeTube-ը, որպեսզի նոր պատկերակը կիրառվի ամենուր։ Հակառակ դեպքում այն կփոխվի հավելվածից դուրս գալուց հետո։</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Ժապավեն</string>
+    <string name="mobile_settings_home_layout_feed_desc">Տեսանյութերի մեկ ընդհանուր ցանկ, ինչպես YouTube-ում</string>
+    <string name="mobile_settings_home_layout_rows">Շարքեր</string>
+    <string name="mobile_settings_home_layout_rows_desc">Յուրաքանչյուր թեմայի համար առանձին հորիզոնական շարքեր, ինչպես SmartTube-ում</string>
+    <string name="mobile_settings_home_shorts">Shorts-ը գլխավոր էջում</string>
+    <string name="mobile_settings_home_shorts_summary">Shorts-ի հորիզոնական շարք, ինչպես YouTube-ում</string>
+    <string name="mobile_settings_chip_style">Ֆիլտրերի ոճը</string>
+    <string name="mobile_settings_chip_style_segment">Միավորված վահանակ</string>
+    <string name="mobile_settings_chip_style_segment_desc">Գլխավոր էջի թեմաների ֆիլտրերն ու որոնման ֆիլտրերը տեղադրված են մեկ ապակե վահանակում։ Հպեք ֆիլտրին և քաշեք այն։</string>
+    <string name="mobile_settings_chip_style_pills">Առանձին կոճակներ</string>
+    <string name="mobile_settings_chip_style_pills_desc">Յուրաքանչյուր ֆիլտր առանձին ապակե կոճակով է ցուցադրվում</string>
+    <string name="mobile_settings_player_buttons_look">Նվագարկչի կոճակների ոճը</string>
+    <string name="mobile_settings_player_buttons_see_through">Կիսաթափանցիկ</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Տեսանյութի, Shorts-ի և մինի նվագարկչի վրա յուրաքանչյուր կոճակի հետևում գունավոր ապակե շրջան է</string>
+    <string name="mobile_settings_player_buttons_frosted">Խամրած ապակի</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Շրջանները մշուշեցնում են տակի պատկերը։ Ավելի շատ մարտկոց են ծախսում և կարող են դանդաղեցնել թույլ հեռախոսները։</string>
+    <string name="mobile_settings_player_buttons_minimal">Մինիմալ</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Շրջաններ չկան․ միայն մեղմ ստվերով պատկերակներ, ինչպես YouTube-ում</string>
+    <string name="mobile_settings_performance">Արտադրողականություն</string>
+    <string name="mobile_settings_high_refresh">Թարմացման բարձր հաճախականության ռեժիմ</string>
+    <string name="mobile_settings_high_refresh_summary">Ամենասահուն շարժման համար հավելվածն աշխատում է %1$d Հց հաճախականությամբ։ Ավելի շատ մարտկոց է ծախսում․ հեռախոսի տաքացման կամ էներգախնայողության դեպքում Android-ը կարող է նվազեցնել հաճախականությունը։</string>
+    <string name="mobile_settings_tab_motion">Ներդիրների անցման անիմացիա</string>
+    <string name="mobile_settings_tab_motion_summary">Ապակե փայլը սահում է դեպի ներդիրը, իսկ վահանակը թեթև շարժվում է։ Դանդաղ հեռախոսներում անջատված է, մինչև միացնեք։</string>
+    <string name="mobile_settings_tabs_reset">Վերականգնել վահանակի լռելյայն տեսքը</string>
+    <string name="mobile_settings_tabs_reset_summary">Գլխավոր, Shorts, Որոնում, Բաժանորդագրություններ, Դուք</string>
 </resources>
