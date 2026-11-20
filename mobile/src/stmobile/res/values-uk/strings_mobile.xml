@@ -212,4 +212,19 @@
     <string name="mobile_search_error">Не вдалося завантажити результати.</string>
     <string name="mobile_channel_tab_videos">Відео</string>
     <string name="mobile_channel_tab_more">Ще</string>
+    <string name="mobile_nav_you">Ви</string>
+    <string name="mobile_nav_hint_tabs">Налаштування вкладок  ›</string>
+    <string name="mobile_nav_hint_change">Змінити</string>
+    <string name="mobile_nav_hint_confirm_title">Налаштувати вкладки?</string>
+    <string name="mobile_nav_hint_confirm_body">Відкриває налаштування, щоб вибрати й упорядкувати вкладки нижньої панелі.</string>
+    <string name="mobile_nav_hint_confirm_open">Відкрити</string>
+    <string name="mobile_nav_subs">Підписки</string>
+    <string name="mobile_subs_all_channels">Усі підписки</string>
+    <string name="mobile_you_explore">Огляд</string>
+    <string name="mobile_you_library">Бібліотека</string>
+    <string name="mobile_you_watch_later">Переглянути пізніше</string>
+    <string name="mobile_you_liked_videos">Уподобані відео</string>
+    <string name="mobile_no_browser">Не знайдено програму для відкриття цього посилання</string>
+    <string name="mobile_add_device_title">З’єднати пристрій</string>
+    <string name="mobile_add_device_done">Готово</string>
 </resources>
