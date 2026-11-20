@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Când pui pauză sau închizi playerul, se oprește și coada</string>
     <string name="mobile_settings_chapter_popup">Ferestre pop-up pentru capitole</string>
     <string name="mobile_settings_chapter_popup_summary">Afișează numele fiecărui capitol la începutul acestuia. Atinge pentru a trece la următorul</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Rețea</string>
+    <string name="mobile_settings_proxy">Proxy web</string>
+    <string name="mobile_settings_proxy_summary">Direcționează traficul MeeTube printr-un proxy HTTP sau SOCKS</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">IPv4 mai întâi</string>
+    <string name="mobile_settings_dns_ipv4_desc">Implicit. Ajută în rețelele în care IPv6 nu funcționează corect</string>
+    <string name="mobile_settings_dns_system">DNS-ul telefonului</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Bibliotecă de securitate integrată pentru conexiuni. Poate îmbunătăți compatibilitatea cu unele conexiuni HTTPS/TLS.</string>
+    <string name="mobile_settings_multi_profiles">Setări separate pentru fiecare cont</string>
+    <string name="mobile_settings_multi_profiles_summary">Fiecare cont își păstrează propriile setări, pornind de la valorile implicite</string>
 </resources>
