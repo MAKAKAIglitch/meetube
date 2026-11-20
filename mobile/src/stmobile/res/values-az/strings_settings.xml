@@ -235,4 +235,31 @@
     <string name="mobile_settings_auto_backup_off">Heç vaxt</string>
     <string name="mobile_settings_backup_note">Ehtiyat nüsxədə MeeTube-da qurduğunuz bütün parametrlər saxlanılır. Abunəliklər və tarixçə kimi YouTube hesabınıza aid məlumatlar həmin hesabda qalır.</string>
     <string name="mobile_settings_home_layout">Əsas səhifənin düzəni</string>
+
+    <!-- App icon and loading indicator translations -->
+    <string name="mobile_settings_app_icon">Tətbiq nişanı</string>
+    <string name="mobile_app_icon_default">Klassik (standart)</string>
+    <string name="mobile_app_icon_classic">Qara ürək</string>
+    <string name="mobile_app_icon_fantasy">Fantaziya</string>
+    <string name="mobile_app_icon_glass_heart">Şüşə ürək</string>
+    <string name="mobile_app_icon_ruby">Orijinal şüşə</string>
+    <string name="mobile_app_icon_play">Orijinal Play</string>
+    <string name="mobile_app_icon_play_dark">Orijinal neon</string>
+    <string name="mobile_app_icon_blaze">Alov</string>
+    <string name="mobile_app_icon_red_crt">Qırmızı CRT</string>
+    <string name="mobile_app_icon_chrome">Chrome Play</string>
+    <string name="mobile_app_icon_pixel_play">Pixel Play</string>
+    <string name="mobile_app_icon_starry_night">Ulduzlu gecə</string>
+    <string name="mobile_app_icon_gta_vi">GTA VI</string>
+    <string name="mobile_settings_loader">Yüklənmə göstəricisi</string>
+    <string name="mobile_settings_font">Şrift</string>
+    <string name="mobile_loader_neon">Neon halqa</string>
+    <string name="mobile_loader_frosted">Buzlu şüşə</string>
+    <string name="mobile_loader_cookie">Peçenye</string>
+    <string name="mobile_loader_frosted_cookie">Buzlu peçenye</string>
+    <string name="mobile_loader_liquid_ring">Maye halqa</string>
+    <string name="mobile_loader_glass_orb">Şüşə kürə</string>
+    <string name="mobile_loader_morphing_blob">Maye fiqur</string>
+    <string name="mobile_loader_glass_orbit">Şüşə orbiti</string>
+    <string name="mobile_app_icon_pending">Yeni nişanın hər yerdə tətbiq olunması üçün MeeTube-u yenidən başladın. Əks halda, tətbiqdən çıxdıqdan sonra dəyişəcək.</string>
 </resources>
