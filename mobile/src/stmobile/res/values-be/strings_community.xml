@@ -11,4 +11,10 @@
     <string name="mobile_posts_like_failed">Не ўдалося ўпадабаць допіс. Паспрабуйце яшчэ раз.</string>
     <string name="mobile_posts_comments_read_only">Падабаць каментарыі да допісаў і адказваць на іх пакуль нельга</string>
     <string name="mobile_comments_just_now">Толькі што</string>
+    <plurals name="mobile_posts_images">
+        <item quantity="one">%1$d выява</item>
+        <item quantity="few">%1$d выявы</item>
+        <item quantity="many">%1$d выяў</item>
+        <item quantity="other">%1$d выявы</item>
+    </plurals>
 </resources>
