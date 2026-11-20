@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Вадкая кропля</string>
     <string name="mobile_loader_glass_orbit">Шкляная арбіта</string>
     <string name="mobile_app_icon_pending">Перазапусціце MeeTube, каб новы значок з\'явіўся ўсюды. Інакш ён зменіцца пасля выхаду з праграмы.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Стужка</string>
+    <string name="mobile_settings_home_layout_feed_desc">Адзіны спіс відэа, як у YouTube</string>
+    <string name="mobile_settings_home_layout_rows">Рады</string>
+    <string name="mobile_settings_home_layout_rows_desc">Асобны гарызантальны рад для кожнай тэмы, як у SmartTube</string>
+    <string name="mobile_settings_home_shorts">Shorts на галоўнай старонцы</string>
+    <string name="mobile_settings_home_shorts_summary">Гарызантальны рад Shorts там, дзе ён ёсць у YouTube</string>
+    <string name="mobile_settings_chip_style">Стыль фільтраў</string>
+    <string name="mobile_settings_chip_style_segment">Аб'яднаная панэль</string>
+    <string name="mobile_settings_chip_style_segment_desc">Тэматычныя фільтры галоўнай старонкі і пошуку размешчаны на адной шкляной панэлі. Націсніце на фільтр і перацягніце яго.</string>
+    <string name="mobile_settings_chip_style_pills">Асобныя плашкі</string>
+    <string name="mobile_settings_chip_style_pills_desc">Кожны фільтр паказваецца на асобнай шкляной плашцы</string>
+    <string name="mobile_settings_player_buttons_look">Стыль кнопак прайгравальніка</string>
+    <string name="mobile_settings_player_buttons_see_through">Напаўпразрысты</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">За кожнай кнопкай на відэа, Shorts і міні-прайгравальніку знаходзіцца таніраваны шкляны круг</string>
+    <string name="mobile_settings_player_buttons_frosted">Матаванае шкло</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Кругі размываюць выяву пад імі. Гэта расходуе больш зараду і можа выклікаць затрымкі на павольных тэлефонах.</string>
+    <string name="mobile_settings_player_buttons_minimal">Мінімальны</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Без кругоў — толькі значкі з мяккім ценем, як у YouTube</string>
+    <string name="mobile_settings_performance">Прадукцыйнасць</string>
+    <string name="mobile_settings_high_refresh">Рэжым высокай частаты абнаўлення</string>
+    <string name="mobile_settings_high_refresh_summary">Для максімальна плыўнага руху праграма працуе на частаце %1$d Гц. Гэта расходуе больш зараду; Android можа знізіць частату пры перагрэве або ўключанай эканоміі зараду.</string>
+    <string name="mobile_settings_tab_motion">Анімацыя пераключэння ўкладак</string>
+    <string name="mobile_settings_tab_motion_summary">Шкляны блік слізгае да ўкладкі, а панэль злёгку хістаецца. На павольных тэлефонах выключана, пакуль вы не ўключыце яе.</string>
+    <string name="mobile_settings_tabs_reset">Скінуць панэль да стандартных налад</string>
+    <string name="mobile_settings_tabs_reset_summary">Галоўная, Shorts, Пошук, Падпіскі, Вы</string>
 </resources>
