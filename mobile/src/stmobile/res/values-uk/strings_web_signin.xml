@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">Увійти в YouTube</string>
+    <string name="mobile_web_signin_privacy">Це власна сторінка Google. MeeTube ніколи не бачить ваш пароль.</string>
+    <string name="mobile_web_signin_loading">Відкриття Google</string>
+    <string name="mobile_web_signin_finishing">Завершення входу</string>
+    <string name="mobile_web_signin_failed">Не вдалося завершити вхід у YouTube. Перевірте з’єднання та спробуйте ще раз.</string>
+    <string name="mobile_web_signin_retry">Повторити</string>
+    <string name="mobile_web_signin_explain_title">Ще один вхід</string>
+    <string name="mobile_web_signin_explain_need">Щоб надсилати повідомлення в чат трансляції та вподобувати дописи, потрібно увійти на власній вебсторінці YouTube. Це займе хвилину й робиться лише один раз.</string>
+    <string name="mobile_web_signin_explain_current">Поточний вхід залишиться без змін і надалі використовуватиметься для відео, історії та підписок.</string>
+    <string name="mobile_web_signin_explain_risk">Використовуйте той самий обліковий запис Google. Google не схвалює неофіційні застосунки, тому для вашого облікового запису є невеликий ризик.</string>
+    <string name="mobile_web_signin_google">Увійти через Google</string>
+    <string name="mobile_web_signin_not_now">Не зараз</string>
+    <string name="mobile_web_signin_sign_out">Вийти з вебвходу YouTube?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Щоб знову надсилати повідомлення в чат трансляції, доведеться ввійти ще раз. Поточний вхід у MeeTube не зміниться.</string>
+    <string name="mobile_web_signin_sign_out_failed">Не вдалося вийти. Спробуйте ще раз.</string>
+    <string name="mobile_web_signin_signed_out">Ви вийшли з вебвходу YouTube</string>
+    <string name="mobile_web_signin_add">Додати вебобліковий запис</string>
+    <string name="mobile_web_signin_choose">Спілкуватися як</string>
+    <string name="mobile_web_signin_switch">Змінити вебобліковий запис</string>
+    <string name="mobile_web_signin_expired">Термін вебвходу YouTube минув. Увійдіть знову.</string>
+    <string name="mobile_chat_as">Чат від імені %1$s</string>
+    <string name="mobile_chat_hint">Напишіть щось</string>
+    <string name="mobile_chat_send">Надіслати повідомлення</string>
+    <string name="mobile_chat_send_failed">Не вдалося надіслати повідомлення. Спробуйте ще раз.</string>
+    <string name="mobile_chat_not_ready">Чат ще не готовий. Спробуйте трохи пізніше.</string>
+</resources>
