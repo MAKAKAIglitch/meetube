@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Setări subtitrări Android</string>
     <string name="mobile_settings_caption_system_summary">Este folosit de stilul „Sistem”</string>
     <string name="mobile_settings_captions_note">Activează subtitrările sau alege limba lor cu butonul CC din player.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Omite segmentele videoclipurilor marcate de comunitate</string>
+    <string name="mobile_settings_sponsorblock_segments">Când începe un segment</string>
+    <string name="mobile_settings_segment_skip">Omite</string>
+    <string name="mobile_settings_segment_ask_short">Întreabă</string>
+    <string name="mobile_settings_segment_show">Afișează</string>
+    <string name="mobile_settings_segment_modes_note">Poți omite segmentul, poți cere confirmarea printr-un buton, îl poți afișa doar pe bara de derulare sau poți dezactiva opțiunea.</string>
+    <string name="mobile_settings_segment_min">Nu omite segmentele mai scurte de</string>
+    <string name="mobile_settings_segment_once">Omite fiecare segment o singură dată</string>
+    <string name="mobile_settings_segment_once_summary">Dacă revii la un segment omis, acesta va fi redat</string>
+    <string name="mobile_settings_segment_alt_server_summary">Încearcă această opțiune dacă segmentele nu se mai încarcă</string>
+    <string name="mobile_settings_segment_alt_server">Folosește serverul alternativ</string>
+    <string name="mobile_settings_dearrow_titles">Titluri mai bune</string>
+    <string name="mobile_settings_dearrow_titles_summary">Înlocuiește titlurile de tip clickbait cu variante scrise de comunitate</string>
+    <string name="mobile_settings_dearrow_thumbnails">Miniaturi mai bune</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Înlocuiește miniaturile cu cadre alese de comunitate</string>
+    <string name="mobile_settings_dearrow_note">DeArrow primește ID-urile videoclipurilor pe care le vezi în liste.</string>
 </resources>
