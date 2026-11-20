@@ -218,4 +218,21 @@
     <string name="mobile_settings_clear_watch_history_summary">Elimină videoclipurile vizionate din istoricul YouTube</string>
     <string name="mobile_settings_clear_watch_history_confirm">Ștergi istoricul vizionărilor?</string>
     <string name="mobile_settings_clear_watch_history_body">Toate videoclipurile din istoricul YouTube vor fi eliminate. Acțiunea nu poate fi anulată.</string>
+
+    <!-- Search history and backup translations -->
+    <string name="mobile_settings_search_history_off">Nu păstra istoricul căutărilor</string>
+    <string name="mobile_settings_search_history_off_summary">Căutările anterioare nu sunt salvate și nu sunt sugerate</string>
+    <string name="mobile_settings_clear_search_history">Șterge istoricul căutărilor</string>
+    <string name="mobile_settings_clear_search_history_summary">Șterge căutările salvate pe acest telefon</string>
+    <string name="mobile_settings_clear_search_history_confirm">Ștergi istoricul căutărilor?</string>
+    <string name="mobile_settings_clear_search_history_body">Căutările salvate de MeeTube pe acest telefon vor fi șterse. Acțiunea nu poate fi anulată.</string>
+    <string name="mobile_settings_backup_now">Creează o copie de rezervă acum</string>
+    <string name="mobile_settings_backup_now_summary">Salvează setările în %1$s</string>
+    <string name="mobile_settings_backup_done">Copie de rezervă salvată</string>
+    <string name="mobile_settings_restore">Restaurare</string>
+    <string name="mobile_settings_restore_summary">Dintr-o copie de rezervă din %1$s</string>
+    <string name="mobile_settings_auto_backup">Copie de rezervă automată</string>
+    <string name="mobile_settings_auto_backup_off">Niciodată</string>
+    <string name="mobile_settings_backup_note">O copie de rezervă include toate setările configurate în MeeTube. Datele contului YouTube, precum abonamentele și istoricul, rămân în cont.</string>
+    <string name="mobile_settings_home_layout">Aspectul paginii principale</string>
 </resources>
