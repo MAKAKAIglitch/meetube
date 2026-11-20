@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Maglumat wideonyň ID-sini alýan Return YouTube Dislike hyzmatyndan alynýar</string>
     <string name="mobile_settings_paid_promotion">Tölegli mahabat barada habar ber</string>
     <string name="mobile_settings_paid_promotion_summary">Wideo tölegli mahabatyň bardygyny aýdanda gysga habar görkezýär</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Wideolaryň başlanýan hili. Aýratyn wideo üçin muny pleýeriň sazlamalaryndan üýtgedip bilersiňiz.</string>
+    <string name="mobile_settings_default_quality">Deslapky hil</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi arkaly</string>
+    <string name="mobile_settings_quality_mobile">Mobil maglumat arkaly</string>
+    <string name="mobile_settings_quality_same">Wi-Fi bilen deň</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Mobil maglumat: %2$s</string>
+    <string name="mobile_settings_quality_auto">Awtomatik (%1$dp çenli)</string>
+    <string name="mobile_settings_quality_auto_desc">Maslahat berilýär. Baglanyşygyňyzyň mümkinçilik berýän iň gowy hili</string>
+    <string name="mobile_settings_quality_up_to">%1$s çenli</string>
+    <string name="mobile_settings_quality_more_data">Has köp maglumat ulanýar</string>
+    <string name="mobile_settings_quality_less_data">Azrak maglumat ulanýar</string>
+    <string name="mobile_settings_quality_data_saver">Maglumaty tygşytla</string>
+    <string name="mobile_settings_hdr">HDR wideo</string>
+    <string name="mobile_settings_hdr_summary">HDR wideolary HDR görnüşinde, has ýagty we baý reňkler bilen görkezýär. Has köp maglumat ulanýar. Indiki açyljak wideo üçin ulanylýar.</string>
+    <string name="mobile_settings_loudness">Sesi deňleşdir</string>
+    <string name="mobile_settings_loudness_summary">Örän gaty wideolaryň sesini YouTube-yň adaty derejesine çenli peseldýär</string>
+    <string name="mobile_settings_player_volume">Pleýeriň ses derejesi</string>
+    <string name="mobile_settings_quality_data_saver_note">Android-de maglumat tygşytlaýjy açyk bolsa, MeeTube mobil ulgamda öňünden az maglumat ýükleýär.</string>
 </resources>
