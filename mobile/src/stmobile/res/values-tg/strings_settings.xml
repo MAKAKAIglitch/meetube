@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Пахшро то ҳадди имкон ба вақти зинда наздик, бе таъхири 15-сонияӣ намоиш медиҳад</string>
     <string name="mobile_settings_live_hls">Пахшҳои мустақимро тавассути HLS навохтан</string>
     <string name="mobile_settings_live_hls_summary">Дар телефонҳои суст метавонад ҳамвортар кор кунад. Ба қафо баргардондан имкон надорад ва сифат бо 1080p маҳдуд аст</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Плеер</string>
+    <string name="mobile_settings_controls_on_next">Нишон додани идоракунӣ дар видеои навбатӣ</string>
+    <string name="mobile_settings_controls_on_next_summary">Ҳангоми оғози видеои навбатӣ тугмаҳои идоракунӣ пайдо мешаванд</string>
+    <string name="mobile_settings_list_queue">Рӯйхати оғозшударо навохтан</string>
+    <string name="mobile_settings_list_queue_summary">Пас аз видеои кушодашуда аз рӯйхати навозиш, видеоҳои боқимонда бо ҳамон тартиб навохта мешаванд</string>
+    <string name="mobile_settings_queue_mode">Навбат аз танзими «Ҳангоми анҷоми видео» пайравӣ мекунад</string>
+    <string name="mobile_settings_queue_mode_summary">Ҳангоми таваққуф ё бастани плеер навбат низ қатъ мешавад</string>
+    <string name="mobile_settings_chapter_popup">Номҳои равзанаии бобҳо</string>
+    <string name="mobile_settings_chapter_popup_summary">Ҳангоми оғози ҳар боб номи онро нишон медиҳад. Барои гузаштан ба боби навбатӣ ламс кунед</string>
 </resources>
