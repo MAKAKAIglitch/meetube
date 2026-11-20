@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">La fiecare pas de 0,05×</string>
     <string name="mobile_settings_natural_voice">Voce naturală la alte viteze</string>
     <string name="mobile_settings_natural_voice_summary">Păstrează tonalitatea normală a vocii când mărești sau reduci viteza</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Temporizator de somn</string>
+    <string name="mobile_settings_sleep_timer_summary">Întrerupe redarea la %1$s după ce deschizi un videoclip</string>
+    <string name="mobile_settings_audio_focus">Pauză la alte sunete</string>
+    <string name="mobile_settings_audio_focus_summary">Întrerupe redarea în timpul apelurilor și al sunetului din alte aplicații. Se aplică următorului videoclip deschis</string>
+    <string name="mobile_settings_resume">Reia</string>
+    <string name="mobile_settings_resume_short">Reia videoclipurile scurte</string>
+    <string name="mobile_settings_resume_short_summary">Videoclipurile mai scurte de 6 minute încep de la început dacă această opțiune este dezactivată</string>
+    <string name="mobile_settings_resume_live">Reia transmisiunile live</string>
+    <string name="mobile_settings_resume_live_summary">Reia transmisiunea live din locul în care ai oprit-o, nu din momentul curent al transmisiei</string>
+    <string name="mobile_settings_watch_page">Sub videoclip</string>
+    <string name="mobile_settings_ambient">Mod ambiental</string>
+    <string name="mobile_settings_ambient_summary">Culorile videoclipului luminează zona de sub player și umplu benzile negre în modul vertical pe tot ecranul</string>
+    <string name="mobile_settings_hide_related">Ascunde secțiunea „În continuare”</string>
+    <string name="mobile_settings_hide_related_summary">Ascunde videoclipurile similare de sub player</string>
+    <string name="mobile_settings_dislikes">Afișează numărul de aprecieri negative</string>
+    <string name="mobile_settings_dislikes_summary">Datele provin de la Return YouTube Dislike, care primește ID-ul videoclipului</string>
+    <string name="mobile_settings_paid_promotion">Notifică-mă despre promovarea plătită</string>
+    <string name="mobile_settings_paid_promotion_summary">Afișează un mesaj scurt când un videoclip menționează că include o promovare plătită</string>
 </resources>
