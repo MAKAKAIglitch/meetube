@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Өтө катуу видеолордун үнүн YouTube'дун кадимки деңгээлине түшүрөт</string>
     <string name="mobile_settings_player_volume">Плеердин үн деңгээли</string>
     <string name="mobile_settings_quality_data_saver_note">Android'де трафикти үнөмдөө күйүп турганда, MeeTube мобилдик тармакта азыраак маалыматты алдын ала жүктөйт.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Стиль</string>
+    <string name="mobile_settings_caption_size">Өлчөм</string>
+    <string name="mobile_settings_caption_position">Төмөнкү четинен алыстыгы</string>
+    <string name="mobile_settings_caption_per_channel">Субтитрлерди ар бир канал үчүн эстеп калуу</string>
+    <string name="mobile_settings_caption_per_channel_summary">Күйгүзүлгөн субтитрлер ошол канал үчүн гана сакталат. Өчүрүлсө, акыркы тандалган тил бардык видеолорго колдонулат.</string>
+    <string name="mobile_settings_caption_system">Android субтитр жөндөөлөрү</string>
+    <string name="mobile_settings_caption_system_summary">«Системалык» стили ушул жөндөөлөрдү колдонот</string>
+    <string name="mobile_settings_captions_note">Субтитрлерди күйгүзүү же тилин тандоо үчүн плеердеги CC баскычын колдонуңуз.</string>
 </resources>
