@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Знижує гучність надто гучних відео до звичайного рівня YouTube</string>
     <string name="mobile_settings_player_volume">Гучність плеєра</string>
     <string name="mobile_settings_quality_data_saver_note">Коли в Android увімкнено заощадження трафіку, MeeTube попередньо завантажує менше даних через мобільну мережу.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Стиль</string>
+    <string name="mobile_settings_caption_size">Розмір</string>
+    <string name="mobile_settings_caption_position">Відстань від нижнього краю</string>
+    <string name="mobile_settings_caption_per_channel">Запам’ятовувати субтитри для кожного каналу</string>
+    <string name="mobile_settings_caption_per_channel_summary">Увімкнені субтитри зберігаються лише для цього каналу. Якщо вимкнути, остання вибрана мова субтитрів застосовуватиметься до всіх відео.</string>
+    <string name="mobile_settings_caption_system">Налаштування субтитрів Android</string>
+    <string name="mobile_settings_caption_system_summary">Використовується стилем «Системний»</string>
+    <string name="mobile_settings_captions_note">Вмикайте субтитри або вибирайте їхню мову кнопкою CC у плеєрі.</string>
 </resources>
