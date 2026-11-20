@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Видеонун аягындагы кадр</string>
     <string name="mobile_settings_original_titles">Түпнуска аталыштар</string>
     <string name="mobile_settings_original_titles_summary">Аталыштарды YouTube котормосунда эмес, түпнуска тилинде көрсөтүү</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Лакх жана крор сан форматы</string>
+    <string name="mobile_settings_indian_counts_summary">Көрүүлөр менен жактырууларды 250K жана 12M ордуна 2,5 лакх жана 1,2 крор түрүндө көрсөтүү</string>
+    <string name="mobile_settings_channels_order">«Сиз» бөлүмүндөгү каналдардын тартиби</string>
+    <string name="mobile_settings_channels_order_recent">Жакында көрүлгөндөр биринчи</string>
+    <string name="mobile_settings_channels_order_name">Адан Яга чейин</string>
+    <string name="mobile_settings_channels_order_new">Жаңы видеолору бар каналдар биринчи</string>
+    <string name="mobile_settings_pinned_channels">Бекитилген каналдарда эмнелер көрсөтүлсүн</string>
+    <string name="mobile_settings_pinned_channels_all">Каналдын башкы бети</string>
+    <string name="mobile_settings_pinned_channels_uploads">Анын видеолору гана</string>
+    <string name="mobile_settings_playlists_style">«Сиз» бөлүмүндөгү ойнотмо тизмелер</string>
+    <string name="mobile_settings_playlists_style_grid">Ар бир ойнотмо тизме өзүнчө</string>
+    <string name="mobile_settings_playlists_style_rows">Бардык видеолору катары менен</string>
+    <string name="mobile_settings_watch_history">Көрүү таржымалы</string>
+    <string name="mobile_settings_watch_history_auto">YouTube жөндөөсүн колдонуу</string>
+    <string name="mobile_settings_watch_history_auto_desc">YouTube аккаунтуңузда таржымал сакталса, бул жерде да сакталат</string>
+    <string name="mobile_settings_watch_history_on">Ар дайым сактоо</string>
+    <string name="mobile_settings_watch_history_on_desc">MeeTube ачылган сайын YouTube көрүү таржымалын кайра күйгүзөт</string>
+    <string name="mobile_settings_watch_history_off">Сактаба</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube көргөн видеолоруңуз тууралуу YouTube'га маалымат жөнөтпөйт</string>
+    <string name="mobile_settings_clear_watch_history">Көрүү таржымалын тазалоо</string>
+    <string name="mobile_settings_clear_watch_history_summary">Көрүлгөн видеолорду YouTube таржымалынан өчүрөт</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Көрүү таржымалы тазалансынбы?</string>
+    <string name="mobile_settings_clear_watch_history_body">YouTube көрүү таржымалындагы бардык видеолор өчүрүлөт. Бул аракетти артка кайтаруу мүмкүн эмес.</string>
 </resources>
