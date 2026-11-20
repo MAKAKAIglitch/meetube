@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Сұйық тамшы</string>
     <string name="mobile_loader_glass_orbit">Шыны орбита</string>
     <string name="mobile_app_icon_pending">Жаңа белгіше барлық жерде қолданылуы үшін MeeTube қолданбасын қайта іске қосыңыз. Әйтпесе, қолданбадан шыққаннан кейін өзгереді.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Лента</string>
+    <string name="mobile_settings_home_layout_feed_desc">YouTube сияқты бейнелердің бір тізімі</string>
+    <string name="mobile_settings_home_layout_rows">Жолдар</string>
+    <string name="mobile_settings_home_layout_rows_desc">SmartTube сияқты әр тақырыпқа арналған көлденең айналатын жеке жол</string>
+    <string name="mobile_settings_home_shorts">Басты беттегі Shorts</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube-тағыдай көлденең айналатын Shorts жолы</string>
+    <string name="mobile_settings_chip_style">Сүзгі стилі</string>
+    <string name="mobile_settings_chip_style_segment">Біріктірілген панель</string>
+    <string name="mobile_settings_chip_style_segment_desc">Басты бет тақырыптарының сүзгілері мен іздеу сүзгілері бір шыны панельде орналасады. Сүзгіні басып, линза сияқты сүйреңіз.</string>
+    <string name="mobile_settings_chip_style_pills">Жеке белгілер</string>
+    <string name="mobile_settings_chip_style_pills_desc">Әр сүзгі жеке шыны белгіде көрсетіледі</string>
+    <string name="mobile_settings_player_buttons_look">Ойнатқыш түймелерінің стилі</string>
+    <string name="mobile_settings_player_buttons_see_through">Жартылай мөлдір</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Бейне, Shorts және шағын ойнатқыштағы әр түйменің артында реңкті шыны дөңгелек бар</string>
+    <string name="mobile_settings_player_buttons_frosted">Күңгірт шыны</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Дөңгелектер астындағы суретті бұлдыратады. Қуатты көбірек тұтынады және баяу телефондарда кідіріс тудыруы мүмкін.</string>
+    <string name="mobile_settings_player_buttons_minimal">Минималистік</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Дөңгелектер жоқ, тек YouTube сияқты жұмсақ көлеңкесі бар белгішелер</string>
+    <string name="mobile_settings_performance">Өнімділік</string>
+    <string name="mobile_settings_high_refresh">Жоғары жаңарту жиілігі режимі</string>
+    <string name="mobile_settings_high_refresh_summary">Қозғалыс барынша тегіс болуы үшін қолданба %1$d Гц жиілігінде жұмыс істейді. Қуатты көбірек тұтынады; телефон қызып кетсе немесе қуат үнемдеу қосылса, Android жиілікті төмендетуі мүмкін.</string>
+    <string name="mobile_settings_tab_motion">Қойындыларды ауыстыру анимациясы</string>
+    <string name="mobile_settings_tab_motion_summary">Шыны жарқылы қойындыға қарай сырғиды, ал панель аздап қозғалады. Баяу телефондарда өзіңіз қоспайынша өшірулі болады.</string>
+    <string name="mobile_settings_tabs_reset">Панельді әдепкі күйге қайтару</string>
+    <string name="mobile_settings_tabs_reset_summary">Басты бет, Shorts, Іздеу, Жазылымдар, Сіз</string>
 </resources>
