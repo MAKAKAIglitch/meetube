@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Siz</string>
     <string name="mobile_settings_tabs_none">Heç biri</string>
     <string name="mobile_settings_tabs_bar_note">Paneldəki elementlərin yerini dəyişmək üçün tutacaqdan dartın və ya onları basıb saxlayın. Axtarışı yuxarı panelə keçirmək üçün yuxarı dartın. Göstərilənləri dəyişmək üçün bölməyə toxunun.</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Yuxarı panel</string>
+    <string name="mobile_settings_bar_tab">Bölmə</string>
+    <string name="mobile_settings_bar_tab_summary">Dəyişmək üçün toxunun</string>
+    <string name="mobile_settings_bar_empty">Boş</string>
+    <string name="mobile_settings_bar_empty_summary">Bölmə seçmək üçün toxunun</string>
+    <string name="mobile_settings_bar_first">Həmişə birinci</string>
+    <string name="mobile_settings_bar_home_summary">Həmişə birinci. Silmək üçün toxunun</string>
+    <string name="mobile_settings_bar_home_shown">Göstərilir</string>
+    <string name="mobile_settings_bar_home_removed">Silinib</string>
+    <string name="mobile_settings_bar_home_removed_desc">Tövsiyə lenti yoxdur: tətbiq ilk bölmənizdə açılır</string>
+    <string name="mobile_settings_bar_last">Həmişə sonuncu</string>
+    <string name="mobile_settings_bar_search_up">Yuxarı panelə keçirmək üçün yuxarı dartın</string>
+    <string name="mobile_settings_bar_search_down">Aşağı panelə qaytarmaq üçün aşağı dartın</string>
+    <string name="mobile_settings_search_place">Axtarış</string>
+    <string name="mobile_settings_search_place_bottom">Aşağı paneldə</string>
+    <string name="mobile_settings_search_place_top">Yuxarı paneldə</string>
+    <string name="mobile_settings_tabs_note">Bölməni və ya «Siz» bölməsindəki sətri köçürmək, adını dəyişmək və ya gizlətmək üçün onu basıb saxlayın.</string>
 </resources>
