@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Picătură lichidă</string>
     <string name="mobile_loader_glass_orbit">Orbită de sticlă</string>
     <string name="mobile_app_icon_pending">Repornește MeeTube pentru ca noua pictogramă să fie folosită peste tot. Altfel, se va schimba după ce ieși din aplicație.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Flux</string>
+    <string name="mobile_settings_home_layout_feed_desc">O singură listă de videoclipuri, ca în YouTube</string>
+    <string name="mobile_settings_home_layout_rows">Rânduri</string>
+    <string name="mobile_settings_home_layout_rows_desc">Un rând cu derulare laterală pentru fiecare subiect, ca în SmartTube</string>
+    <string name="mobile_settings_home_shorts">Shorts pe pagina principală</string>
+    <string name="mobile_settings_home_shorts_summary">Un rând de Shorts cu derulare laterală, în locul celui afișat de YouTube</string>
+    <string name="mobile_settings_chip_style">Stilul filtrelor</string>
+    <string name="mobile_settings_chip_style_segment">Bară segmentată</string>
+    <string name="mobile_settings_chip_style_segment_desc">Filtrele tematice de pe pagina principală și cele de căutare sunt într-o singură bară de sticlă; apasă pe un filtru și glisează-l.</string>
+    <string name="mobile_settings_chip_style_pills">Pastile separate</string>
+    <string name="mobile_settings_chip_style_pills_desc">Fiecare filtru este afișat într-o pastilă de sticlă separată</string>
+    <string name="mobile_settings_player_buttons_look">Stilul butoanelor playerului</string>
+    <string name="mobile_settings_player_buttons_see_through">Semitransparent</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Un disc de sticlă colorată în spatele fiecărui buton, peste videoclip, Shorts și mini-player</string>
+    <string name="mobile_settings_player_buttons_frosted">Mat</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Discurile estompează imaginea de dedesubt. Consumă mai multă baterie și pot provoca sacadări pe telefoanele mai lente</string>
+    <string name="mobile_settings_player_buttons_minimal">Minimal</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Fără discuri, doar pictograme cu o umbră discretă, ca în YouTube</string>
+    <string name="mobile_settings_performance">Performanță</string>
+    <string name="mobile_settings_high_refresh">Mod pentru rată de reîmprospătare ridicată</string>
+    <string name="mobile_settings_high_refresh_summary">Aplicația funcționează la %1$d Hz pentru o mișcare cât mai fluidă. Consumă mai multă baterie; Android poate reduce frecvența când telefonul se încălzește sau este activ modul de economisire a bateriei.</string>
+    <string name="mobile_settings_tab_motion">Animația de schimbare a filei</string>
+    <string name="mobile_settings_tab_motion_summary">O reflexie de sticlă alunecă spre filă, iar bara se mișcă ușor. Este dezactivată pe telefoanele mai lente până când o activezi.</string>
+    <string name="mobile_settings_tabs_reset">Resetează bara la valorile implicite</string>
+    <string name="mobile_settings_tabs_reset_summary">Acasă, Shorts, Căutare, Abonamente, Tu</string>
 </resources>
