@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Арна беттерінде жасыру</string>
     <string name="mobile_settings_hidden_live">Тікелей трансляциялар</string>
     <string name="mobile_settings_hidden_live_subscriptions">Тікелей трансляцияларды жазылымдарда жасыру</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Бейне мәзірі</string>
+    <string name="mobile_settings_video_menu_summary">⋮ мәзірінде не көрсетілетінін таңдаңыз</string>
+    <string name="mobile_settings_video_menu_note">Бейненің ⋮ мәзіріндегі және қойындыны басып тұрғанда ашылатын мәзірдегі элементтер. Әр элемент тек қолданылатын жерде көрсетіледі.</string>
+    <string name="mobile_settings_menu_play">Ойнату</string>
+    <string name="mobile_settings_menu_queue_add">Кезекке қосу</string>
+    <string name="mobile_settings_menu_save">Сақтау</string>
+    <string name="mobile_settings_menu_recent_playlist">Соңғы қолданылған ойнату тізіміне сақтау</string>
+    <string name="mobile_settings_menu_save_playlist">Ойнату тізімін сақтау немесе жою</string>
+    <string name="mobile_settings_menu_channel">Арна және ұсыныстар</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Жазылымдардан жасыру</string>
+    <string name="mobile_settings_menu_share">Бөлісу және мәліметтер</string>
+    <string name="mobile_settings_menu_playlists">Ойнату тізімдері</string>
+    <string name="mobile_settings_menu_tabs">Қойынды мәзірі</string>
+    <string name="mobile_settings_menu_move_section">Жоғары немесе төмен жылжыту</string>
+    <string name="mobile_settings_menu_usual_order">Әдеттегі рет</string>
+    <string name="mobile_settings_menu_usual_order_summary">Мәзір элементтерін әдеттегі орындарына қайтару</string>
+    <string name="mobile_settings_menu_usual_order_done">Мәзір реті қалпына келтірілді</string>
+    <string name="mobile_settings_thumbnails">Нобайлар</string>
+    <string name="mobile_settings_thumbnails_default">Бейне жүктеуші таңдаған нобай</string>
+    <string name="mobile_settings_thumbnails_start">Бейненің басынан алынған кадр</string>
+    <string name="mobile_settings_thumbnails_middle">Бейненің ортасынан алынған кадр</string>
+    <string name="mobile_settings_thumbnails_end">Бейненің соңынан алынған кадр</string>
+    <string name="mobile_settings_original_titles">Түпнұсқа тақырыптар</string>
+    <string name="mobile_settings_original_titles_summary">Тақырыптарды YouTube аудармасының орнына түпнұсқа тілінде көрсету</string>
 </resources>
