@@ -105,4 +105,31 @@
     <string name="mobile_settings_24_hour_summary">Премьералардын жана түз эфирлердин башталуу убактысы үчүн</string>
     <string name="mobile_settings_liquid_glass">Суюк айнек</string>
     <string name="mobile_settings_liquid_glass_summary">Айнек панелдердеги линза, жарык жана бүртүкчө. Өчүрүлгөндө батареяны азыраак сарптаган жөнөкөй бүдөмүктөтүү колдонулат</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d саат %2$d мүн</string>
+    <string name="mobile_settings_customize_summary_value">%1$s темасы, башкы бет жана видеолордун тизмеси, ойноткуч, өтмөктөр жана эффекттер</string>
+    <string name="mobile_settings_auto_none">Эч бири</string>
+    <string name="mobile_settings_auto_note">Бир нече саат сайын текшерилет. Тандалган канал жаңы видео жүктөгөндө, ал автоматтык түрдө жүктөлөт. Ойнотмо тизмеден ар бир текшерүүдө 10 видеого чейин жүктөлөт. Бул жерде коюлган сапаттан ашпаган эң жогорку сапат тандалат.</string>
+    <string name="mobile_battery_saver_ask">Кубат үнөмдөө режими күйүп турат. Бул режим күйүп турганда анимацияларды жана күңүрт айнек эффектин өчүрөсүзбү?</string>
+    <string name="mobile_battery_saver_ask_action">Өчүрүү</string>
+    <string name="mobile_settings_coffee">Иштеп чыгуучуга кофе алып берүү</string>
+    <string name="mobile_settings_coffee_summary">MeeTube жакса жана долбоорду колдогуңуз келсе</string>
+    <string name="mobile_settings_new_uploads">Жаңы видеолор тууралуу билдирүү</string>
+    <string name="mobile_settings_new_uploads_summary">Жазылууларыңыздагы жаңы видеолор билдирмелер панелинде көрсөтүлөт</string>
+    <string name="mobile_settings_tabs">Өтмөктөр</string>
+    <string name="mobile_settings_tabs_summary">Төмөнкү тилкеде жана «Сиз» бөлүмүндө эмнелер көрсөтүлөрүн тандаңыз</string>
+    <string name="mobile_settings_tabs_bottom_bar">Төмөнкү тилке</string>
+    <string name="mobile_settings_nav_labels">Өтмөктөрдүн аталыштары</string>
+    <string name="mobile_settings_nav_labels_summary">Төмөнкү тилкеде ар бир өтмөктүн сүрөтчөсүнүн астында аталышын көрсөтүү</string>
+    <string name="mobile_settings_brand_name">Жогорку тилкедеги колдонмонун аты</string>
+    <string name="mobile_settings_brand_name_summary">Жогору жакта сүрөтчөнүн жанында MeeTube атын көрсөтүү. Өчүрүлсө, сүрөтчө гана калат</string>
+    <string name="mobile_settings_top_bar">Жогорку тилкени дайыма көрсөтүү</string>
+    <string name="mobile_settings_top_bar_summary">Тасманы жылдырганда жогорку тилкени жашырбай, экранда калтыруу</string>
+    <string name="mobile_settings_search_fab">Тилке жашырылганда издөө баскычы</string>
+    <string name="mobile_settings_search_fab_right">Төмөнкү оң жакта</string>
+    <string name="mobile_settings_search_fab_left">Төмөнкү сол жакта</string>
+    <string name="mobile_settings_tabs_you">Сиз</string>
+    <string name="mobile_settings_tabs_none">Эч бири</string>
+    <string name="mobile_settings_tabs_bar_note">Тартибин өзгөртүү үчүн элементти кармагычынан сүйрөңүз же басып туруңуз. Издөөнү жогорку тилкеге жылдыруу үчүн өйдө сүйрөңүз. Өтмөктү басып, анда эмне көрсөтүлөрүн өзгөртүңүз.</string>
 </resources>
