@@ -105,4 +105,31 @@
     <string name="mobile_settings_24_hour_summary">Pentru orele de începere ale premierelor și transmisiunilor live</string>
     <string name="mobile_settings_liquid_glass">Sticlă lichidă</string>
     <string name="mobile_settings_liquid_glass_summary">Lentilă, lumină și granulație pe barele de sticlă. Dezactivată, se folosește o estompare simplă, mai economică pentru baterie</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d h %2$d min</string>
+    <string name="mobile_settings_customize_summary_value">Tema %1$s, pagina principală și listele de videoclipuri, playerul, filele și efectele</string>
+    <string name="mobile_settings_auto_none">Niciuna</string>
+    <string name="mobile_settings_auto_note">Verificarea are loc la câteva ore. Videoclipurile noi publicate pe canalele selectate sunt descărcate automat. Dintr-un playlist se descarcă până la 10 videoclipuri la fiecare verificare. Se alege cea mai bună calitate care nu depășește nivelul setat aici.</string>
+    <string name="mobile_battery_saver_ask">Modul de economisire a bateriei este activ. Dezactivezi animațiile și efectul de sticlă mată cât timp este activ?</string>
+    <string name="mobile_battery_saver_ask_action">Dezactivează</string>
+    <string name="mobile_settings_coffee">Oferă-i o cafea dezvoltatorului</string>
+    <string name="mobile_settings_coffee_summary">Susține MeeTube dacă îți place aplicația</string>
+    <string name="mobile_settings_new_uploads">Notifică-mă despre videoclipuri noi</string>
+    <string name="mobile_settings_new_uploads_summary">Videoclipurile noi de la canalele la care ești abonat vor apărea în panoul de notificări</string>
+    <string name="mobile_settings_tabs">File</string>
+    <string name="mobile_settings_tabs_summary">Alege ce apare în bara de jos și în fila „Tu”</string>
+    <string name="mobile_settings_tabs_bottom_bar">Bara de jos</string>
+    <string name="mobile_settings_nav_labels">Numele filelor</string>
+    <string name="mobile_settings_nav_labels_summary">Afișează numele fiecărei file sub pictograma sa din bara de jos</string>
+    <string name="mobile_settings_brand_name">Numele aplicației în bara de sus</string>
+    <string name="mobile_settings_brand_name_summary">Afișează MeeTube lângă pictogramă în partea de sus. Când opțiunea este dezactivată, rămâne doar pictograma</string>
+    <string name="mobile_settings_top_bar">Afișează mereu bara de sus</string>
+    <string name="mobile_settings_top_bar_summary">Păstrează bara de sus pe ecran când derulezi fluxul, în loc să o ascundă</string>
+    <string name="mobile_settings_search_fab">Butonul de căutare când bara este ascunsă</string>
+    <string name="mobile_settings_search_fab_right">Dreapta jos</string>
+    <string name="mobile_settings_search_fab_left">Stânga jos</string>
+    <string name="mobile_settings_tabs_you">Tu</string>
+    <string name="mobile_settings_tabs_none">Niciuna</string>
+    <string name="mobile_settings_tabs_bar_note">Trage un element de mâner sau ține-l apăsat pentru a schimba ordinea barei. Trage „Căutare” în sus pentru a o muta în bara de sus. Atinge o filă pentru a-i schimba conținutul.</string>
 </resources>
