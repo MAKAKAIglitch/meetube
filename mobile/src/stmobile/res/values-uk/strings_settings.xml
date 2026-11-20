@@ -105,4 +105,31 @@
     <string name="mobile_settings_liquid_glass_summary">Лінза, світло й текстура на скляних панелях. Якщо вимкнено, використовується просте розмиття, яке заощаджує заряд</string>
     <string name="mobile_settings_storage_clear_empty">Кеш уже порожній!</string>
     <string name="mobile_settings_storage_clear_empty_note">Немає що очищати. Перегляньте щось і поверніться пізніше.</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d год %2$d хв</string>
+    <string name="mobile_settings_customize_summary_value">Тема «%1$s», головна сторінка й списки відео, плеєр, вкладки та ефекти</string>
+    <string name="mobile_settings_auto_none">Немає</string>
+    <string name="mobile_settings_auto_note">Перевірка виконується кожні кілька годин. Для вибраних каналів завантажуються нові відео після публікації. З плейлиста за одну перевірку завантажується до 10 відео. Використовується найкраща якість, що не перевищує задану тут.</string>
+    <string name="mobile_battery_saver_ask">Увімкнено режим енергозбереження. На цей час вимкнути анімацію та ефект матового скла?</string>
+    <string name="mobile_battery_saver_ask_action">Вимкнути</string>
+    <string name="mobile_settings_coffee">Пригостити розробника кавою</string>
+    <string name="mobile_settings_coffee_summary">Підтримайте MeeTube, якщо вам подобається застосунок</string>
+    <string name="mobile_settings_new_uploads">Сповіщати про нові відео</string>
+    <string name="mobile_settings_new_uploads_summary">Нові відео з ваших підписок з'являтимуться на панелі сповіщень</string>
+    <string name="mobile_settings_tabs">Вкладки</string>
+    <string name="mobile_settings_tabs_summary">Виберіть, що показувати на нижній панелі та у вкладці «Ви»</string>
+    <string name="mobile_settings_tabs_bottom_bar">Нижня панель</string>
+    <string name="mobile_settings_nav_labels">Назви вкладок</string>
+    <string name="mobile_settings_nav_labels_summary">Показувати назву кожної вкладки під її значком на нижній панелі</string>
+    <string name="mobile_settings_brand_name">Назва застосунку на верхній панелі</string>
+    <string name="mobile_settings_brand_name_summary">Показувати MeeTube поруч зі значком угорі. Якщо вимкнути, залишиться лише значок</string>
+    <string name="mobile_settings_top_bar">Завжди показувати верхню панель</string>
+    <string name="mobile_settings_top_bar_summary">Залишати верхню панель на екрані під час прокручування стрічки, а не приховувати її</string>
+    <string name="mobile_settings_search_fab">Кнопка пошуку, коли панель прихована</string>
+    <string name="mobile_settings_search_fab_right">Унизу праворуч</string>
+    <string name="mobile_settings_search_fab_left">Унизу ліворуч</string>
+    <string name="mobile_settings_tabs_you">Ви</string>
+    <string name="mobile_settings_tabs_none">Немає</string>
+    <string name="mobile_settings_tabs_bar_note">Перетягуйте елементи за значок або утримуйте їх, щоб змінити порядок. Перетягніть «Пошук» угору, щоб перемістити його на верхню панель. Натисніть вкладку, щоб змінити її вміст.</string>
 </resources>
