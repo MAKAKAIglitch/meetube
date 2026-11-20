@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Pleyeri aşağı sürüşdürmək videonu kiçiltmək əvəzinə bağlayır</string>
     <string name="mobile_settings_auto_pip">Şəkil içində şəkil</string>
     <string name="mobile_settings_auto_pip_summary">Video oynayarkən tətbiqdən çıxdıqda kiçik pəncərəyə yığılır. Söndürülərsə, fonda yalnız səs oxudulur</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Video bitdikdə</string>
+    <string name="mobile_settings_video_ends_next">Növbəti videonu oxut</string>
+    <string name="mobile_settings_video_ends_repeat">Videonu təkrarla</string>
+    <string name="mobile_settings_video_ends_shuffle">Pleylisti qarışdır</string>
+    <string name="mobile_settings_video_ends_list">Pleylisti sona qədər oxut, sonra dayandır</string>
+    <string name="mobile_settings_video_ends_reverse">Pleylisti tərs qaydada oxut</string>
+    <string name="mobile_settings_video_ends_pause">Dayandır</string>
+    <string name="mobile_settings_video_ends_close">Pleyeri bağla</string>
+    <string name="mobile_settings_background">Tətbiqdən çıxdıqda</string>
+    <string name="mobile_settings_background_pip_desc">Video kiçik pəncərədə oxunmağa davam edir</string>
+    <string name="mobile_settings_background_audio_desc">Yalnız səs oxunmağa davam edir</string>
+    <string name="mobile_settings_remember_speed">Oxutma sürətini yadda saxla</string>
+    <string name="mobile_settings_remember_speed_channel">Hər kanal üçün</string>
+    <string name="mobile_settings_remember_speed_video">Hər video üçün</string>
+    <string name="mobile_settings_remember_speed_all">Bütün videolar üçün eyni</string>
+    <string name="mobile_settings_remember_speed_none">Yadda saxlama</string>
+    <string name="mobile_settings_remember_speed_none_desc">MeeTube hər başladıqda sürət 1×-ə qaytarılır</string>
+    <string name="mobile_settings_speed_list">«Daha çox sürət» bölməsindəki sürətlər</string>
+    <string name="mobile_settings_speed_list_basic">Qısa siyahı</string>
+    <string name="mobile_settings_speed_list_fine">Dəqiq addımlar</string>
+    <string name="mobile_settings_speed_list_finest">Hər 0,05× artımla</string>
+    <string name="mobile_settings_natural_voice">Digər sürətlərdə təbii səs</string>
+    <string name="mobile_settings_natural_voice_summary">Sürəti artırdıqda və ya azaltdıqda səsin adi tonunu saxlayır</string>
 </resources>
