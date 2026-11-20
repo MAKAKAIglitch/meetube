@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Yaxshiroq miniatyuralar</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Miniatyuralarni hamjamiyat tanlagan kadrlar bilan almashtiradi</string>
     <string name="mobile_settings_dearrow_note">DeArrow ro‘yxatlarda ko‘rayotgan videolaringiz ID raqamlarini oladi.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Bu sozlamalar ko‘pchilikka kerak emas. Ular MeeTube video oqimini qanday uzatishi va ulanishini o‘zgartiradi.</string>
+    <string name="mobile_settings_streaming">Oqimli ijro</string>
+    <string name="mobile_settings_buffer">Bufer</string>
+    <string name="mobile_settings_buffer_low_desc">Taxminan 25 soniya oldinda. Xotirani eng kam ishlatadi</string>
+    <string name="mobile_settings_buffer_med_desc">Taxminan 50 soniya oldinda</string>
+    <string name="mobile_settings_buffer_high_desc">75 soniyagacha oldinda</string>
+    <string name="mobile_settings_buffer_highest_desc">2 daqiqagacha oldinda. Xotirani eng ko‘p ishlatadi</string>
+    <string name="mobile_settings_stall_quality">Doimiy buferlashda sifatni pasaytirish</string>
+    <string name="mobile_settings_stall_quality_summary">Taxminan 20 soniya buferlashdan keyin sifatni bir pog‘ona pasaytiradi. O‘chirish VPN bilan yordam berishi mumkin.</string>
+    <string name="mobile_settings_high_bitrate">Yuqori bitreytli formatlar</string>
+    <string name="mobile_settings_high_bitrate_summary">Video qo‘llasa, YouTube’ning yuqori bitreytli 1080p oqimlarini qo‘shadi. Qo‘shimcha so‘rov talab etiladi</string>
+    <string name="mobile_settings_sabr">SABR orqali oqim (tajribaviy)</string>
+    <string name="mobile_settings_sabr_summary">YouTube’ning yangi oqim protokoli keyingi videodan boshlab ishlatiladi. Ishlamasa, video odatdagi usulda ijro etiladi.</string>
+    <string name="mobile_settings_legacy_codecs">Bitta faylli oqimlar</string>
+    <string name="mobile_settings_legacy_codecs_summary">Eski bitta faylli oqimni, odatda 360p sifatda, sifatni o‘zgartirmasdan ijro etadi. Faqat juda sekin telefonlar uchun.</string>
+    <string name="mobile_settings_live">Jonli efirlar</string>
+    <string name="mobile_settings_live_edge">Jonli efirning hozirgi nuqtasidan boshlash</string>
+    <string name="mobile_settings_live_edge_summary">Efirni 15 soniyalik zaxirasiz, imkon qadar jonli vaqtga yaqin ijro etadi</string>
+    <string name="mobile_settings_live_hls">Jonli efirlarni HLS orqali ijro etish</string>
+    <string name="mobile_settings_live_hls_summary">Sekin telefonlarda ravonroq ishlashi mumkin. Orqaga qaytarib bo‘lmaydi va sifat 1080p bilan cheklanadi</string>
 </resources>
