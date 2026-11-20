@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Säginende ýa-da pleýer ýapylanda nobat hem durýar</string>
     <string name="mobile_settings_chapter_popup">Bölümleriň açylýan atlary</string>
     <string name="mobile_settings_chapter_popup_summary">Her bölüm başlananda onuň adyny görkezýär. Indiki bölüme geçmek üçin basyň</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Tor</string>
+    <string name="mobile_settings_proxy">Web proksi</string>
+    <string name="mobile_settings_proxy_summary">MeeTube traffigini HTTP ýa-da SOCKS proksisi arkaly geçirýär</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Ilki IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Deslapky saýlaw. IPv6 nädogry işleýän ulgamlarda kömek edýär</string>
+    <string name="mobile_settings_dns_system">Telefonyň DNS-i</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Birikmeler üçin gurlan howpsuzlyk kitaphanasy. Käbir HTTPS/TLS birikmeleri bilen sazlaşygy gowulandyryp biler.</string>
+    <string name="mobile_settings_multi_profiles">Her hasap üçin aýratyn sazlamalar</string>
+    <string name="mobile_settings_multi_profiles_summary">Her hasap deslapky bahalardan başlap, öz sazlamalaryny saklaýar</string>
 </resources>
