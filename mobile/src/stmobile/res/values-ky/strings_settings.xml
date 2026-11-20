@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Плеерди ылдый сүрүү видеону кичирейтпей, жабат</string>
     <string name="mobile_settings_auto_pip">Сүрөт ичиндеги сүрөт</string>
     <string name="mobile_settings_auto_pip_summary">Видео ойнотулуп жатканда колдонмодон чыксаңыз, ал кичинекей терезеге кичирейет. Өчүрүлсө, фондо үн гана ойнойт</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Видео бүткөндө</string>
+    <string name="mobile_settings_video_ends_next">Кийинки видеону ойнотуу</string>
+    <string name="mobile_settings_video_ends_repeat">Видеону кайталоо</string>
+    <string name="mobile_settings_video_ends_shuffle">Ойнотмо тизмени аралаштыруу</string>
+    <string name="mobile_settings_video_ends_list">Ойнотмо тизмени бүтүрүп, анан токтотуу</string>
+    <string name="mobile_settings_video_ends_reverse">Ойнотмо тизмени тескери тартипте ойнотуу</string>
+    <string name="mobile_settings_video_ends_pause">Токтотуу</string>
+    <string name="mobile_settings_video_ends_close">Плеерди жабуу</string>
+    <string name="mobile_settings_background">Колдонмодон чыкканда</string>
+    <string name="mobile_settings_background_pip_desc">Видео кичинекей терезеде ойной берет</string>
+    <string name="mobile_settings_background_audio_desc">Үн гана ойной берет</string>
+    <string name="mobile_settings_remember_speed">Ойнотуу ылдамдыгын эстеп калуу</string>
+    <string name="mobile_settings_remember_speed_channel">Ар бир канал үчүн</string>
+    <string name="mobile_settings_remember_speed_video">Ар бир видео үчүн</string>
+    <string name="mobile_settings_remember_speed_all">Бардык видеолор үчүн бирдей</string>
+    <string name="mobile_settings_remember_speed_none">Эстебөө</string>
+    <string name="mobile_settings_remember_speed_none_desc">MeeTube ар бир ишке киргенде ылдамдык 1× болуп башталат</string>
+    <string name="mobile_settings_speed_list">«Кошумча ылдамдыктар» бөлүмүндөгү ылдамдыктар</string>
+    <string name="mobile_settings_speed_list_basic">Кыска тизме</string>
+    <string name="mobile_settings_speed_list_fine">Так кадамдар</string>
+    <string name="mobile_settings_speed_list_finest">Ар бир 0,05× кадам</string>
+    <string name="mobile_settings_natural_voice">Башка ылдамдыктарда табигый үн</string>
+    <string name="mobile_settings_natural_voice_summary">Ылдамдатканда же жайлатканда үндүн кадимки бийиктигин сактайт</string>
 </resources>
