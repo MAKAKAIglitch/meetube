@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Pleýeri aşak süýşürmek wideony kiçeltmegiň ýerine ýapýar</string>
     <string name="mobile_settings_auto_pip">Suratyň içindäki surat</string>
     <string name="mobile_settings_auto_pip_summary">Wideo görkezilýän wagty programmadan çykanyňyzda, ol kiçi penjire öwrülýär. Öçük bolsa, fonda diňe ses işleýär</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Wideo gutaranda</string>
+    <string name="mobile_settings_video_ends_next">Indiki wideony oýnat</string>
+    <string name="mobile_settings_video_ends_repeat">Wideony gaýtala</string>
+    <string name="mobile_settings_video_ends_shuffle">Sanawy garyşdyr</string>
+    <string name="mobile_settings_video_ends_list">Sanawy tamamla, soňra duruz</string>
+    <string name="mobile_settings_video_ends_reverse">Sanawy ters tertipde oýnat</string>
+    <string name="mobile_settings_video_ends_pause">Duruz</string>
+    <string name="mobile_settings_video_ends_close">Pleýeri ýap</string>
+    <string name="mobile_settings_background">Programmadan çykanyňyzda</string>
+    <string name="mobile_settings_background_pip_desc">Wideo kiçi penjirede görkezilmegini dowam etdirýär</string>
+    <string name="mobile_settings_background_audio_desc">Diňe ses dowam edýär</string>
+    <string name="mobile_settings_remember_speed">Oýnatmagyň tizligini ýatda sakla</string>
+    <string name="mobile_settings_remember_speed_channel">Her kanal üçin</string>
+    <string name="mobile_settings_remember_speed_video">Her wideo üçin</string>
+    <string name="mobile_settings_remember_speed_all">Ähli wideolar üçin birmeňzeş</string>
+    <string name="mobile_settings_remember_speed_none">Ýatda saklama</string>
+    <string name="mobile_settings_remember_speed_none_desc">MeeTube her gezek açylanda tizlik 1× bolýar</string>
+    <string name="mobile_settings_speed_list">«Goşmaça tizlikler» bölümindäki tizlikler</string>
+    <string name="mobile_settings_speed_list_basic">Gysga sanaw</string>
+    <string name="mobile_settings_speed_list_fine">Takyk ädimler</string>
+    <string name="mobile_settings_speed_list_finest">Her 0,05× ädim</string>
+    <string name="mobile_settings_natural_voice">Beýleki tizliklerde tebigy ses</string>
+    <string name="mobile_settings_natural_voice_summary">Tizligi ýokarlandyranyňyzda ýa-da peseldeniňizde sesiň adaty äheňini saklaýar</string>
 </resources>
