@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">Հեղինակ՝ %1$s</string>
+    <string name="mobile_playlist_type">Երգացանկ</string>
+    <string name="mobile_playlist_download_all">Ներբեռնել բոլորը</string>
+    <string name="mobile_playlist_download_confirm">Ներբեռնե՞լ %1$d տեսանյութ</string>
+    <string name="mobile_playlist_download_quality">Բոլոր տեսանյութերի ներբեռնման որակը</string>
+    <string name="mobile_playlist_download_best">Լավագույն հասանելի</string>
+    <string name="mobile_playlist_download_queued">Հերթում ավելացվել է %1$d տեսանյութ</string>
+    <string name="mobile_playlist_download_skipped">Հերթում ավելացվել է %1$d տեսանյութ։ Անհասանելի է՝ %2$d։</string>
+    <string name="mobile_playlist_load_failed">Չհաջողվեց բեռնել ամբողջ երգացանկը։ Փորձեք կրկին։</string>
+    <string name="mobile_playlist_sort">Դասավորել ըստ</string>
+    <string name="mobile_playlist_sort_manual">Ձեռքով</string>
+    <string name="mobile_playlist_sort_newest">Հրապարակման ամսաթվով (նորերը սկզբում)</string>
+    <string name="mobile_playlist_sort_oldest">Հրապարակման ամսաթվով (հները սկզբում)</string>
+    <string name="mobile_playlist_sort_popular">Ամենահայտնի</string>
+    <string name="mobile_playlist_filter_all">Բոլորը</string>
+    <string name="mobile_playlist_filter_videos">Տեսանյութեր</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Ընտրել տեսանյութերը</string>
+    <string name="mobile_playlist_select_all">Ընտրել բոլորը</string>
+    <string name="mobile_playlist_selected">Ընտրված է՝ %1$d</string>
+    <string name="mobile_playlist_download_selected">Ներբեռնել</string>
+    <string name="mobile_playlist_add_videos">Ավելացնել տեսանյութեր</string>
+    <string name="mobile_playlist_add_hint">Որոնեք՝ %1$s-ին ավելացնելու համար</string>
+    <string name="mobile_playlist_loading">Երգացանկը բեռնվում է</string>
+</resources>
