@@ -151,4 +151,20 @@
     <string name="mobile_settings_search_place_bottom">На нижній панелі</string>
     <string name="mobile_settings_search_place_top">На верхній панелі</string>
     <string name="mobile_settings_tabs_note">Щоб перемістити, перейменувати або приховати вкладку чи рядок у розділі «Ви», натисніть і утримуйте його.</string>
+
+    <!-- Hidden video and feed translations -->
+    <string name="mobile_settings_hidden">Приховані відео</string>
+    <string name="mobile_settings_hidden_none">Нічого не приховано</string>
+    <string name="mobile_settings_hidden_watched">Переглянуті відео</string>
+    <string name="mobile_settings_hidden_watched_home">Приховувати переглянуті відео на головній</string>
+    <string name="mobile_settings_hidden_watched_subscriptions">Приховувати переглянуті відео в підписках</string>
+    <string name="mobile_settings_hidden_watched_later">Видаляти переглянуті відео зі списку «Переглянути пізніше»</string>
+    <string name="mobile_settings_hidden_watched_later_summary">Видаляє відео зі списку «Переглянути пізніше» після перегляду</string>
+    <string name="mobile_settings_hidden_watched_note">Використовується історія переглядів YouTube, тому потрібно ввійти в обліковий запис.</string>
+    <string name="mobile_settings_hidden_upcoming">Майбутні прем'єри та трансляції</string>
+    <string name="mobile_settings_hidden_upcoming_home">Приховувати на головній</string>
+    <string name="mobile_settings_hidden_upcoming_subscriptions">Приховувати в підписках</string>
+    <string name="mobile_settings_hidden_upcoming_channels">Приховувати на сторінках каналів</string>
+    <string name="mobile_settings_hidden_live">Прямі трансляції</string>
+    <string name="mobile_settings_hidden_live_subscriptions">Приховувати прямі трансляції в підписках</string>
 </resources>
