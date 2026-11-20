@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Shisha jilosi yorliq tomon siljiydi, panel esa biroz tebranadi. Sekin telefonlarda siz yoqmaguningizcha o‘chiq bo‘ladi.</string>
     <string name="mobile_settings_tabs_reset">Panelni standart holatga qaytarish</string>
     <string name="mobile_settings_tabs_reset_summary">Bosh sahifa, Shorts, Qidiruv, Obunalar, Siz</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Video joylashuvi</string>
+    <string name="mobile_settings_video_layout_cards">Kartalar</string>
+    <string name="mobile_settings_video_layout_cards_desc">Har bir video uchun katta miniatyura</string>
+    <string name="mobile_settings_video_layout_list">Ro‘yxat</string>
+    <string name="mobile_settings_video_layout_list_desc">Sarlavha yonida kichik miniatyura, ekranda ko‘proq video</string>
+    <string name="mobile_settings_screen_off">Ekran o‘chiq bo‘lsa ham ijroni davom ettirish</string>
+    <string name="mobile_settings_screen_off_on">Ruxsat berilgan: quvvat tejash ovozni to‘xtatmaydi</string>
+    <string name="mobile_settings_screen_off_off">Quvvat tejash ovozni to‘xtatishi mumkin. MeeTube’ga fonda ishlashga ruxsat berish uchun bosing</string>
+    <string name="mobile_settings_seek_thumb">Qidiruv paneli surilgichi</string>
+    <string name="mobile_settings_seek_thumb_dot">Nuqta</string>
+    <string name="mobile_settings_seek_thumb_picture">O‘z rasmingiz</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Telefoningizdan rasm tanlang; GIF harakatlanadi</string>
+    <string name="mobile_settings_seek_thumb_failed">Bu rasmdan foydalanib bo‘lmadi (ko‘pi bilan 5 MB)</string>
+    <string name="mobile_settings_mini_type">Mini-pleyer turi</string>
+    <string name="mobile_settings_mini_type_default">Standart</string>
+    <string name="mobile_settings_mini_type_default_desc">Suzuvchi karta. O‘lchamini o‘zgartirish uchun barmoqlaringizni yaqinlashtiring yoki uzoqlashtiring</string>
+    <string name="mobile_settings_mini_type_minimal">Minimal</string>
+    <string name="mobile_settings_mini_type_minimal2">Minimal 2</string>
+    <string name="mobile_settings_mini_type_disabled">O‘chirilgan</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Pleyerni pastga surish videoni kichraytirish o‘rniga yopadi</string>
+    <string name="mobile_settings_auto_pip">Rasm ichida rasm</string>
+    <string name="mobile_settings_auto_pip_summary">Video ijro etilayotganda ilovadan chiqsangiz, u kichik oynaga kichrayadi. O‘chirilsa, fonda faqat ovoz ijro etiladi</string>
 </resources>
