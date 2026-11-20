@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Glisarea playerului în jos închide videoclipul în loc să îl micșoreze</string>
     <string name="mobile_settings_auto_pip">Imagine în imagine</string>
     <string name="mobile_settings_auto_pip_summary">Când ieși din aplicație în timp ce redai un videoclip, acesta se micșorează într-o fereastră. Când opțiunea este dezactivată, doar sunetul continuă în fundal</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">La finalul videoclipului</string>
+    <string name="mobile_settings_video_ends_next">Redă următorul videoclip</string>
+    <string name="mobile_settings_video_ends_repeat">Repetă videoclipul</string>
+    <string name="mobile_settings_video_ends_shuffle">Amestecă playlistul</string>
+    <string name="mobile_settings_video_ends_list">Redă playlistul până la final, apoi oprește</string>
+    <string name="mobile_settings_video_ends_reverse">Redă playlistul în ordine inversă</string>
+    <string name="mobile_settings_video_ends_pause">Oprește</string>
+    <string name="mobile_settings_video_ends_close">Închide playerul</string>
+    <string name="mobile_settings_background">Când ieși din aplicație</string>
+    <string name="mobile_settings_background_pip_desc">Videoclipul continuă să fie redat într-o fereastră mică</string>
+    <string name="mobile_settings_background_audio_desc">Doar sunetul continuă să fie redat</string>
+    <string name="mobile_settings_remember_speed">Memorează viteza de redare</string>
+    <string name="mobile_settings_remember_speed_channel">Pentru fiecare canal</string>
+    <string name="mobile_settings_remember_speed_video">Pentru fiecare videoclip</string>
+    <string name="mobile_settings_remember_speed_all">Aceeași pentru toate videoclipurile</string>
+    <string name="mobile_settings_remember_speed_none">Nu memora</string>
+    <string name="mobile_settings_remember_speed_none_desc">Viteza revine la 1× de fiecare dată când pornește MeeTube</string>
+    <string name="mobile_settings_speed_list">Vitezele din secțiunea „Mai multe viteze”</string>
+    <string name="mobile_settings_speed_list_basic">Listă scurtă</string>
+    <string name="mobile_settings_speed_list_fine">Pași preciși</string>
+    <string name="mobile_settings_speed_list_finest">La fiecare pas de 0,05×</string>
+    <string name="mobile_settings_natural_voice">Voce naturală la alte viteze</string>
+    <string name="mobile_settings_natural_voice_summary">Păstrează tonalitatea normală a vocii când mărești sau reduci viteza</string>
 </resources>
