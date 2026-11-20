@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">Муаллиф: %1$s</string>
+    <string name="mobile_playlist_type">Рӯйхати навозиш</string>
+    <string name="mobile_playlist_download_all">Ҳамаро боргирӣ кардан</string>
+    <string name="mobile_playlist_download_confirm">%1$d видеоро боргирӣ мекунед?</string>
+    <string name="mobile_playlist_download_quality">Сифати боргирӣ барои ҳамаи видеоҳо</string>
+    <string name="mobile_playlist_download_best">Беҳтарин сифати дастрас</string>
+    <string name="mobile_playlist_download_queued">%1$d видео ба навбат илова шуд</string>
+    <string name="mobile_playlist_download_skipped">%1$d видео ба навбат илова шуд. %2$d видео дастрас нест.</string>
+    <string name="mobile_playlist_load_failed">Тамоми рӯйхати навозиш боргирӣ нашуд. Бори дигар кӯшиш кунед.</string>
+    <string name="mobile_playlist_sort">Ҷудо кардан аз рӯи</string>
+    <string name="mobile_playlist_sort_manual">Дастӣ</string>
+    <string name="mobile_playlist_sort_newest">Санаи нашр (навтарин аввал)</string>
+    <string name="mobile_playlist_sort_oldest">Санаи нашр (қадимтарин аввал)</string>
+    <string name="mobile_playlist_sort_popular">Машҳуртарин</string>
+    <string name="mobile_playlist_filter_all">Ҳама</string>
+    <string name="mobile_playlist_filter_videos">Видеоҳо</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Интихоби видеоҳо</string>
+    <string name="mobile_playlist_select_all">Интихоби ҳама</string>
+    <string name="mobile_playlist_selected">%1$d интихоб шуд</string>
+    <string name="mobile_playlist_download_selected">Боргирӣ кардан</string>
+    <string name="mobile_playlist_add_videos">Илова кардани видеоҳо</string>
+    <string name="mobile_playlist_add_hint">Барои илова кардан ба %1$s ҷустуҷӯ кунед</string>
+    <string name="mobile_playlist_loading">Рӯйхати навозиш бор карда мешавад</string>
+</resources>
