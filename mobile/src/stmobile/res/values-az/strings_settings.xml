@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Daha yaxşı miniatürlər</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Miniatürləri icmanın seçdiyi kadrlarla əvəz edir</string>
     <string name="mobile_settings_dearrow_note">DeArrow siyahılarda gördüyünüz videoların ID-lərini alır.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Bu seçimlər əksər istifadəçilərə lazım olmur. MeeTube-un videonu necə ötürməsinə və bağlantı qurmasına təsir edir.</string>
+    <string name="mobile_settings_streaming">Axınla oxutma</string>
+    <string name="mobile_settings_buffer">Bufer</string>
+    <string name="mobile_settings_buffer_low_desc">Təxminən 25 saniyəlik ehtiyat. Yaddaşı ən az istifadə edir</string>
+    <string name="mobile_settings_buffer_med_desc">Təxminən 50 saniyəlik ehtiyat</string>
+    <string name="mobile_settings_buffer_high_desc">75 saniyəyədək ehtiyat</string>
+    <string name="mobile_settings_buffer_highest_desc">2 dəqiqəyədək ehtiyat. Yaddaşı ən çox istifadə edir</string>
+    <string name="mobile_settings_stall_quality">Daim buferlənəndə keyfiyyəti azalt</string>
+    <string name="mobile_settings_stall_quality_summary">Təxminən 20 saniyə buferlənmədən sonra keyfiyyəti bir pillə azaldır. VPN ilə bu seçimi söndürmək kömək edə bilər</string>
+    <string name="mobile_settings_high_bitrate">Yüksək bitreytli formatlar</string>
+    <string name="mobile_settings_high_bitrate_summary">Video dəstəkləyirsə, YouTube-un yüksək bitreytli 1080p axınlarını əlavə edir. Əlavə sorğu tələb olunur</string>
+    <string name="mobile_settings_sabr">SABR ilə yayım (eksperimental)</string>
+    <string name="mobile_settings_sabr_summary">YouTube-un yeni yayım protokolu növbəti videodan tətbiq olunur. İşləmədiyi video adi qaydada oxudulur</string>
+    <string name="mobile_settings_legacy_codecs">Tək fayllı axınlar</string>
+    <string name="mobile_settings_legacy_codecs_summary">Köhnə, adətən 360p olan tək fayllı axını keyfiyyəti dəyişmədən oxudur. Yalnız çox zəif telefonlar üçündür</string>
+    <string name="mobile_settings_live">Canlı yayımlar</string>
+    <string name="mobile_settings_live_edge">Canlı efir nöqtəsindən başla</string>
+    <string name="mobile_settings_live_edge_summary">Yayımı 15 saniyəlik ehtiyat olmadan mümkün qədər canlı yayıma yaxın göstərir</string>
+    <string name="mobile_settings_live_hls">Canlı yayımları HLS ilə oxut</string>
+    <string name="mobile_settings_live_hls_summary">Zəif telefonlarda daha rəvan işləyə bilər. Geri sarımaq mümkün deyil və keyfiyyət 1080p ilə məhdudlaşır</string>
 </resources>
