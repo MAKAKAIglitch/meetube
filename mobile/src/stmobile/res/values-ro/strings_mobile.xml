@@ -445,4 +445,20 @@
     <string name="mobile_subs_all_channels">Toate abonamentele</string>
     <string name="mobile_you_watch_later">Vezi mai târziu</string>
     <string name="mobile_you_liked_videos">Videoclipuri apreciate</string>
+    <string name="mobile_settings_card_style">Stilul cardurilor</string>
+    <string name="mobile_you_about">Despre MeeTube ›</string>
+    <string name="mobile_card_style_plain">Minimal</string>
+    <string name="mobile_card_style_plain_desc">Sticlă discretă pe fundal negru, cu margine și fără accent</string>
+    <string name="mobile_card_style_minimal">MeeTube minimal</string>
+    <string name="mobile_card_style_minimal_desc">Lumină de accent discretă sus-dreapta și margine caldă jos-dreapta</string>
+    <string name="mobile_card_style_ember">Jar în colț</string>
+    <string name="mobile_card_style_ember_desc">Fundal aproape negru, cu o lumină de accent în colțul din dreapta jos</string>
+    <string name="mobile_card_style_frosted">Sticlă mată</string>
+    <string name="mobile_card_style_frosted_desc">Sticlă lăptoasă peste o lumină de accent estompată</string>
+    <string name="mobile_card_style_mist">Ceață de accent</string>
+    <string name="mobile_card_style_mist_desc">Lumină de accent discretă care apare treptat din stânga</string>
+    <string name="mobile_card_style_rim">Margine luminoasă</string>
+    <string name="mobile_card_style_rim_desc">Lumina de accent doar de-a lungul marginii de sus</string>
+    <string name="mobile_card_style_dual">Lumină dublă</string>
+    <string name="mobile_card_style_dual_desc">Lumină de accent jos și reflexie albă sus</string>
 </resources>
