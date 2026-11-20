@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="mobile_settings_restart_needed">Өзгөртүүнү колдонуу үчүн MeeTube'ну кайра иштетиңиз</string>
+    <string name="mobile_settings_restart_needed">Өзгөртүүнү колдонуу үчүн MeeTube\'ну кайра иштетиңиз</string>
     <string name="mobile_settings_restart">Кайра иштетүү</string>
     <string name="mobile_settings_off">Өчүк</string>
     <string name="mobile_settings_more">Дагы</string>
