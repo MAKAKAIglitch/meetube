@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Під час паузи або закриття плеєра черга також зупиняється</string>
     <string name="mobile_settings_chapter_popup">Спливні назви розділів</string>
     <string name="mobile_settings_chapter_popup_summary">Показує назву кожного розділу на початку. Торкніться, щоб перейти до наступного</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Мережа</string>
+    <string name="mobile_settings_proxy">Вебпроксі</string>
+    <string name="mobile_settings_proxy_summary">Спрямовує трафік MeeTube через HTTP- або SOCKS-проксі</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Спочатку IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Типовий режим. Допомагає в мережах, де IPv6 працює з помилками</string>
+    <string name="mobile_settings_dns_system">DNS телефона</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Вбудована бібліотека безпеки для з’єднань. Може покращити сумісність із деякими з’єднаннями HTTPS/TLS.</string>
+    <string name="mobile_settings_multi_profiles">Окремі налаштування для кожного облікового запису</string>
+    <string name="mobile_settings_multi_profiles_summary">Кожен обліковий запис має власні налаштування, починаючи зі стандартних значень</string>
 </resources>
