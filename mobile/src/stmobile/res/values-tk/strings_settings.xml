@@ -338,4 +338,24 @@
     <string name="mobile_settings_speed_list_finest">Her 0,05× ädim</string>
     <string name="mobile_settings_natural_voice">Beýleki tizliklerde tebigy ses</string>
     <string name="mobile_settings_natural_voice_summary">Tizligi ýokarlandyranyňyzda ýa-da peseldeniňizde sesiň adaty äheňini saklaýar</string>
+
+    <!-- Sleep timer, resume and playback extras translations -->
+    <string name="mobile_settings_sleep_timer">Uky taýmeri</string>
+    <string name="mobile_settings_sleep_timer_summary">Wideo açylandan %1$s soň oýnatmagy duruzýar</string>
+    <string name="mobile_settings_audio_focus">Başga sesler çykanda sägindir</string>
+    <string name="mobile_settings_audio_focus_summary">Jaňlar we beýleki programmalaryň sesi çykanda sägindirýär. Indiki açyljak wideo üçin ulanylýar</string>
+    <string name="mobile_settings_resume">Dowam et</string>
+    <string name="mobile_settings_resume_short">Gysga wideolary dowam et</string>
+    <string name="mobile_settings_resume_short_summary">Bu açylmasa, 6 minutdan gysga wideolar başyndan başlanýar</string>
+    <string name="mobile_settings_resume_live">Göni ýaýlymlary dowam et</string>
+    <string name="mobile_settings_resume_live_summary">Göni ýaýlymy häzirki pursatdan däl-de, saklan ýeriňizden dowam etdirýär</string>
+    <string name="mobile_settings_watch_page">Wideonyň aşagynda</string>
+    <string name="mobile_settings_ambient">Atmosfera tertibi</string>
+    <string name="mobile_settings_ambient_summary">Wideonyň reňkleri pleýeriň aşagynda öwüşgin saçýar we dik doly ekran tertibindäki gara zolaklary doldurýar</string>
+    <string name="mobile_settings_hide_related">«Indiki» bölümini gizle</string>
+    <string name="mobile_settings_hide_related_summary">Pleýeriň aşagyndaky degişli wideolary görkezmeýär</string>
+    <string name="mobile_settings_dislikes">Dislaýklaryň sanyny görkez</string>
+    <string name="mobile_settings_dislikes_summary">Maglumat wideonyň ID-sini alýan Return YouTube Dislike hyzmatyndan alynýar</string>
+    <string name="mobile_settings_paid_promotion">Tölegli mahabat barada habar ber</string>
+    <string name="mobile_settings_paid_promotion_summary">Wideo tölegli mahabatyň bardygyny aýdanda gysga habar görkezýär</string>
 </resources>
