@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Даныя атрымлівае ад Return YouTube Dislike, які атрымлівае ідэнтыфікатар відэа</string>
     <string name="mobile_settings_paid_promotion">Паведамляць пра платную рэкламу</string>
     <string name="mobile_settings_paid_promotion_summary">Паказвае кароткае паведамленне, калі ў відэа пазначана платная рэклама</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Якасць, з якой пачынаюць прайгравацца відэа. Для асобнага відэа яе можна змяніць у наладах прайгравальніка.</string>
+    <string name="mobile_settings_default_quality">Якасць па змаўчанні</string>
+    <string name="mobile_settings_quality_wifi">Па Wi-Fi</string>
+    <string name="mobile_settings_quality_mobile">Па мабільнай сетцы</string>
+    <string name="mobile_settings_quality_same">Як па Wi-Fi</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Мабільная сетка: %2$s</string>
+    <string name="mobile_settings_quality_auto">Аўтаматычна (да %1$dp)</string>
+    <string name="mobile_settings_quality_auto_desc">Рэкамендуецца. Найлепшая якасць, якую дазваляе злучэнне</string>
+    <string name="mobile_settings_quality_up_to">Да %1$s</string>
+    <string name="mobile_settings_quality_more_data">Выкарыстоўвае больш трафіку</string>
+    <string name="mobile_settings_quality_less_data">Выкарыстоўвае менш трафіку</string>
+    <string name="mobile_settings_quality_data_saver">Эканомія трафіку</string>
+    <string name="mobile_settings_hdr">Відэа HDR</string>
+    <string name="mobile_settings_hdr_summary">Прайгравае HDR-відэа ў HDR з больш яркімі і насычанымі колерамі. Выкарыстоўвае больш трафіку. Ужываецца да наступнага адкрытага відэа</string>
+    <string name="mobile_settings_loudness">Выраўноўваць гучнасць</string>
+    <string name="mobile_settings_loudness_summary">Зніжае гучнасць занадта гучных відэа да звычайнага ўзроўню YouTube</string>
+    <string name="mobile_settings_player_volume">Гучнасць прайгравальніка</string>
+    <string name="mobile_settings_quality_data_saver_note">Калі ў Android уключана эканомія трафіку, MeeTube памяншае папярэднюю загрузку ў мабільнай сетцы.</string>
 </resources>
