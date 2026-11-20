@@ -407,4 +407,26 @@
     <string name="mobile_settings_dearrow_thumbnails">Тасвирҳои пешнамоиши беҳтар</string>
     <string name="mobile_settings_dearrow_thumbnails_summary">Тасвирҳои пешнамоишро бо кадрҳои интихобкардаи ҷомеа иваз мекунад</string>
     <string name="mobile_settings_dearrow_note">DeArrow ID-и видеоҳоеро, ки дар рӯйхат мебинед, мегирад.</string>
+
+    <!-- Streaming, buffer and live playback translations -->
+    <string name="mobile_settings_advanced_note">Ин танзимот ба аксари одамон лозим нест. Онҳо тарзи пахши видео ва пайвастшавии MeeTube-ро тағйир медиҳанд.</string>
+    <string name="mobile_settings_streaming">Пахши ҷараёнӣ</string>
+    <string name="mobile_settings_buffer">Буфер</string>
+    <string name="mobile_settings_buffer_low_desc">Тақрибан 25 сония пеш. Хотираро камтар истифода мебарад</string>
+    <string name="mobile_settings_buffer_med_desc">Тақрибан 50 сония пеш</string>
+    <string name="mobile_settings_buffer_high_desc">То 75 сония пеш</string>
+    <string name="mobile_settings_buffer_highest_desc">То 2 дақиқа пеш. Хотираро бештар истифода мебарад</string>
+    <string name="mobile_settings_stall_quality">Ҳангоми буферкунии пайваста сифатро паст кардан</string>
+    <string name="mobile_settings_stall_quality_summary">Пас аз тақрибан 20 сония буферкунӣ сифатро як зина паст мекунад. Хомӯш кардани он ҳангоми истифодаи VPN метавонад кӯмак кунад.</string>
+    <string name="mobile_settings_high_bitrate">Форматҳои дорои битрейти баланд</string>
+    <string name="mobile_settings_high_bitrate_summary">Ҷараёнҳои 1080p-и YouTube-ро бо битрейти баланд илова мекунад, агар видео онҳоро дастгирӣ кунад. Дархости иловагӣ лозим аст</string>
+    <string name="mobile_settings_sabr">Пахш бо SABR (озмоишӣ)</string>
+    <string name="mobile_settings_sabr_summary">Протоколи нави пахши YouTube аз видеои навбатӣ истифода мешавад. Агар кор накунад, видео бо усули муқаррарӣ навохта мешавад.</string>
+    <string name="mobile_settings_legacy_codecs">Ҷараёнҳои якфайлӣ</string>
+    <string name="mobile_settings_legacy_codecs_summary">Ҷараёни кӯҳнаи якфайлиро, одатан бо сифати 360p, бе тағйири сифат навохта мешавад. Танҳо барои телефонҳои хеле суст.</string>
+    <string name="mobile_settings_live">Пахшҳои мустақим</string>
+    <string name="mobile_settings_live_edge">Аз лаҳзаи ҷории эфир оғоз кардан</string>
+    <string name="mobile_settings_live_edge_summary">Пахшро то ҳадди имкон ба вақти зинда наздик, бе таъхири 15-сонияӣ намоиш медиҳад</string>
+    <string name="mobile_settings_live_hls">Пахшҳои мустақимро тавассути HLS навохтан</string>
+    <string name="mobile_settings_live_hls_summary">Дар телефонҳои суст метавонад ҳамвортар кор кунад. Ба қафо баргардондан имкон надорад ва сифат бо 1080p маҳдуд аст</string>
 </resources>
