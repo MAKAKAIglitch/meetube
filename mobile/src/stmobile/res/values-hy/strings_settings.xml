@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Թաքցնել ալիքների էջերում</string>
     <string name="mobile_settings_hidden_live">Ուղիղ հեռարձակումներ</string>
     <string name="mobile_settings_hidden_live_subscriptions">Թաքցնել ուղիղ հեռարձակումները բաժանորդագրություններում</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Տեսանյութի ընտրացանկ</string>
+    <string name="mobile_settings_video_menu_summary">Ընտրեք, թե ինչ ցուցադրել ⋮ ընտրացանկում</string>
+    <string name="mobile_settings_video_menu_note">Տեսանյութի ⋮ ընտրացանկի և ներդիրը սեղմած պահելիս բացվող ընտրացանկի տարրերը։ Յուրաքանչյուր տարր ցուցադրվում է միայն համապատասխան դեպքում։</string>
+    <string name="mobile_settings_menu_play">Նվագարկում</string>
+    <string name="mobile_settings_menu_queue_add">Ավելացնել հերթին</string>
+    <string name="mobile_settings_menu_save">Պահպանում</string>
+    <string name="mobile_settings_menu_recent_playlist">Պահել վերջին օգտագործված ցանկում</string>
+    <string name="mobile_settings_menu_save_playlist">Պահել կամ հեռացնել ցանկը</string>
+    <string name="mobile_settings_menu_channel">Ալիք և առաջարկություններ</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Թաքցնել բաժանորդագրություններից</string>
+    <string name="mobile_settings_menu_share">Կիսվել և մանրամասներ</string>
+    <string name="mobile_settings_menu_playlists">Նվագացանկեր</string>
+    <string name="mobile_settings_menu_tabs">Ներդիրի ընտրացանկ</string>
+    <string name="mobile_settings_menu_move_section">Տեղափոխել վերև կամ ներքև</string>
+    <string name="mobile_settings_menu_usual_order">Սովորական հերթականություն</string>
+    <string name="mobile_settings_menu_usual_order_summary">Վերադարձնել ընտրացանկի տարրերը իրենց սովորական դիրքերին</string>
+    <string name="mobile_settings_menu_usual_order_done">Ընտրացանկի հերթականությունը վերականգնվել է</string>
+    <string name="mobile_settings_thumbnails">Մանրապատկերներ</string>
+    <string name="mobile_settings_thumbnails_default">Տեսանյութը վերբեռնողի ընտրած մանրապատկերը</string>
+    <string name="mobile_settings_thumbnails_start">Կադր տեսանյութի սկզբից</string>
+    <string name="mobile_settings_thumbnails_middle">Կադր տեսանյութի միջնամասից</string>
+    <string name="mobile_settings_thumbnails_end">Կադր տեսանյութի վերջից</string>
+    <string name="mobile_settings_original_titles">Բնօրինակ վերնագրեր</string>
+    <string name="mobile_settings_original_titles_summary">Ցուցադրել վերնագրերը բնօրինակ լեզվով, ոչ թե YouTube-ի թարգմանությամբ</string>
 </resources>
