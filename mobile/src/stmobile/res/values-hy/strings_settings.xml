@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Չափազանց բարձր ձայնով տեսանյութերի ձայնը նվազեցնում է մինչև YouTube-ի սովորական մակարդակը</string>
     <string name="mobile_settings_player_volume">Նվագարկչի ձայնի բարձրություն</string>
     <string name="mobile_settings_quality_data_saver_note">Երբ Android-ում միացված է տվյալների խնայողությունը, MeeTube-ը բջջային ցանցում ավելի քիչ տվյալ է նախաբեռնում։</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Ոճ</string>
+    <string name="mobile_settings_caption_size">Չափ</string>
+    <string name="mobile_settings_caption_position">Հեռավորությունը ներքևի եզրից</string>
+    <string name="mobile_settings_caption_per_channel">Հիշել ենթագրերը յուրաքանչյուր ալիքի համար</string>
+    <string name="mobile_settings_caption_per_channel_summary">Միացված ենթագրերը կպահպանվեն միայն տվյալ ալիքի համար։ Անջատելու դեպքում վերջին ընտրված լեզուն կօգտագործվի բոլոր տեսանյութերի համար։</string>
+    <string name="mobile_settings_caption_system">Android-ի ենթագրերի կարգավորումներ</string>
+    <string name="mobile_settings_caption_system_summary">Օգտագործվում է «Համակարգային» ոճում</string>
+    <string name="mobile_settings_captions_note">Ենթագրերը միացնելու կամ դրանց լեզուն ընտրելու համար օգտագործեք նվագարկչի CC կոճակը։</string>
 </resources>
