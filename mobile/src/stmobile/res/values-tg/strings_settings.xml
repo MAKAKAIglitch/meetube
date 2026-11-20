@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Ба поён кашидани плеер видеоеро мебандад, на ин ки онро хурд кунад</string>
     <string name="mobile_settings_auto_pip">Расм дар дохили расм</string>
     <string name="mobile_settings_auto_pip_summary">Ҳангоми навозиши видео аз барнома бароед, он ба равзанаи хурд табдил меёбад. Агар хомӯш бошад, дар замина танҳо садо мемонад</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Ҳангоми анҷоми видео</string>
+    <string name="mobile_settings_video_ends_next">Видеои навбатиро навохтан</string>
+    <string name="mobile_settings_video_ends_repeat">Видеоро такрор кардан</string>
+    <string name="mobile_settings_video_ends_shuffle">Тартиби рӯйхати навозишро омехтан</string>
+    <string name="mobile_settings_video_ends_list">Рӯйхати навозишро то охир тамошо карда, қатъ кардан</string>
+    <string name="mobile_settings_video_ends_reverse">Рӯйхати навозишро бо тартиби баръакс навохтан</string>
+    <string name="mobile_settings_video_ends_pause">Қатъ кардан</string>
+    <string name="mobile_settings_video_ends_close">Плеерро пӯшидан</string>
+    <string name="mobile_settings_background">Ҳангоми баромадан аз барнома</string>
+    <string name="mobile_settings_background_pip_desc">Видео дар равзанаи хурд навохта мешавад</string>
+    <string name="mobile_settings_background_audio_desc">Танҳо садо навохта мешавад</string>
+    <string name="mobile_settings_remember_speed">Суръати навозишро дар хотир нигоҳ доштан</string>
+    <string name="mobile_settings_remember_speed_channel">Барои ҳар канал</string>
+    <string name="mobile_settings_remember_speed_video">Барои ҳар видео</string>
+    <string name="mobile_settings_remember_speed_all">Барои ҳамаи видеоҳо якхела</string>
+    <string name="mobile_settings_remember_speed_none">Дар хотир нигоҳ надоштан</string>
+    <string name="mobile_settings_remember_speed_none_desc">Ҳангоми ҳар оғози MeeTube суръат ба 1× бармегардад</string>
+    <string name="mobile_settings_speed_list">Суръатҳо дар бахши «Суръатҳои бештар»</string>
+    <string name="mobile_settings_speed_list_basic">Рӯйхати кӯтоҳ</string>
+    <string name="mobile_settings_speed_list_fine">Қадамҳои дақиқ</string>
+    <string name="mobile_settings_speed_list_finest">Ҳар қадам 0,05×</string>
+    <string name="mobile_settings_natural_voice">Овози табиӣ дар суръатҳои дигар</string>
+    <string name="mobile_settings_natural_voice_summary">Ҳангоми тез ё суст кардани навозиш баландии муқаррарии овозро нигоҳ медорад</string>
 </resources>
