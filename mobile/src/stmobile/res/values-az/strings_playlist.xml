@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">Müəllif: %1$s</string>
+    <string name="mobile_playlist_type">Pleylist</string>
+    <string name="mobile_playlist_download_all">Hamısını yüklə</string>
+    <string name="mobile_playlist_download_confirm">%1$d video yüklənsin?</string>
+    <string name="mobile_playlist_download_quality">Bütün videolar üçün yükləmə keyfiyyəti</string>
+    <string name="mobile_playlist_download_best">Ən yaxşı mövcud</string>
+    <string name="mobile_playlist_download_queued">%1$d video növbəyə əlavə edildi</string>
+    <string name="mobile_playlist_download_skipped">%1$d video növbəyə əlavə edildi. %2$d video mövcud deyil.</string>
+    <string name="mobile_playlist_load_failed">Pleylistin hamısını yükləmək mümkün olmadı. Yenidən cəhd edin.</string>
+    <string name="mobile_playlist_sort">Çeşidlə</string>
+    <string name="mobile_playlist_sort_manual">Əl ilə</string>
+    <string name="mobile_playlist_sort_newest">Yayımlanma tarixi (ən yeni)</string>
+    <string name="mobile_playlist_sort_oldest">Yayımlanma tarixi (ən köhnə)</string>
+    <string name="mobile_playlist_sort_popular">Ən populyar</string>
+    <string name="mobile_playlist_filter_all">Hamısı</string>
+    <string name="mobile_playlist_filter_videos">Videolar</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Videoları seç</string>
+    <string name="mobile_playlist_select_all">Hamısını seç</string>
+    <string name="mobile_playlist_selected">%1$d seçildi</string>
+    <string name="mobile_playlist_download_selected">Yüklə</string>
+    <string name="mobile_playlist_add_videos">Video əlavə et</string>
+    <string name="mobile_playlist_add_hint">%1$s siyahısına əlavə etmək üçün axtar</string>
+    <string name="mobile_playlist_loading">Pleylist yüklənir</string>
+</resources>
