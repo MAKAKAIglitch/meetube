@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Initial Kazakh pass. Remaining MeeTune strings will be added in follow-up translation commits. -->
+    <string name="meetune_name" translatable="false">MeeTune</string>
+    <string name="meetune_try">MeeTune қолданып көру</string>
+    <string name="meetune_home">Басты бет</string>
+    <string name="meetune_explore">Шолу</string>
+    <string name="meetune_library">Кітапхана</string>
+    <string name="meetune_search">Іздеу</string>
+    <string name="meetune_search_hint">Әндер, альбомдар, орындаушылар</string>
+    <string name="meetune_back">Артқа</string>
+    <string name="meetune_settings">MeeTune параметрлері</string>
+    <string name="meetune_account">Аккаунт және параметрлер</string>
+    <string name="meetune_add_account">Аккаунт қосу</string>
+    <string name="meetune_to_meetube">MeeTube-ке оралу</string>
+    <string name="meetune_show_all">Барлығын көрсету</string>
+    <string name="meetune_more">Қосымша</string>
+    <string name="meetune_play">Ойнату</string>
+    <string name="meetune_play_pause">Ойнату немесе кідірту</string>
+    <string name="meetune_next">Келесі</string>
+    <string name="meetune_lyrics_finding">Ән мәтіні ізделуде</string>
+    <string name="meetune_lyrics_coming">Ән мәтіні жүктелуде…</string>
+    <string name="meetune_lyrics_none">Бұл әннің мәтіні жоқ</string>
+    <string name="meetune_share">Бөлісу</string>
+    <string name="meetune_shuffle">Араластыру</string>
+    <string name="meetune_mood">Көңіл күйіңізге сай музыка</string>
+    <string name="meetune_error">YouTube Music қызметіне қосылу мүмкін болмады.</string>
+    <string name="meetune_retry">Қайталап көру</string>
+    <string name="meetune_empty">Әзірге мұнда ештеңе жоқ.</string>
+    <string name="meetune_search_empty">Әндерді, альбомдарды және орындаушыларды іздеңіз.</string>
+    <string name="meetune_library_signed_out">Плейлистерді, альбомдарды және ұнатқан әндеріңізді көру үшін YouTube-қа кіріңіз.</string>
+    <string name="meetune_sign_in">Кіру</string>
+    <string name="meetune_liked">Ұнатқан музыка</string>
+    <string name="meetune_playlist">Ойнату тізімі</string>
+    <string name="meetune_explicit">Балағат сөздер бар</string>
+    <string name="meetune_clear">Тазалау</string>
+    <string name="meetune_filter_all">Барлығы</string>
+    <string name="meetune_filter_songs">Әндер</string>
+    <string name="meetune_filter_videos">Видеолар</string>
+    <string name="meetune_filter_albums">Альбомдар</string>
+    <string name="meetune_filter_artists">Орындаушылар</string>
+    <string name="meetune_filter_playlists">Ойнату тізімдері</string>
+    <string name="meetune_set_customize">Жекелеу</string>
+    <string name="meetune_set_customize_summary">«Сіз» бетіндегі жүрек, логотип жанындағы атау және іздеудің жарқылы</string>
+    <string name="meetune_set_brand_name">Логотип жанындағы MeeTune атауы</string>
+    <string name="meetune_set_brand_name_summary">Өшірулі болса, басты беттің бұрышында тек жүрек көрсетіледі</string>
+    <string name="meetune_link_meetube">MeeTube →</string>
+    <string name="meetune_link_meetune">MeeTune →</string>
+    <string name="meetune_home_hint">MeeTune-ге ауысу үшін белгішені түртіңіз</string>
+    <string name="meetune_meetube_hint">MeeTube-ке ауысу үшін белгішені түртіңіз</string>
+    <string name="meetune_cached">Кэштелген әндер</string>
+    <string name="meetune_cached_summary">Интернетсіз ойнату</string>
+    <string name="meetune_storage_songs">MeeTune әндері (кэште)</string>
+    <plurals name="meetune_storage_songs_value">
+        <item quantity="one">%1$s · %2$d ән</item>
+        <item quantity="other">%1$s · %2$d ән</item>
+    </plurals>
+    <string name="meetune_queue">Келесі кезекте</string>
+    <string name="meetune_lyrics">Ән мәтіні</string>
+    <string name="meetune_focus">Ән мәтініне назар аудару</string>
+    <string name="meetune_cast">Трансляция</string>
+    <string name="meetune_minimize">Кішірейту</string>
+    <string name="meetune_like">Ұнату</string>
+    <string name="meetune_this_phone">Осы телефон</string>
+    <string name="meetune_sort">Сұрыптау</string>
+    <string name="meetune_sort_added">Қосылған күні</string>
+    <string name="meetune_sort_default">Әдепкі рет</string>
+    <string name="meetune_sort_az">Әліпби бойынша (А-дан Я-ға)</string>
+    <string name="meetune_sort_za">Әліпби бойынша (Я-дан А-ға)</string>
+    <string name="meetune_find">Әндерден іздеу</string>
+    <string name="meetune_library_search">Кітапханадан іздеу</string>
+</resources>
