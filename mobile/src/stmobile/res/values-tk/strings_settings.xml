@@ -262,4 +262,31 @@
     <string name="mobile_loader_morphing_blob">Suwuk damja</string>
     <string name="mobile_loader_glass_orbit">Aýna orbitasy</string>
     <string name="mobile_app_icon_pending">Täze nyşanyň hemme ýerde ulanylmagy üçin MeeTube-y täzeden işe giriziň. Ýogsam, ol programmadan çykanyňyzdan soň üýtgär.</string>
+
+    <!-- Home layout and appearance settings translations -->
+    <string name="mobile_settings_home_layout_feed">Lenta</string>
+    <string name="mobile_settings_home_layout_feed_desc">YouTube ýaly wideolaryň bir sanawy</string>
+    <string name="mobile_settings_home_layout_rows">Setirler</string>
+    <string name="mobile_settings_home_layout_rows_desc">SmartTube ýaly her tema üçin aýratyn keseligine süýşürilýän setir</string>
+    <string name="mobile_settings_home_shorts">Baş sahypadaky Shorts</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube-daky ýaly keseligine süýşürilýän Shorts setiri</string>
+    <string name="mobile_settings_chip_style">Filtrleriň stili</string>
+    <string name="mobile_settings_chip_style_segment">Birleşdirilen panel</string>
+    <string name="mobile_settings_chip_style_segment_desc">Baş sahypadaky tema filtrleri we gözleg filtrleri bir aýna panelde ýerleşýär. Filtri basyp, linza ýaly süýşüriň.</string>
+    <string name="mobile_settings_chip_style_pills">Aýry plashkalar</string>
+    <string name="mobile_settings_chip_style_pills_desc">Her filtr aýratyn aýna plashkada görkezilýär</string>
+    <string name="mobile_settings_player_buttons_look">Pleýer düwmeleriniň stili</string>
+    <string name="mobile_settings_player_buttons_see_through">Ýarym dury</string>
+    <string name="mobile_settings_player_buttons_see_through_desc">Wideoda, Shorts-da we kiçi pleýerde her düwmäniň aňyrsynda reňkli aýna tegelek bar</string>
+    <string name="mobile_settings_player_buttons_frosted">Mat aýna</string>
+    <string name="mobile_settings_player_buttons_frosted_desc">Tegelekler aşagyndaky suraty bulaşdyrýar. Batareýany köp sarp edýär we haýal telefonlarda bökdençlik döredip biler.</string>
+    <string name="mobile_settings_player_buttons_minimal">Minimal</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Tegelek ýok, diňe YouTube ýaly ýumşak kölegeli nyşanlar bar</string>
+    <string name="mobile_settings_performance">Öndürijilik</string>
+    <string name="mobile_settings_high_refresh">Ýokary täzeleniş ýygylygy tertibi</string>
+    <string name="mobile_settings_high_refresh_summary">Iň rahat hereket üçin programma %1$d Hz ýygylykda işleýär. Batareýany köp sarp edýär; telefon gyzanda ýa-da energiýa tygşytlaýjy açyk bolanda Android ýygylygy peseldip biler.</string>
+    <string name="mobile_settings_tab_motion">Bölümleri çalyşmagyň animasiýasy</string>
+    <string name="mobile_settings_tab_motion_summary">Aýna öwüşgini bölüme tarap süýşýär, panel bolsa sähelçe yrgyldaýar. Haýal telefonlarda siz açýançaňyz öçük bolýar.</string>
+    <string name="mobile_settings_tabs_reset">Paneli deslapky görnüşe getirmek</string>
+    <string name="mobile_settings_tabs_reset_summary">Baş sahypa, Shorts, Gözleg, Abunalar, Siz</string>
 </resources>
