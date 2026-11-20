@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Кадр аз охири видео</string>
     <string name="mobile_settings_original_titles">Унвонҳои аслӣ</string>
     <string name="mobile_settings_original_titles_summary">Нишон додани унвонҳо ба забони аслӣ, на тарҷумаи YouTube</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Формати рақамҳои лакх ва крор</string>
+    <string name="mobile_settings_indian_counts_summary">Шумораи тамошо ва писандиданро ба ҷойи 250K ва 12M ҳамчун 2,5 лакх ва 1,2 крор нишон додан</string>
+    <string name="mobile_settings_channels_order">Тартиби каналҳо дар бахши «Шумо»</string>
+    <string name="mobile_settings_channels_order_recent">Аввал каналҳои ба наздикӣ тамошошуда</string>
+    <string name="mobile_settings_channels_order_name">Аз A то Z</string>
+    <string name="mobile_settings_channels_order_new">Аввал каналҳои дорои видеоҳои нав</string>
+    <string name="mobile_settings_pinned_channels">Дар каналҳои маҳкамшуда чӣ нишон дода шавад</string>
+    <string name="mobile_settings_pinned_channels_all">Саҳифаи асосии канал</string>
+    <string name="mobile_settings_pinned_channels_uploads">Танҳо видеоҳои он</string>
+    <string name="mobile_settings_playlists_style">Рӯйхатҳои навозиш дар бахши «Шумо»</string>
+    <string name="mobile_settings_playlists_style_grid">Ҳар рӯйхати навозиш алоҳида</string>
+    <string name="mobile_settings_playlists_style_rows">Ҳамаи видеоҳо пайи ҳам</string>
+    <string name="mobile_settings_watch_history">Таърихи тамошо</string>
+    <string name="mobile_settings_watch_history_auto">Пайравӣ аз танзимоти YouTube</string>
+    <string name="mobile_settings_watch_history_auto_desc">Агар дар ҳисоби YouTube таърихи тамошо нигоҳ дошта шавад, ин ҷо низ сабт мешавад</string>
+    <string name="mobile_settings_watch_history_on">Ҳамеша нигоҳ доштан</string>
+    <string name="mobile_settings_watch_history_on_desc">Ҳангоми ҳар кушодани MeeTube таърихи тамошои YouTube-ро дубора фаъол мекунад</string>
+    <string name="mobile_settings_watch_history_off">Нигоҳ надоштан</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube дигар ба YouTube намегӯяд, ки шумо чӣ тамошо мекунед</string>
+    <string name="mobile_settings_clear_watch_history">Пок кардани таърихи тамошо</string>
+    <string name="mobile_settings_clear_watch_history_summary">Видеоҳои тамошошударо аз таърихи YouTube нест мекунад</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Таърихи тамошо пок карда шавад?</string>
+    <string name="mobile_settings_clear_watch_history_body">Ҳамаи видеоҳо аз таърихи тамошои YouTube нест карда мешаванд. Ин амалро баргардондан имкон надорад.</string>
 </resources>
