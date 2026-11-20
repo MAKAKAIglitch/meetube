@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_playlist_by_owner">Автору: %1$s</string>
+    <string name="mobile_playlist_type">Плейлист</string>
+    <string name="mobile_playlist_download_all">Баарын жүктөө</string>
+    <string name="mobile_playlist_download_confirm">%1$d видео жүктөлсүнбү?</string>
+    <string name="mobile_playlist_download_quality">Бардык видеолор үчүн жүктөө сапаты</string>
+    <string name="mobile_playlist_download_best">Эң жакшы жеткиликтүү</string>
+    <string name="mobile_playlist_download_queued">%1$d видео кезекке кошулду</string>
+    <string name="mobile_playlist_download_skipped">%1$d видео кезекке кошулду. %2$d видео жеткиликсиз.</string>
+    <string name="mobile_playlist_load_failed">Плейлист толук жүктөлгөн жок. Кайра аракет кылыңыз.</string>
+    <string name="mobile_playlist_sort">Иреттөө</string>
+    <string name="mobile_playlist_sort_manual">Кол менен</string>
+    <string name="mobile_playlist_sort_newest">Жарыяланган күнү (эң жаңылары)</string>
+    <string name="mobile_playlist_sort_oldest">Жарыяланган күнү (эң эскилери)</string>
+    <string name="mobile_playlist_sort_popular">Эң популярдуу</string>
+    <string name="mobile_playlist_filter_all">Баары</string>
+    <string name="mobile_playlist_filter_videos">Видеолор</string>
+    <string name="mobile_playlist_filter_shorts">Shorts</string>
+    <string name="mobile_playlist_download_select">Видеолорду тандоо</string>
+    <string name="mobile_playlist_select_all">Баарын тандоо</string>
+    <string name="mobile_playlist_selected">%1$d тандалды</string>
+    <string name="mobile_playlist_download_selected">Жүктөө</string>
+    <string name="mobile_playlist_add_videos">Видео кошуу</string>
+    <string name="mobile_playlist_add_hint">%1$s тизмесине кошуу үчүн издеңиз</string>
+    <string name="mobile_playlist_loading">Плейлист жүктөлүүдө</string>
+</resources>
