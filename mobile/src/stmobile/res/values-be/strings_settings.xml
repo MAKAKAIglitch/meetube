@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Пры прыпыненні або закрыцці прайгравальніка чарга таксама спыняецца</string>
     <string name="mobile_settings_chapter_popup">Усплывальныя назвы раздзелаў</string>
     <string name="mobile_settings_chapter_popup_summary">Паказвае назву кожнага раздзела ў пачатку. Націсніце, каб перайсці да наступнага</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Сетка</string>
+    <string name="mobile_settings_proxy">Вэб-проксі</string>
+    <string name="mobile_settings_proxy_summary">Накіроўвае трафік MeeTube праз HTTP- або SOCKS-проксі</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Спачатку IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Значэнне па змаўчанні. Дапамагае ў сетках, дзе IPv6 працуе з памылкамі</string>
+    <string name="mobile_settings_dns_system">DNS тэлефона</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Убудаваная бібліятэка бяспекі злучэнняў. Можа палепшыць сумяшчальнасць з некаторымі злучэннямі HTTPS/TLS.</string>
+    <string name="mobile_settings_multi_profiles">Асобныя налады для кожнага ўліковага запісу</string>
+    <string name="mobile_settings_multi_profiles_summary">Кожны ўліковы запіс мае ўласныя налады, пачынаючы са значэнняў па змаўчанні</string>
 </resources>
