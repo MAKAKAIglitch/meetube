@@ -210,4 +210,19 @@
     <string name="mobile_search_error">Нәтижелерді жүктеу мүмкін болмады.</string>
     <string name="mobile_channel_tab_videos">Видеолар</string>
     <string name="mobile_channel_tab_more">Тағы</string>
+    <string name="mobile_nav_you">Сіз</string>
+    <string name="mobile_nav_hint_tabs">Қойындыларды баптау  ›</string>
+    <string name="mobile_nav_hint_change">Өзгерту</string>
+    <string name="mobile_nav_hint_confirm_title">Қойындыларды баптайсыз ба?</string>
+    <string name="mobile_nav_hint_confirm_body">Төменгі панельдің қойындыларын таңдау және реттеу үшін параметрлерді ашады.</string>
+    <string name="mobile_nav_hint_confirm_open">Ашу</string>
+    <string name="mobile_nav_subs">Жазылымдар</string>
+    <string name="mobile_subs_all_channels">Барлық жазылымдар</string>
+    <string name="mobile_you_explore">Шолу</string>
+    <string name="mobile_you_library">Кітапхана</string>
+    <string name="mobile_you_watch_later">Кейін көру</string>
+    <string name="mobile_you_liked_videos">Ұнатқан видеолар</string>
+    <string name="mobile_no_browser">Бұл сілтемені ашатын қолданба табылмады</string>
+    <string name="mobile_add_device_title">Құрылғыны жұптау</string>
+    <string name="mobile_add_device_done">Дайын</string>
 </resources>
