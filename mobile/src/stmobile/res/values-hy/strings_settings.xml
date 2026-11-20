@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Տվյալները ստացվում են Return YouTube Dislike-ից, որին փոխանցվում է տեսանյութի ID-ն</string>
     <string name="mobile_settings_paid_promotion">Տեղեկացնել վճարովի գովազդի մասին</string>
     <string name="mobile_settings_paid_promotion_summary">Կարճ հաղորդագրություն է ցուցադրում, երբ տեսանյութում նշված է վճարովի գովազդի առկայությունը</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Որակը, որով սկսվում են տեսանյութերը։ Առանձին տեսանյութի համար այն կարող եք փոխել նվագարկչի կարգավորումներում։</string>
+    <string name="mobile_settings_default_quality">Լռելյայն որակ</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi-ի դեպքում</string>
+    <string name="mobile_settings_quality_mobile">Բջջային տվյալների դեպքում</string>
+    <string name="mobile_settings_quality_same">Նույնը, ինչ Wi-Fi-ի դեպքում</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi՝ %1$s · Բջջային տվյալներ՝ %2$s</string>
+    <string name="mobile_settings_quality_auto">Ավտոմատ (մինչև %1$dp)</string>
+    <string name="mobile_settings_quality_auto_desc">Առաջարկվում է․ լավագույն որակը, որը թույլ է տալիս ձեր կապը</string>
+    <string name="mobile_settings_quality_up_to">Մինչև %1$s</string>
+    <string name="mobile_settings_quality_more_data">Ավելի շատ տվյալներ է օգտագործում</string>
+    <string name="mobile_settings_quality_less_data">Ավելի քիչ տվյալներ է օգտագործում</string>
+    <string name="mobile_settings_quality_data_saver">Տնտեսում է տվյալները</string>
+    <string name="mobile_settings_hdr">HDR տեսանյութ</string>
+    <string name="mobile_settings_hdr_summary">Նվագարկում է HDR տեսանյութերը HDR-ով՝ ավելի պայծառ և հարուստ գույներով։ Ավելի շատ տվյալներ է օգտագործում։ Կիրառվում է հաջորդ բացվող տեսանյութի համար։</string>
+    <string name="mobile_settings_loudness">Հավասարեցնել ձայնի բարձրությունը</string>
+    <string name="mobile_settings_loudness_summary">Չափազանց բարձր ձայնով տեսանյութերի ձայնը նվազեցնում է մինչև YouTube-ի սովորական մակարդակը</string>
+    <string name="mobile_settings_player_volume">Նվագարկչի ձայնի բարձրություն</string>
+    <string name="mobile_settings_quality_data_saver_note">Երբ Android-ում միացված է տվյալների խնայողությունը, MeeTube-ը բջջային ցանցում ավելի քիչ տվյալ է նախաբեռնում։</string>
 </resources>
