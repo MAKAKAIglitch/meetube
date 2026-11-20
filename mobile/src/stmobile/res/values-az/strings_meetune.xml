@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Azerbaijani. Core MeeTune screens. -->
+    <string name="meetune_name" translatable="false">MeeTune</string>
+    <string name="meetune_try">MeeTune-u sınayın</string>
+    <string name="meetune_home">Əsas səhifə</string>
+    <string name="meetune_explore">Kəşf et</string>
+    <string name="meetune_library">Kitabxana</string>
+    <string name="meetune_search">Axtarış</string>
+    <string name="meetune_search_hint">Mahnılar, albomlar, ifaçılar</string>
+    <string name="meetune_back">Geri</string>
+    <string name="meetune_settings">MeeTune parametrləri</string>
+    <string name="meetune_account">Hesab və parametrlər</string>
+    <string name="meetune_add_account">Hesab əlavə et</string>
+    <string name="meetune_to_meetube">MeeTube-a qayıt</string>
+    <string name="meetune_show_all">Hamısını göstər</string>
+    <string name="meetune_more">Daha çox</string>
+    <string name="meetune_play">Oynat</string>
+    <string name="meetune_play_pause">Oynat və ya dayandır</string>
+    <string name="meetune_next">Növbəti</string>
+    <string name="meetune_lyrics_finding">Mahnı sözləri axtarılır</string>
+    <string name="meetune_lyrics_coming">Mahnı sözləri hazırlanır…</string>
+    <string name="meetune_lyrics_none">Bu mahnının sözləri yoxdur</string>
+    <string name="meetune_share">Paylaş</string>
+    <string name="meetune_shuffle">Qarışdır</string>
+    <string name="meetune_mood">Əhvalınıza uyğun musiqi</string>
+    <string name="meetune_error">YouTube Music-ə qoşulmaq mümkün olmadı.</string>
+    <string name="meetune_retry">Yenidən cəhd et</string>
+    <string name="meetune_empty">Burada hələ heç nə yoxdur.</string>
+    <string name="meetune_search_empty">Mahnı, albom və ifaçı axtarın.</string>
+    <string name="meetune_library_signed_out">Pleylistləri, albomları və bəyəndiyiniz mahnıları görmək üçün YouTube-a daxil olun.</string>
+    <string name="meetune_sign_in">Daxil ol</string>
+    <string name="meetune_liked">Bəyənilən musiqi</string>
+    <string name="meetune_playlist">Pleylist</string>
+    <string name="meetune_explicit">Uyğunsuz ifadələr var</string>
+    <string name="meetune_clear">Təmizlə</string>
+    <string name="meetune_filter_all">Hamısı</string>
+    <string name="meetune_filter_songs">Mahnılar</string>
+    <string name="meetune_filter_videos">Videolar</string>
+    <string name="meetune_filter_albums">Albomlar</string>
+    <string name="meetune_filter_artists">İfaçılar</string>
+    <string name="meetune_filter_playlists">Pleylistlər</string>
+    <string name="meetune_set_customize">Fərdiləşdirmə</string>
+    <string name="meetune_set_customize_summary">Siz səhifəsindəki ürək, loqonun yanındakı ad və axtarışın parıltısı</string>
+    <string name="meetune_set_brand_name">Loqonun yanında MeeTune adı</string>
+    <string name="meetune_set_brand_name_summary">Söndürüləndə əsas səhifənin küncündə yalnız ürək görünür</string>
+    <string name="meetune_link_meetube">MeeTube →</string>
+    <string name="meetune_link_meetune">MeeTune →</string>
+    <string name="meetune_home_hint">MeeTune-a keçmək üçün işarəyə toxunun</string>
+    <string name="meetune_meetube_hint">MeeTube-a keçmək üçün işarəyə toxunun</string>
+    <string name="meetune_cached">Keşlənmiş mahnılar</string>
+    <string name="meetune_cached_summary">İnternetsiz oxut</string>
+    <string name="meetune_storage_songs">MeeTune mahnıları (keşdə)</string>
+    <plurals name="meetune_storage_songs_value">
+        <item quantity="one">%1$s · %2$d mahnı</item>
+        <item quantity="other">%1$s · %2$d mahnı</item>
+    </plurals>
+    <string name="meetune_queue">Növbəti</string>
+    <string name="meetune_lyrics">Mahnı sözləri</string>
+    <string name="meetune_focus">Mahnı sözlərinə fokuslan</string>
+    <string name="meetune_cast">Yayımla</string>
+    <string name="meetune_minimize">Kiçilt</string>
+    <string name="meetune_like">Bəyən</string>
+    <string name="meetune_this_phone">Bu telefon</string>
+    <string name="meetune_sort">Çeşidlə</string>
+    <string name="meetune_sort_added">Əlavə olunma tarixi</string>
+    <string name="meetune_sort_default">Standart sıra</string>
+    <string name="meetune_sort_az">Əlifba sırası (A-dan Z-yə)</string>
+    <string name="meetune_sort_za">Əlifba sırası (Z-dən A-ya)</string>
+    <string name="meetune_find">Mahnılarda axtar</string>
+    <string name="meetune_library_search">Kitabxanada axtar</string>
+</resources>
