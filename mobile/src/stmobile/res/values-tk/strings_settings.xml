@@ -193,4 +193,29 @@
     <string name="mobile_settings_thumbnails_end">Wideonyň soňundan alnan kadry</string>
     <string name="mobile_settings_original_titles">Asyl atlar</string>
     <string name="mobile_settings_original_titles_summary">Atlary YouTube terjimesinde däl-de, asyl dilinde görkez</string>
+
+    <!-- Channel order and watch-history translations -->
+    <string name="mobile_settings_indian_counts">Lakh we crore san formaty</string>
+    <string name="mobile_settings_indian_counts_summary">Görüşleri we halanmalary 250K we 12M ýerine 2,5 lakh we 1,2 crore görnüşinde görkez</string>
+    <string name="mobile_settings_channels_order">«Siz» bölümindäki kanallaryň tertibi</string>
+    <string name="mobile_settings_channels_order_recent">Ilki bilen soňky görlenler</string>
+    <string name="mobile_settings_channels_order_name">A-dan Z-e çenli</string>
+    <string name="mobile_settings_channels_order_new">Täze wideoly kanallar ilki</string>
+    <string name="mobile_settings_pinned_channels">Berkidilen kanallarda näme görkezilsin</string>
+    <string name="mobile_settings_pinned_channels_all">Kanalynyň baş sahypasy</string>
+    <string name="mobile_settings_pinned_channels_uploads">Diňe wideolary</string>
+    <string name="mobile_settings_playlists_style">«Siz» bölümindäki sanawlar</string>
+    <string name="mobile_settings_playlists_style_grid">Her sanaw aýratyn</string>
+    <string name="mobile_settings_playlists_style_rows">Ähli wideolar yzly-yzyna</string>
+    <string name="mobile_settings_watch_history">Tomaşa taryhy</string>
+    <string name="mobile_settings_watch_history_auto">YouTube sazlamasyna eýermek</string>
+    <string name="mobile_settings_watch_history_auto_desc">YouTube hasabyňyzda taryh saklanylýan bolsa, bu ýerde hem saklanýar</string>
+    <string name="mobile_settings_watch_history_on">Hemişe sakla</string>
+    <string name="mobile_settings_watch_history_on_desc">MeeTube her gezek açylanda YouTube tomaşa taryhyny täzeden açýar</string>
+    <string name="mobile_settings_watch_history_off">Saklama</string>
+    <string name="mobile_settings_watch_history_off_desc">MeeTube görýän wideolaryňyz barada YouTube-a maglumat ibermegini bes edýär</string>
+    <string name="mobile_settings_clear_watch_history">Tomaşa taryhyny arassala</string>
+    <string name="mobile_settings_clear_watch_history_summary">Görülen wideolary YouTube taryhyndan pozýar</string>
+    <string name="mobile_settings_clear_watch_history_confirm">Tomaşa taryhy arassalansynmy?</string>
+    <string name="mobile_settings_clear_watch_history_body">YouTube tomaşa taryhyňyzdaky ähli wideolar pozular. Bu hereketi yzyna gaýtaryp bolmaýar.</string>
 </resources>
