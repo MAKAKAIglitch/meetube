@@ -206,4 +206,19 @@
     <string name="mobile_search_error">Натиҷаҳо бор карда нашуданд.</string>
     <string name="mobile_channel_tab_videos">Видеоҳо</string>
     <string name="mobile_channel_tab_more">Бештар</string>
+    <string name="mobile_nav_you">Шумо</string>
+    <string name="mobile_nav_hint_tabs">Танзими ҷадвалҳо  ›</string>
+    <string name="mobile_nav_hint_change">Тағйир додан</string>
+    <string name="mobile_nav_hint_confirm_title">Ҷадвалҳоро танзим мекунед?</string>
+    <string name="mobile_nav_hint_confirm_body">Танзимотро мекушояд, то ҷадвалҳои панели поёнро интихоб ва тартиб диҳед.</string>
+    <string name="mobile_nav_hint_confirm_open">Кушодан</string>
+    <string name="mobile_nav_subs">Обунаҳо</string>
+    <string name="mobile_subs_all_channels">Ҳамаи обунаҳо</string>
+    <string name="mobile_you_explore">Баррасӣ</string>
+    <string name="mobile_you_library">Китобхона</string>
+    <string name="mobile_you_watch_later">Баъдтар тамошо кардан</string>
+    <string name="mobile_you_liked_videos">Видеоҳои писандида</string>
+    <string name="mobile_no_browser">Барои кушодани ин пайванд барнома ёфт нашуд</string>
+    <string name="mobile_add_device_title">Ҷуфт кардани дастгоҳ</string>
+    <string name="mobile_add_device_done">Тайёр</string>
 </resources>
