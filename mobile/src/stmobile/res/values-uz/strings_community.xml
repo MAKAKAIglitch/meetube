@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_channel_posts">Yozuvlar</string>
+    <string name="mobile_channel_sort">Saralash</string>
+    <string name="mobile_posts_title">%1$s ta yozuv</string>
+    <string name="mobile_posts_empty">Hozircha yozuv yo‘q</string>
+    <string name="mobile_posts_image">Yozuv rasmi</string>
+    <string name="mobile_posts_likes">%1$s ta yoqtirish</string>
+    <string name="mobile_posts_replies">%1$s ta javob</string>
+    <string name="mobile_posts_like">Bu yozuvni yoqtirish</string>
+    <string name="mobile_posts_like_failed">Yozuvni yoqtirib bo‘lmadi. Qayta urinib ko‘ring.</string>
+    <string name="mobile_posts_comments_read_only">Yozuv izohlarini yoqtirish va ularga javob berish hozircha mavjud emas</string>
+    <string name="mobile_comments_just_now">Hozirgina</string>
+</resources>
