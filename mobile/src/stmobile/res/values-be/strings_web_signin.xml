@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_web_signin_title">Увайсці ў YouTube</string>
+    <string name="mobile_web_signin_privacy">Гэта ўласная старонка Google. MeeTube ніколі не бачыць ваш пароль.</string>
+    <string name="mobile_web_signin_loading">Адкрыццё Google</string>
+    <string name="mobile_web_signin_finishing">Завяршэнне ўваходу</string>
+    <string name="mobile_web_signin_failed">Не ўдалося завяршыць уваход у YouTube. Праверце злучэнне і паспрабуйце яшчэ раз.</string>
+    <string name="mobile_web_signin_retry">Паўтарыць</string>
+    <string name="mobile_web_signin_explain_title">Яшчэ адзін уваход</string>
+    <string name="mobile_web_signin_explain_need">Каб адпраўляць паведамленні ў чат трансляцыі і ўпадабаць допісы, трэба ўвайсці на ўласнай вэб-старонцы YouTube. Гэта зойме хвіліну і робіцца толькі адзін раз.</string>
+    <string name="mobile_web_signin_explain_current">Бягучы ўваход застанецца без змен і надалей будзе выкарыстоўвацца для відэа, гісторыі і падпісак.</string>
+    <string name="mobile_web_signin_explain_risk">Выкарыстоўвайце той самы ўліковы запіс Google. Google не ўхваляе неафіцыйныя праграмы, таму для вашага ўліковага запісу ёсць невялікая рызыка.</string>
+    <string name="mobile_web_signin_google">Увайсці праз Google</string>
+    <string name="mobile_web_signin_not_now">Не зараз</string>
+    <string name="mobile_web_signin_sign_out">Выйсці з вэб-уваходу YouTube?</string>
+    <string name="mobile_web_signin_sign_out_confirm">Каб зноў адпраўляць паведамленні ў чат трансляцыі, давядзецца ўвайсці яшчэ раз. Бягучы ўваход у MeeTube не зменіцца.</string>
+    <string name="mobile_web_signin_sign_out_failed">Не ўдалося выйсці. Паспрабуйце яшчэ раз.</string>
+    <string name="mobile_web_signin_signed_out">Вы выйшлі з вэб-уваходу YouTube</string>
+    <string name="mobile_web_signin_add">Дадаць вэб-уліковы запіс</string>
+    <string name="mobile_web_signin_choose">Размаўляць як</string>
+    <string name="mobile_web_signin_switch">Змяніць вэб-уліковы запіс</string>
+    <string name="mobile_web_signin_expired">Тэрмін вэб-уваходу YouTube скончыўся. Увайдзіце зноў.</string>
+    <string name="mobile_chat_as">Чат ад імя %1$s</string>
+    <string name="mobile_chat_hint">Напішыце нешта</string>
+    <string name="mobile_chat_send">Адправіць паведамленне</string>
+    <string name="mobile_chat_send_failed">Не ўдалося адправіць паведамленне. Паспрабуйце яшчэ раз.</string>
+    <string name="mobile_chat_not_ready">Чат яшчэ не гатовы. Паспрабуйце крыху пазней.</string>
+</resources>
