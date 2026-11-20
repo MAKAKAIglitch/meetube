@@ -31,7 +31,7 @@
     <string name="mobile_settings_search_kw_backup">export import save settings ehtiyat nüsxə ixrac idxal saxla parametrləri bərpa et</string>
     <string name="mobile_settings_search_kw_buffer">buffering cache memory bufer keş yaddaş</string>
     <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers serverlər ünvanlar internet şəbəkə bağlantı</string>
-    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security censorship blocked byebyedpi vpn https sertifikatlar təhlükəsizlik bloklama bloklanıb məhdudiyyət keçid bağlantı</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security https sertifikatlar təhlükəsizlik şəbəkə internet bağlantı</string>
     <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different profillər hər hesab üçün ayrıca fərqli</string>
     <string name="mobile_settings_search_kw_updates">update version new release notify notification yeniləmə versiya yeni buraxılış xəbərdarlıq bildiriş</string>
     <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug xəta hesabat jurnal log diaqnostika sazlama</string>
