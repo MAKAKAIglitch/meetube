@@ -116,7 +116,7 @@
     <string name="mobile_settings_coffee">Пригостити розробника кавою</string>
     <string name="mobile_settings_coffee_summary">Підтримайте MeeTube, якщо вам подобається застосунок</string>
     <string name="mobile_settings_new_uploads">Сповіщати про нові відео</string>
-    <string name="mobile_settings_new_uploads_summary">Нові відео з ваших підписок з'являтимуться на панелі сповіщень</string>
+    <string name="mobile_settings_new_uploads_summary">Нові відео з ваших підписок з\'являтимуться на панелі сповіщень</string>
     <string name="mobile_settings_tabs">Вкладки</string>
     <string name="mobile_settings_tabs_summary">Виберіть, що показувати на нижній панелі та у вкладці «Ви»</string>
     <string name="mobile_settings_tabs_bottom_bar">Нижня панель</string>
