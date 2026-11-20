@@ -269,7 +269,7 @@
     <string name="mobile_settings_home_layout_rows">Катарлар</string>
     <string name="mobile_settings_home_layout_rows_desc">SmartTube сыяктуу ар бир тема үчүн өзүнчө туурасынан жылдырылуучу катар</string>
     <string name="mobile_settings_home_shorts">Башкы беттеги Shorts</string>
-    <string name="mobile_settings_home_shorts_summary">YouTube'дагыдай туурасынан жылдырылуучу Shorts катары</string>
+    <string name="mobile_settings_home_shorts_summary">YouTube\'дагыдай туурасынан жылдырылуучу Shorts катары</string>
     <string name="mobile_settings_chip_style">Чыпкалардын стили</string>
     <string name="mobile_settings_chip_style_segment">Бириктирилген панель</string>
     <string name="mobile_settings_chip_style_segment_desc">Башкы беттеги тема чыпкалары жана издөө чыпкалары бир айнек тилкеде турат. Чыпканы басып, линза сыяктуу сүйрөңүз.</string>
@@ -281,7 +281,7 @@
     <string name="mobile_settings_player_buttons_frosted">Күңүрт айнек</string>
     <string name="mobile_settings_player_buttons_frosted_desc">Тегеректер астындагы сүрөттү бүдөмүктөтөт. Кубатты көбүрөөк сарптайт жана жай телефондордо тыгылып калышы мүмкүн.</string>
     <string name="mobile_settings_player_buttons_minimal">Минималдуу</string>
-    <string name="mobile_settings_player_buttons_minimal_desc">Тегеректер жок, YouTube'дагыдай жумшак көлөкөлүү сүрөтчөлөр гана бар</string>
+    <string name="mobile_settings_player_buttons_minimal_desc">Тегеректер жок, YouTube\'дагыдай жумшак көлөкөлүү сүрөтчөлөр гана бар</string>
     <string name="mobile_settings_performance">Өндүрүмдүүлүк</string>
     <string name="mobile_settings_high_refresh">Жогорку жаңыртуу жыштыгы режими</string>
     <string name="mobile_settings_high_refresh_summary">Эң жылмакай кыймыл үчүн колдонмо %1$d Гц жыштыгында иштейт. Кубатты көбүрөөк сарптайт; телефон ысыганда же кубат үнөмдөө күйгөндө Android жыштыкты азайтышы мүмкүн.</string>
