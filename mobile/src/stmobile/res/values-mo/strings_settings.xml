@@ -379,4 +379,14 @@
     <string name="mobile_settings_loudness_summary">Reduce volumul videoclipurilor prea puternice la nivelul obișnuit de pe YouTube</string>
     <string name="mobile_settings_player_volume">Volumul playerului</string>
     <string name="mobile_settings_quality_data_saver_note">Când Economisirea datelor din Android este activată, MeeTube preîncarcă mai puține date prin rețeaua mobilă.</string>
+
+    <!-- Caption appearance and behavior translations -->
+    <string name="mobile_settings_caption_style">Stil</string>
+    <string name="mobile_settings_caption_size">Dimensiune</string>
+    <string name="mobile_settings_caption_position">Distanța față de marginea de jos</string>
+    <string name="mobile_settings_caption_per_channel">Memorează subtitrările pentru fiecare canal</string>
+    <string name="mobile_settings_caption_per_channel_summary">Subtitrările activate reapar doar pentru canalul respectiv. Dacă opțiunea este dezactivată, ultima limbă aleasă pentru subtitrări se aplică tuturor videoclipurilor.</string>
+    <string name="mobile_settings_caption_system">Setări subtitrări Android</string>
+    <string name="mobile_settings_caption_system_summary">Este folosit de stilul „Sistem”</string>
+    <string name="mobile_settings_captions_note">Activează subtitrările sau alege limba lor cu butonul CC din player.</string>
 </resources>
