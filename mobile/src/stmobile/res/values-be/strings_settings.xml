@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Налады субтытраў Android</string>
     <string name="mobile_settings_caption_system_summary">Выкарыстоўваюцца стылем «Сістэмны»</string>
     <string name="mobile_settings_captions_note">Уключайце субтытры або выбірайце іх мову кнопкай CC у прайгравальніку.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">Прапускае часткі відэа, адзначаныя супольнасцю</string>
+    <string name="mobile_settings_sponsorblock_segments">Калі пачынаецца фрагмент</string>
+    <string name="mobile_settings_segment_skip">Прапусціць</string>
+    <string name="mobile_settings_segment_ask_short">Спытаць</string>
+    <string name="mobile_settings_segment_show">Паказаць</string>
+    <string name="mobile_settings_segment_modes_note">Можна прапусціць фрагмент, спытаць пацвярджэнне кнопкай, паказваць яго толькі на шкале перамоткі або выключыць.</string>
+    <string name="mobile_settings_segment_min">Не прапускаць фрагменты карацейшыя за</string>
+    <string name="mobile_settings_segment_once">Прапускаць кожны фрагмент толькі адзін раз</string>
+    <string name="mobile_settings_segment_once_summary">Калі вярнуцца да прапушчанага фрагмента, ён будзе прайграны</string>
+    <string name="mobile_settings_segment_alt_server_summary">Паспрабуйце, калі сегменты перасталі загружацца</string>
+    <string name="mobile_settings_segment_alt_server">Выкарыстоўваць альтэрнатыўны сервер</string>
+    <string name="mobile_settings_dearrow_titles">Лепшыя загалоўкі</string>
+    <string name="mobile_settings_dearrow_titles_summary">Замяняе клікбейтныя загалоўкі на варыянты, напісаныя супольнасцю</string>
+    <string name="mobile_settings_dearrow_thumbnails">Лепшыя мініяцюры</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Замяняе мініяцюры кадрамі, выбранымі супольнасцю</string>
+    <string name="mobile_settings_dearrow_note">DeArrow атрымлівае ідэнтыфікатары відэа, якія вы бачыце ў спісах.</string>
 </resources>
