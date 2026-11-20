@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Кідірту немесе ойнатқышты жабу кезінде кезек те тоқтайды</string>
     <string name="mobile_settings_chapter_popup">Тараулардың қалқымалы атаулары</string>
     <string name="mobile_settings_chapter_popup_summary">Әр тарау басталғанда оның атауын көрсетеді. Келесі тарауға өту үшін түртіңіз</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Желі</string>
+    <string name="mobile_settings_proxy">Веб-прокси</string>
+    <string name="mobile_settings_proxy_summary">MeeTube трафигін HTTP немесе SOCKS проксиі арқылы бағыттайды</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Алдымен IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Әдепкі параметр. IPv6 дұрыс жұмыс істемейтін желілерде көмектеседі</string>
+    <string name="mobile_settings_dns_system">Телефонның DNS-і</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Қосылымдарға арналған кіріктірілген қауіпсіздік кітапханасы. Кейбір HTTPS/TLS қосылымдарымен үйлесімділікті жақсартуы мүмкін.</string>
+    <string name="mobile_settings_multi_profiles">Әр аккаунтқа бөлек параметрлер</string>
+    <string name="mobile_settings_multi_profiles_summary">Әр аккаунт әдепкі мәндерден басталатын өз параметрлерін сақтайды</string>
 </resources>
