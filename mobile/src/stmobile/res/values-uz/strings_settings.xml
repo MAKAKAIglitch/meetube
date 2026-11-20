@@ -105,4 +105,31 @@
     <string name="mobile_settings_24_hour_summary">Premyera va jonli efirlarning boshlanish vaqti uchun</string>
     <string name="mobile_settings_liquid_glass">Suyuq shisha</string>
     <string name="mobile_settings_liquid_glass_summary">Shisha panellardagi linza, yorug‘lik va donadorlik. O‘chirilganda batareyani tejaydigan oddiy xiralashtirish ishlatiladi</string>
+
+    <!-- Additional settings translations -->
+    <string name="mobile_settings_hours_minutes">%1$d soat %2$d daq</string>
+    <string name="mobile_settings_customize_summary_value">%1$s mavzusi, bosh sahifa va videolar roʻyxati, pleer, yorliqlar va effektlar</string>
+    <string name="mobile_settings_auto_none">Hech biri</string>
+    <string name="mobile_settings_auto_note">Har bir necha soatda tekshiriladi. Tanlangan kanal yangi video joylagach, u yuklab olinadi. Pleylistdan har tekshiruvda 10 tagacha video yuklab olinadi. Bu yerda belgilangan sifatdan oshmaydigan eng yuqori sifat tanlanadi.</string>
+    <string name="mobile_battery_saver_ask">Quvvat tejash rejimi yoqilgan. Shu vaqt ichida animatsiyalar va xira shisha effektini o‘chirilsinmi?</string>
+    <string name="mobile_battery_saver_ask_action">O‘chirish</string>
+    <string name="mobile_settings_coffee">Dasturchiga kofe olib bering</string>
+    <string name="mobile_settings_coffee_summary">MeeTube sizga yoqsa va loyihani qo‘llab-quvvatlamoqchi bo‘lsangiz</string>
+    <string name="mobile_settings_new_uploads">Yangi videolar haqida bildirish</string>
+    <string name="mobile_settings_new_uploads_summary">Obuna bo‘lgan kanallaringizdagi yangi videolar bildirishnomalar panelida ko‘rinadi</string>
+    <string name="mobile_settings_tabs">Yorliqlar</string>
+    <string name="mobile_settings_tabs_summary">Pastki panelda va «Siz» bo‘limida nimalar ko‘rsatilishini tanlang</string>
+    <string name="mobile_settings_tabs_bottom_bar">Pastki panel</string>
+    <string name="mobile_settings_nav_labels">Yorliq nomlari</string>
+    <string name="mobile_settings_nav_labels_summary">Pastki panelda har bir yorliq belgisi ostida uning nomini ko‘rsatish</string>
+    <string name="mobile_settings_brand_name">Yuqori paneldagi ilova nomi</string>
+    <string name="mobile_settings_brand_name_summary">Yuqorida belgi yonida MeeTube nomini ko‘rsatish. O‘chirilsa, faqat belgi qoladi</string>
+    <string name="mobile_settings_top_bar">Yuqori panelni doim ko‘rsatish</string>
+    <string name="mobile_settings_top_bar_summary">Lentani aylantirganda yuqori panelni yashirmasdan ekranda qoldirish</string>
+    <string name="mobile_settings_search_fab">Panel yashirilganda qidiruv tugmasi</string>
+    <string name="mobile_settings_search_fab_right">Pastki o‘ng tomonda</string>
+    <string name="mobile_settings_search_fab_left">Pastki chap tomonda</string>
+    <string name="mobile_settings_tabs_you">Siz</string>
+    <string name="mobile_settings_tabs_none">Hech biri</string>
+    <string name="mobile_settings_tabs_bar_note">Tartibni o‘zgartirish uchun elementni tutqichidan sudrang yoki bosib turing. Qidiruvni yuqori panelga ko‘chirish uchun yuqoriga sudrang. Tarkibini o‘zgartirish uchun yorliqni bosing.</string>
 </resources>
