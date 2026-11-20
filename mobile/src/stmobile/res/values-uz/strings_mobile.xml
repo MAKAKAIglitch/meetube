@@ -206,4 +206,19 @@
     <string name="mobile_search_error">Natijalarni yuklab bo‘lmadi.</string>
     <string name="mobile_channel_tab_videos">Videolar</string>
     <string name="mobile_channel_tab_more">Ko‘proq</string>
+    <string name="mobile_nav_you">Siz</string>
+    <string name="mobile_nav_hint_tabs">Ichki oynalarni sozlash  ›</string>
+    <string name="mobile_nav_hint_change">O‘zgartirish</string>
+    <string name="mobile_nav_hint_confirm_title">Ichki oynalar sozlansinmi?</string>
+    <string name="mobile_nav_hint_confirm_body">Pastki panel ichki oynalarini tanlash va tartiblash uchun sozlamalarni ochadi.</string>
+    <string name="mobile_nav_hint_confirm_open">Ochish</string>
+    <string name="mobile_nav_subs">Obunalar</string>
+    <string name="mobile_subs_all_channels">Barcha obunalar</string>
+    <string name="mobile_you_explore">Ko‘rib chiqish</string>
+    <string name="mobile_you_library">Kutubxona</string>
+    <string name="mobile_you_watch_later">Keyinroq ko‘rish</string>
+    <string name="mobile_you_liked_videos">Yoqtirilgan videolar</string>
+    <string name="mobile_no_browser">Bu havolani ochish uchun ilova topilmadi</string>
+    <string name="mobile_add_device_title">Qurilmani bog‘lash</string>
+    <string name="mobile_add_device_done">Tayyor</string>
 </resources>
