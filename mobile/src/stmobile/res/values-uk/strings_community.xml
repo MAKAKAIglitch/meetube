@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_channel_posts">Дописи</string>
+    <string name="mobile_channel_sort">Сортувати</string>
+    <string name="mobile_posts_title">Дописи: %1$s</string>
+    <string name="mobile_posts_empty">Дописів поки немає</string>
+    <string name="mobile_posts_image">Зображення допису</string>
+    <string name="mobile_posts_likes">Вподобань: %1$s</string>
+    <string name="mobile_posts_replies">Відповідей: %1$s</string>
+    <string name="mobile_posts_like">Вподобати цей допис</string>
+    <string name="mobile_posts_like_failed">Не вдалося вподобати допис. Спробуйте ще раз.</string>
+    <string name="mobile_posts_comments_read_only">Вподобання та відповіді на коментарі до дописів поки недоступні</string>
+    <string name="mobile_comments_just_now">Щойно</string>
+</resources>
