@@ -289,4 +289,28 @@
     <string name="mobile_settings_tab_motion_summary">Aýna öwüşgini bölüme tarap süýşýär, panel bolsa sähelçe yrgyldaýar. Haýal telefonlarda siz açýançaňyz öçük bolýar.</string>
     <string name="mobile_settings_tabs_reset">Paneli deslapky görnüşe getirmek</string>
     <string name="mobile_settings_tabs_reset_summary">Baş sahypa, Shorts, Gözleg, Abunalar, Siz</string>
+
+    <!-- Video layout, screen-off and mini-player translations -->
+    <string name="mobile_settings_video_layout">Wideo ýerleşişi</string>
+    <string name="mobile_settings_video_layout_cards">Kartlar</string>
+    <string name="mobile_settings_video_layout_cards_desc">Her wideo üçin uly kiçi surat</string>
+    <string name="mobile_settings_video_layout_list">Sanaw</string>
+    <string name="mobile_settings_video_layout_list_desc">Adyň gapdalynda kiçi surat, ekranda has köp wideo</string>
+    <string name="mobile_settings_screen_off">Ekran öçük wagty oýnatmagy dowam etdir</string>
+    <string name="mobile_settings_screen_off_on">Rugsat berildi: energiýa tygşytlaýjy sesi duruzmaz</string>
+    <string name="mobile_settings_screen_off_off">Energiýa tygşytlaýjy sesi duruzyp biler. MeeTube-a fonda işlemäge rugsat bermek üçin basyň</string>
+    <string name="mobile_settings_seek_thumb">Gözleg zolagynyň süýşürijisi</string>
+    <string name="mobile_settings_seek_thumb_dot">Nokat</string>
+    <string name="mobile_settings_seek_thumb_picture">Öz suratyňyz</string>
+    <string name="mobile_settings_seek_thumb_picture_desc">Telefondan surat saýlaň; GIF hereket eder</string>
+    <string name="mobile_settings_seek_thumb_failed">Bu suraty ulanmak başartmady (iň köp 5 MB)</string>
+    <string name="mobile_settings_mini_type">Kiçi pleýeriň görnüşi</string>
+    <string name="mobile_settings_mini_type_default">Deslapky</string>
+    <string name="mobile_settings_mini_type_default_desc">Ýüzýän karta. Ölçegini üýtgetmek üçin barmaklaryňyzy ýakynlaşdyryň ýa-da daşlaşdyryň</string>
+    <string name="mobile_settings_mini_type_minimal">Minimal</string>
+    <string name="mobile_settings_mini_type_minimal2">Minimal 2</string>
+    <string name="mobile_settings_mini_type_disabled">Öçük</string>
+    <string name="mobile_settings_mini_type_disabled_desc">Pleýeri aşak süýşürmek wideony kiçeltmegiň ýerine ýapýar</string>
+    <string name="mobile_settings_auto_pip">Suratyň içindäki surat</string>
+    <string name="mobile_settings_auto_pip_summary">Wideo görkezilýän wagty programmadan çykanyňyzda, ol kiçi penjire öwrülýär. Öçük bolsa, fonda diňe ses işleýär</string>
 </resources>
