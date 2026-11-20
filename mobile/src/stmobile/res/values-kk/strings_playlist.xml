@@ -24,4 +24,8 @@
     <string name="mobile_playlist_add_videos">Видео қосу</string>
     <string name="mobile_playlist_add_hint">%1$s тізіміне қосу үшін іздеңіз</string>
     <string name="mobile_playlist_loading">Плейлист жүктелуде</string>
+    <plurals name="mobile_playlist_video_count">
+        <item quantity="one">%d видео</item>
+        <item quantity="other">%d видео</item>
+    </plurals>
 </resources>
