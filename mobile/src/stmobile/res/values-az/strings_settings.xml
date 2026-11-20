@@ -389,4 +389,22 @@
     <string name="mobile_settings_caption_system">Android altyazı ayarları</string>
     <string name="mobile_settings_caption_system_summary">Sistem üslubu bu ayarlardan istifadə edir</string>
     <string name="mobile_settings_captions_note">Altyazıları aktivləşdirmək və ya dilini seçmək üçün pleyerdəki CC düyməsindən istifadə edin.</string>
+
+    <!-- SponsorBlock and DeArrow translations -->
+    <string name="mobile_settings_sponsorblock_summary">İcma tərəfindən işarələnmiş video hissələrini ötürür</string>
+    <string name="mobile_settings_sponsorblock_segments">Hissə başlayanda</string>
+    <string name="mobile_settings_segment_skip">Ötür</string>
+    <string name="mobile_settings_segment_ask_short">Soruş</string>
+    <string name="mobile_settings_segment_show">Göstər</string>
+    <string name="mobile_settings_segment_modes_note">Hissəni ötürə, düymə ilə təsdiq istəyə, yalnız irəli-geri sürüşdürmə zolağında göstərə və ya söndürə bilərsiniz.</string>
+    <string name="mobile_settings_segment_min">Bundan qısa hissələri ötürmə</string>
+    <string name="mobile_settings_segment_once">Hər hissəni yalnız bir dəfə ötür</string>
+    <string name="mobile_settings_segment_once_summary">Ötürdüyünüz hissəyə geri qayıtsanız, o hissə oxudulur</string>
+    <string name="mobile_settings_segment_alt_server_summary">Hissələr yüklənmədikdə bunu sınayın</string>
+    <string name="mobile_settings_segment_alt_server">Alternativ serverdən istifadə et</string>
+    <string name="mobile_settings_dearrow_titles">Daha yaxşı başlıqlar</string>
+    <string name="mobile_settings_dearrow_titles_summary">Klikbeyt başlıqlarını icmanın yazdığı başlıqlarla əvəz edir</string>
+    <string name="mobile_settings_dearrow_thumbnails">Daha yaxşı miniatürlər</string>
+    <string name="mobile_settings_dearrow_thumbnails_summary">Miniatürləri icmanın seçdiyi kadrlarla əvəz edir</string>
+    <string name="mobile_settings_dearrow_note">DeArrow siyahılarda gördüyünüz videoların ID-lərini alır.</string>
 </resources>
