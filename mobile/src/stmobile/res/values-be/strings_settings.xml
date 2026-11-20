@@ -429,4 +429,15 @@
     <string name="mobile_settings_live_edge_summary">Прайгравае трансляцыі як мага бліжэй да прамога эфіру, без запасу ў 15 секунд</string>
     <string name="mobile_settings_live_hls">Прайграваць прамыя трансляцыі праз HLS</string>
     <string name="mobile_settings_live_hls_summary">На павольных тэлефонах можа працаваць больш плаўна. Нельга перамотваць назад, а якасць абмежавана 1080p</string>
+
+    <!-- Player controls, queue and chapter translations -->
+    <string name="mobile_settings_player">Прайгравальнік</string>
+    <string name="mobile_settings_controls_on_next">Паказваць элементы кіравання ў наступным відэа</string>
+    <string name="mobile_settings_controls_on_next_summary">Элементы кіравання з'яўляюцца, калі пачынаецца наступнае відэа</string>
+    <string name="mobile_settings_list_queue">Прайграваць зыходны спіс</string>
+    <string name="mobile_settings_list_queue_summary">Відэа, адкрытае з плэйліста, прайграе астатнія відэа ў тым жа парадку</string>
+    <string name="mobile_settings_queue_mode">Чарга адпавядае наладзе «Калі відэа скончыцца»</string>
+    <string name="mobile_settings_queue_mode_summary">Пры прыпыненні або закрыцці прайгравальніка чарга таксама спыняецца</string>
+    <string name="mobile_settings_chapter_popup">Усплывальныя назвы раздзелаў</string>
+    <string name="mobile_settings_chapter_popup_summary">Паказвае назву кожнага раздзела ў пачатку. Націсніце, каб перайсці да наступнага</string>
 </resources>
