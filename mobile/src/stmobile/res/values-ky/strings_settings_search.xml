@@ -34,8 +34,7 @@
     <string name="mobile_settings_search_kw_backup">export import save settings камдык көчүрмө экспорт импорт сактоо калыбына келтирүү</string>
     <string name="mobile_settings_search_kw_buffer">buffering cache memory буфер кэш эс тутум</string>
     <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers dns серверлер даректер тармак байланыш</string>
-    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security https сертификаттар sertifikatlar сертификатҳо şahadatnamalar
-    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls сертификаттар коопсуздук интернет тармак байланыш</string>
     <string name="mobile_settings_search_kw_updates">update version new release notify notification жаңыртуу версия жаңы чыгарылыш билдирме</string>
     <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug ката отчет журнал лог диагностика</string>
     <string name="mobile_settings_search_kw_gesture_levels">gestures brightness volume</string>
