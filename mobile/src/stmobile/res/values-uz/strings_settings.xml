@@ -440,4 +440,18 @@
     <string name="mobile_settings_queue_mode_summary">Pauza qilinganda yoki pleyer yopilganda navbat ham to‘xtaydi</string>
     <string name="mobile_settings_chapter_popup">Boblarning qalqib chiquvchi nomlari</string>
     <string name="mobile_settings_chapter_popup_summary">Har bir bob boshlanganda uning nomini ko‘rsatadi. Keyingisiga o‘tish uchun bosing</string>
+
+    <!-- Network and account settings translations -->
+    <string name="mobile_settings_network">Tarmoq</string>
+    <string name="mobile_settings_proxy">Veb-proksi</string>
+    <string name="mobile_settings_proxy_summary">MeeTube trafikini HTTP yoki SOCKS proksi orqali yo‘naltiradi</string>
+    <string name="mobile_settings_dns">DNS</string>
+    <string name="mobile_settings_dns_ipv4">Avval IPv4</string>
+    <string name="mobile_settings_dns_ipv4_desc">Standart tanlov. IPv6 noto‘g‘ri ishlaydigan tarmoqlarda yordam beradi</string>
+    <string name="mobile_settings_dns_system">Telefon DNS’i</string>
+    <string name="mobile_settings_dns_google">Google DNS</string>
+    <string name="mobile_settings_conscrypt">Conscrypt</string>
+    <string name="mobile_settings_conscrypt_summary">Ulanishlar uchun o‘rnatilgan xavfsizlik kutubxonasi. Ayrim HTTPS/TLS ulanishlari bilan moslikni yaxshilashi mumkin.</string>
+    <string name="mobile_settings_multi_profiles">Har bir hisob uchun alohida sozlamalar</string>
+    <string name="mobile_settings_multi_profiles_summary">Har bir hisob standart qiymatlardan boshlab o‘z sozlamalarini saqlaydi</string>
 </resources>
