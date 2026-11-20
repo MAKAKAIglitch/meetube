@@ -167,4 +167,30 @@
     <string name="mobile_settings_hidden_upcoming_channels">Kanal sahifalarida yashirish</string>
     <string name="mobile_settings_hidden_live">Jonli efirlar</string>
     <string name="mobile_settings_hidden_live_subscriptions">Jonli efirlarni obunalarda yashirish</string>
+
+    <!-- Video menu and thumbnail translations -->
+    <string name="mobile_settings_video_menu">Video menyusi</string>
+    <string name="mobile_settings_video_menu_summary">⋮ menyusida nimalar ko‘rsatilishini tanlang</string>
+    <string name="mobile_settings_video_menu_note">Video yonidagi ⋮ menyusi va yorliqni bosib turganda ochiladigan menyu tarkibi. Har bir band faqat tegishli joyda ko‘rsatiladi.</string>
+    <string name="mobile_settings_menu_play">Ijro</string>
+    <string name="mobile_settings_menu_queue_add">Navbatga qo‘shish</string>
+    <string name="mobile_settings_menu_save">Saqlash</string>
+    <string name="mobile_settings_menu_recent_playlist">Oxirgi foydalanilgan pleylistga saqlash</string>
+    <string name="mobile_settings_menu_save_playlist">Pleylistni saqlash yoki olib tashlash</string>
+    <string name="mobile_settings_menu_channel">Kanal va tavsiyalar</string>
+    <string name="mobile_settings_menu_hide_subscriptions">Obunalardan yashirish</string>
+    <string name="mobile_settings_menu_share">Ulashish va tafsilotlar</string>
+    <string name="mobile_settings_menu_playlists">Pleylistlar</string>
+    <string name="mobile_settings_menu_tabs">Yorliq menyusi</string>
+    <string name="mobile_settings_menu_move_section">Yuqoriga yoki pastga ko‘chirish</string>
+    <string name="mobile_settings_menu_usual_order">Odatiy tartib</string>
+    <string name="mobile_settings_menu_usual_order_summary">Menyu bandlarini odatdagi joylariga qaytarish</string>
+    <string name="mobile_settings_menu_usual_order_done">Menyu tartibi tiklandi</string>
+    <string name="mobile_settings_thumbnails">Miniatyuralar</string>
+    <string name="mobile_settings_thumbnails_default">Videoni yuklagan kishi tanlagan miniatyura</string>
+    <string name="mobile_settings_thumbnails_start">Video boshidan olingan kadr</string>
+    <string name="mobile_settings_thumbnails_middle">Video o‘rtasidan olingan kadr</string>
+    <string name="mobile_settings_thumbnails_end">Video oxiridan olingan kadr</string>
+    <string name="mobile_settings_original_titles">Asl sarlavhalar</string>
+    <string name="mobile_settings_original_titles_summary">Sarlavhalarni YouTube tarjimasida emas, asl tilida ko‘rsatish</string>
 </resources>
