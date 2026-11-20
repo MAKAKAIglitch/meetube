@@ -358,4 +358,25 @@
     <string name="mobile_settings_dislikes_summary">Ma’lumot video ID raqamini oladigan Return YouTube Dislike xizmatidan olinadi</string>
     <string name="mobile_settings_paid_promotion">Pulli reklama haqida xabar berish</string>
     <string name="mobile_settings_paid_promotion_summary">Videoda pulli reklama borligi aytilganda qisqa xabar ko‘rsatadi</string>
+
+    <!-- Video quality, data usage and audio level translations -->
+    <string name="mobile_settings_quality_intro">Videolar boshlanadigan sifat. Alohida video uchun buni pleyer sozlamalaridan o‘zgartirishingiz mumkin.</string>
+    <string name="mobile_settings_default_quality">Standart sifat</string>
+    <string name="mobile_settings_quality_wifi">Wi-Fi orqali</string>
+    <string name="mobile_settings_quality_mobile">Mobil internet orqali</string>
+    <string name="mobile_settings_quality_same">Wi-Fi bilan bir xil</string>
+    <string name="mobile_settings_quality_shorts">Shorts</string>
+    <string name="mobile_settings_quality_both">Wi-Fi: %1$s · Mobil internet: %2$s</string>
+    <string name="mobile_settings_quality_auto">Avtomatik (%1$dp gacha)</string>
+    <string name="mobile_settings_quality_auto_desc">Tavsiya etiladi. Ulanishingiz imkon beradigan eng yaxshi sifat</string>
+    <string name="mobile_settings_quality_up_to">%1$s gacha</string>
+    <string name="mobile_settings_quality_more_data">Ko‘proq trafik sarflaydi</string>
+    <string name="mobile_settings_quality_less_data">Kamroq trafik sarflaydi</string>
+    <string name="mobile_settings_quality_data_saver">Trafikni tejaydi</string>
+    <string name="mobile_settings_hdr">HDR video</string>
+    <string name="mobile_settings_hdr_summary">HDR videolarni HDR formatida, yorqinroq va boyroq ranglar bilan ijro etadi. Ko‘proq trafik sarflaydi. Keyingi ochiladigan videoga qo‘llanadi.</string>
+    <string name="mobile_settings_loudness">Ovoz balandligini tekislash</string>
+    <string name="mobile_settings_loudness_summary">Juda baland videolar ovozini YouTube’ning odatiy darajasigacha pasaytiradi</string>
+    <string name="mobile_settings_player_volume">Pleyer ovozi</string>
+    <string name="mobile_settings_quality_data_saver_note">Android’da trafikni tejash yoqilganda, MeeTube mobil tarmoqda kamroq ma’lumotni oldindan yuklaydi.</string>
 </resources>
