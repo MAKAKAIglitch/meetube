@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Azerbaijani (az) settings search. English terms are retained as aliases. -->
+    <string name="mobile_settings_search_hint">Parametrlərdə axtarış</string>
+    <string name="mobile_settings_search_none">«%1$s» sorğusuna uyğun parametr tapılmadı</string>
+    <string name="mobile_settings_search_kw_account">sign in log in sign out google profile switch hesab daxil ol giriş çıxış profil dəyiş</string>
+    <string name="mobile_settings_search_kw_theme">dark mode light mode night appearance colors colours tünd rejim açıq rejim gecə görünüş mövzu rəng rənglər</string>
+    <string name="mobile_settings_search_kw_customize">customise personalize personalise appearance look style layout fərdiləşdirmə görünüş tərz düzən yerləşim</string>
+    <string name="mobile_settings_search_kw_country">country region ölkə region bölgə</string>
+    <string name="mobile_settings_search_kw_start_screen">launch startup opens on default tab home page başlanğıc açılış əsas ekran standart bölmə</string>
+    <string name="mobile_settings_search_kw_interface_size">ui scale zoom font text size density bigger smaller interfeys ölçüsü miqyas böyüt kiçilt şrift mətn sıxlıq</string>
+    <string name="mobile_settings_search_kw_tabs">bottom bar sections navigation explore bölmələr alt panel naviqasiya kəşf et</string>
+    <string name="mobile_settings_search_kw_hidden">hide watched filter upcoming premieres live gizlət baxılmış filtr qarşıdakı premyera canlı yayım</string>
+    <string name="mobile_settings_search_kw_video_menu">context menu three dots long press options kontekst menyu üç nöqtə uzun basma seçimlər</string>
+    <string name="mobile_settings_search_kw_channels_order">subscriptions sort channels abunəliklər kanallar çeşidləmə sıra</string>
+    <string name="mobile_settings_search_kw_watch_history">pause history incognito baxış tarixçəsi tarixçəni dayandır gizli rejim</string>
+    <string name="mobile_settings_search_kw_video_ends">autoplay repeat loop shuffle next video avtomatik oxut təkrar dövr qarışdır növbəti video</string>
+    <string name="mobile_settings_search_kw_background">background play picture in picture pip audio only minimize fonda oxut şəkil içində şəkil yalnız audio kiçilt</string>
+    <string name="mobile_settings_search_kw_natural_voice">pitch time stretching chipmunk səs tonu vaxtın uzadılması səs tembri</string>
+    <string name="mobile_settings_search_kw_audio_focus">calls notifications other apps interruptions zənglər bildirişlər digər tətbiqlər kəsilmə audio fokusu</string>
+    <string name="mobile_settings_search_kw_hide_related">suggestions related recommendations təkliflər oxşar tövsiyələr gizlət</string>
+    <string name="mobile_settings_search_kw_dislikes">return youtube dislike ryd bəyənməmələr bəyənmədim sayı qiymətləndirmə</string>
+    <string name="mobile_settings_search_kw_home_layout">rows shelves carousel feed grid smarttube əsas səhifə düzən lent sətirlər karusel tor</string>
+    <string name="mobile_settings_search_kw_app_icon">launcher logo home screen old classic fantasy white glass heart ruby play dark blaze fire tətbiq nişanı ikon başlatma loqo əsas ekran klassik ağ şüşə ürək yaqut oynat od</string>
+    <string name="mobile_settings_search_kw_quality">resolution 4k 1080p 720p hd data saver mobile data təsvir ölçüsü keyfiyyət trafikə qənaət mobil internet</string>
+    <string name="mobile_settings_search_kw_loudness">volume normalization auto volume quiet loud səs səviyyəsi normallaşdırma avtomatik səssiz gur</string>
+    <string name="mobile_settings_search_kw_player_volume">quiet loud sound boost gain amplify 125 150 175 200 pleyer səs gücləndirmə səsi artır</string>
+    <string name="mobile_settings_search_kw_captions">subtitles cc closed captions subtitrlər altyazılar</string>
+    <string name="mobile_settings_search_kw_sponsorblock">skip sponsors ads segments intros sponsor reklam bölmələr giriş burax ötür</string>
+    <string name="mobile_settings_search_kw_dearrow">clickbait titles thumbnails klikbeyt başlıqlar kiçik şəkillər üz qabığı</string>
+    <string name="mobile_settings_search_kw_backup">export import save settings ehtiyat nüsxə ixrac idxal saxla parametrləri bərpa et</string>
+    <string name="mobile_settings_search_kw_buffer">buffering cache memory bufer keş yaddaş</string>
+    <string name="mobile_settings_search_kw_dns">dns ipv4 ipv6 servers serverlər ünvanlar internet şəbəkə bağlantı</string>
+    <string name="mobile_settings_search_kw_conscrypt">ssl tls certificates security censorship blocked byebyedpi vpn https sertifikatlar təhlükəsizlik bloklama bloklanıb məhdudiyyət keçid bağlantı</string>
+    <string name="mobile_settings_search_kw_multi_profiles">profiles per account own different profillər hər hesab üçün ayrıca fərqli</string>
+    <string name="mobile_settings_search_kw_updates">update version new release notify notification yeniləmə versiya yeni buraxılış xəbərdarlıq bildiriş</string>
+    <string name="mobile_settings_search_kw_diagnostic_log">bug report logs debug xəta hesabat jurnal log diaqnostika sazlama</string>
+    <string name="mobile_settings_search_kw_gesture_levels">gestures brightness volume jestlər parlaqlıq səs səviyyəsi</string>
+    <string name="mobile_settings_search_kw_gesture_seek">gestures scrub skip forward rewind jestlər axtarış irəli geri sarı burax</string>
+    <string name="mobile_settings_search_kw_double_tap_seek">double tap seek skip forward rewind seconds jump interval iki dəfə toxun axtar irəli geri saniyə interval</string>
+    <string name="mobile_settings_search_kw_loader">loader loading spinner progress neon frosted glass cookie liquid ring orb blob orbit yükləmə indikator irəliləyiş neon buzlu şüşə halqa kürə fırlanma</string>
+    <string name="mobile_settings_search_kw_badge_icons">mix music note icon symbol pill badge duration time miks musiqi not nişan ikon etiket müddət vaxt</string>
+    <string name="mobile_settings_search_kw_seek_pill">double tap skip seek forward rewind 10 seconds animation ripple pill iki dəfə toxun burax irəli geri 10 saniyə animasiya dalğa etiket</string>
+    <string name="mobile_settings_search_kw_watched_bar">watched progress red line bar history seen thumbnail baxılıb irəliləyiş qırmızı xətt zolaq tarixçə kiçik şəkil</string>
+    <string name="mobile_settings_search_kw_home_cast">cast button top bar hide show tv chromecast yayım düymə üst panel gizlət göstər televizor ekran</string>
+    <string name="mobile_settings_search_kw_home_chips">chips topics categories filters home hide show feed recommendations mövzular kateqoriyalar filtrlər əsas səhifə lent tövsiyələr göstər gizlət</string>
+    <string name="mobile_settings_search_kw_haptics">haptics vibration vibrate buzz tick feedback touch off vibrasiya toxunma rəyi toxunuş basma söndür</string>
+    <string name="mobile_settings_search_kw_refresh_sound">refresh sound pop audio pull swipe noise mute yenilə səs klik audio dart sürüşdür səs-küy səssiz</string>
+    <string name="mobile_settings_search_kw_short_ends">shorts loop repeat autoscroll auto scroll next swipe shorts qısa videolar dövr təkrar avtomatik sürüşdür növbəti</string>
+    <string name="mobile_settings_search_kw_stable_volume">stable volume drc compression dynamic range audio loud quiet sabit səs sıxılma dinamik diapazon gur səssiz</string>
+    <string name="mobile_settings_search_kw_equalizer">equalizer eq audio bass treble frequencies bands presets custom sound ekvalayzer səs bas yüksək tezliklər zolaqlar hazır ayarlar xüsusi</string>
+    <string name="mobile_settings_search_web_signin">chat google login cookies account session send message sign in web youtube browser çat google giriş cookie hesab sessiya mesaj göndər veb brauzer</string>
+</resources>
