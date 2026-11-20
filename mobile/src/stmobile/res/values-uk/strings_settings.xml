@@ -313,4 +313,29 @@
     <string name="mobile_settings_mini_type_disabled_desc">Якщо потягнути плеєр униз, відео закриється, а не згорнеться</string>
     <string name="mobile_settings_auto_pip">Картинка в картинці</string>
     <string name="mobile_settings_auto_pip_summary">Якщо вийти із застосунку під час відтворення, відео згорнеться в маленьке вікно. Якщо вимкнути, у фоні продовжить відтворюватися лише звук</string>
+
+    <!-- Video-end and playback-speed translations -->
+    <string name="mobile_settings_video_ends">Коли відео завершиться</string>
+    <string name="mobile_settings_video_ends_next">Відтворити наступне відео</string>
+    <string name="mobile_settings_video_ends_repeat">Повторити відео</string>
+    <string name="mobile_settings_video_ends_shuffle">Перемішати плейлист</string>
+    <string name="mobile_settings_video_ends_list">Додивитися плейлист і зупинитися</string>
+    <string name="mobile_settings_video_ends_reverse">Відтворювати плейлист у зворотному порядку</string>
+    <string name="mobile_settings_video_ends_pause">Зупинити</string>
+    <string name="mobile_settings_video_ends_close">Закрити плеєр</string>
+    <string name="mobile_settings_background">Під час виходу із застосунку</string>
+    <string name="mobile_settings_background_pip_desc">Відео продовжить відтворюватися в маленькому вікні</string>
+    <string name="mobile_settings_background_audio_desc">Продовжить відтворюватися лише звук</string>
+    <string name="mobile_settings_remember_speed">Запам’ятовувати швидкість відтворення</string>
+    <string name="mobile_settings_remember_speed_channel">Для кожного каналу</string>
+    <string name="mobile_settings_remember_speed_video">Для кожного відео</string>
+    <string name="mobile_settings_remember_speed_all">Однакова для всіх відео</string>
+    <string name="mobile_settings_remember_speed_none">Не запам’ятовувати</string>
+    <string name="mobile_settings_remember_speed_none_desc">Під час кожного запуску MeeTube швидкість скидається до 1×</string>
+    <string name="mobile_settings_speed_list">Швидкості в розділі «Інші швидкості»</string>
+    <string name="mobile_settings_speed_list_basic">Короткий список</string>
+    <string name="mobile_settings_speed_list_fine">Точні кроки</string>
+    <string name="mobile_settings_speed_list_finest">Крок 0,05×</string>
+    <string name="mobile_settings_natural_voice">Природний голос на інших швидкостях</string>
+    <string name="mobile_settings_natural_voice_summary">Зберігає звичайну висоту голосу під час прискорення або сповільнення</string>
 </resources>
