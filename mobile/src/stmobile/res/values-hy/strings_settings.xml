@@ -132,4 +132,23 @@
     <string name="mobile_settings_tabs_you">Դուք</string>
     <string name="mobile_settings_tabs_none">Ոչ մեկը</string>
     <string name="mobile_settings_tabs_bar_note">Վահանակի տարրերի հերթականությունը փոխելու համար քաշեք դրանք բռնակից կամ պահեք սեղմած։ «Որոնում»-ը քաշեք վերև՝ այն վերևի վահանակ տեղափոխելու համար։ Հպեք ներդիրին՝ դրա ցուցադրած բովանդակությունը փոխելու համար։</string>
+
+    <!-- Tab bar and navigation translations -->
+    <string name="mobile_settings_bar_top">Վերին վահանակ</string>
+    <string name="mobile_settings_bar_tab">Ներդիր</string>
+    <string name="mobile_settings_bar_tab_summary">Հպեք՝ փոխելու համար</string>
+    <string name="mobile_settings_bar_empty">Դատարկ է</string>
+    <string name="mobile_settings_bar_empty_summary">Հպեք՝ ներդիր ընտրելու համար</string>
+    <string name="mobile_settings_bar_first">Միշտ առաջինը</string>
+    <string name="mobile_settings_bar_home_summary">Միշտ առաջինը։ Հպեք՝ հեռացնելու համար</string>
+    <string name="mobile_settings_bar_home_shown">Ցուցադրվում է</string>
+    <string name="mobile_settings_bar_home_removed">Հեռացված է</string>
+    <string name="mobile_settings_bar_home_removed_desc">Առաջարկությունների հոսք չկա․ հավելվածը բացվում է առաջին ներդիրով</string>
+    <string name="mobile_settings_bar_last">Միշտ վերջինը</string>
+    <string name="mobile_settings_bar_search_up">Քաշեք վերև՝ վերին վահանակ տեղափոխելու համար</string>
+    <string name="mobile_settings_bar_search_down">Քաշեք ներքև՝ ստորին վահանակ վերադարձնելու համար</string>
+    <string name="mobile_settings_search_place">Որոնում</string>
+    <string name="mobile_settings_search_place_bottom">Ներքևի վահանակում</string>
+    <string name="mobile_settings_search_place_top">Վերին վահանակում</string>
+    <string name="mobile_settings_tabs_note">«Դուք» բաժնի ներդիրը կամ տողը տեղափոխելու, վերանվանելու կամ թաքցնելու համար սեղմած պահեք այն։</string>
 </resources>
